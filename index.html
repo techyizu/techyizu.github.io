@@ -13,7 +13,7 @@
   <script src="/bower_components/webcomponentsjs/webcomponents.js">
   </script>
 
-  <link rel="import" href="/custom_components/font-roboto/roboto.html">
+  <link href="/custom_components/font-roboto/roboto.css" rel="stylesheet" type="text/css">
   <link rel="import" href="/bower_components/core-scroll-header-panel/core-scroll-header-panel.html">
   <link rel="import" href="/bower_components/core-toolbar/core-toolbar.html">
   <link rel="import" href="/bower_components/paper-tabs/paper-tabs.html">
@@ -25,7 +25,8 @@
     height: 100%;
     margin: 0;
     background-color: #E5E5E5;
-    font-family: 'RobotoDraft', sans-serif;
+    font-family: "RobotoDraft",sans-serif;
+    color: rgba(0,0,0,.87);
   }
   .container {
     width: 80%;
@@ -64,8 +65,33 @@
     text-transform: uppercase;
   }
   .content {
-    max-width: 1080px;
+    max-width: 80%;
     margin: 0 auto;
+    width: 100%;
+    padding: 0 10px;
+  }
+  .promoted {
+    background: white;
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.16);
+    padding: 20px 30px;
+    margin-top: 20px;
+    border-radius: 3px;
+  }
+  .promoted h1 {
+    font-weight: lighter;
+    font-size: 112px;
+    margin: 0;
+  }
+  .promoted p {
+    font-size: 24px;
+    font-weight: lighter;
+  }
+  a:link, a:visited {
+    color: black;
+    font-weight: normal;
+  }
+  a:hover {
+    text-decoration: none;
   }
   /* background for toolbar when it is at its full size */
   core-scroll-header-panel::shadow #headerBg {
@@ -96,14 +122,14 @@
       </paper-tabs>
     </core-toolbar>
     <div class="content">
-      <div>
+      <div class="promoted">
         <h1>Welcome!</h1>
         <div>
           <p>Our next event:</p><br>
           <a href="#"><img src="http://www.techyizu.org/wp-content/uploads/2014/10/barcamp2014-10-email-banner.jpg"></a>
         </div>
-        <div>Learn more: <a href="#">Barcamp Fall 2014</a></div>
-        <div>Location: November 8 @ NYU Shanghai</div>
+        <p>Learn more: <a href="#">Barcamp Fall 2014</a></p>
+        <p>Date & Location: November 8 @ NYU Shanghai</p>
       </div>
       <front-cards></front-cards>
 
