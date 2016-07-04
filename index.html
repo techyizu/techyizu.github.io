@@ -1,153 +1,72 @@
+<!--
+@license
+Copyright (c) 2016 The Polymer Project Authors. All rights reserved.
+This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+Code distributed by Google as part of the polymer project is also
+subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+-->
+
 <!doctype html>
-<html>
-<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
-<meta content="utf-8" http-equiv="encoding">
-
+<html lang="en">
 <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
 
-  <title>Techyizu | Connecting Shanghai's Startup and Tech Community</title>
+  <title>My App</title>
 
-  <meta name="viewport" 
-  content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
+  <link rel="shortcut icon" sizes="32x32" href="/images/app-icon-32.png">
 
-  <script src="/bower_components/webcomponentsjs/webcomponents.js">
+  <meta name="theme-color" content="#fff">
+  <link rel="manifest" href="/manifest.json">
+
+  <script>
+
+    // setup Polymer options
+    window.Polymer = {lazyRegister: true, dom: 'shadow'};
+
+    // load webcomponents polyfills
+    (function() {
+      if ('registerElement' in document
+          && 'import' in document.createElement('link')
+          && 'content' in document.createElement('template')) {
+        // browser has web components
+      } else {
+        // polyfill web components
+        var e = document.createElement('script');
+        e.src = '/bower_components/webcomponentsjs/webcomponents-lite.min.js';
+        document.head.appendChild(e);
+      }
+    })();
+
+    // load pre-caching service worker
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function() {
+        navigator.serviceWorker.register('/service-worker.js');
+      });
+    }
+
   </script>
 
-  <link href="/custom_components/font-roboto/roboto.css" rel="stylesheet" type="text/css">
-  <link rel="import" href="/bower_components/core-scroll-header-panel/core-scroll-header-panel.html">
-  <link rel="import" href="/bower_components/core-toolbar/core-toolbar.html">
-  <link rel="import" href="/bower_components/paper-tabs/paper-tabs.html">
-  <link rel="import" href="/bower_components/paper-icon-button/paper-icon-button.html">
-  <link rel="import" href="/custom_components/front-cards/front-cards.html">
+  <link rel="import" href="/src/my-app.html">
 
-  <style shim-shadowdom>
-  html,body {
-    height: 100%;
-    margin: 0;
-    background-color: #E5E5E5;
-    font-family: "RobotoDraft",sans-serif;
-    color: rgba(0,0,0,.87);
-  }
-  .container {
-    width: 80%;
-    margin: 50px auto;
-  }
-  @media (min-width: 481px) {
-    #tabs {
-      width: 200px;
+  <style>
+
+    body {
+      margin: 0;
+      font-family: 'Roboto', 'Noto', sans-serif;
+      line-height: 1.5;
+      min-height: 100vh;
+      background-color: #eee;
     }
-    .container {
-      width: 400px;
-    }
-  }
-  core-scroll-header-panel {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-color: #eee;
-  }
-  core-toolbar {
-    color: #f1f1f1;
-    fill: #f1f1f1;
-    background-color: transparent;
-  }
-  #tabs {
-    width: 100%;
-    max-width: 1080px;
-    margin: 0 auto;
-    background: rgba(0,0,0,0.2);
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    text-transform: uppercase;
-  }
-  .content {
-    max-width: 80%;
-    margin: 0 auto;
-    width: 100%;
-    padding: 0 10px;
-  }
-  .promoted {
-    background: white;
-    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.16);
-    padding: 20px 30px;
-    margin-top: 20px;
-    border-radius: 3px;
-  }
-  .promoted h1 {
-    font-weight: lighter;
-    font-size: 112px;
-    margin: 0;
-  }
-  .promoted p {
-    font-size: 24px;
-    font-weight: lighter;
-  }
-  a:link, a:visited {
-    color: black;
-    font-weight: normal;
-  }
-  a:hover {
-    text-decoration: none;
-  }
-  /* background for toolbar when it is at its full size */
-  core-scroll-header-panel::shadow #headerBg {
-    background: url(images/techyizu_header_bg.jpg) -200px 0;
-  }
-  /* background for toolbar when it is condensed */
-  core-scroll-header-panel::shadow #condensedHeaderBg {
-    background-color: #222;
-  }
-  core-toolbar div.title {
-    font-size: 45px;
-  }
+
   </style>
 
 </head>
+<body>
 
-<body fullbleed layout vertical unresolved>
-  <core-scroll-header-panel condenses>
-    <core-toolbar class="tall">
-      <div flex></div>
-      <paper-icon-button icon="search" on-click="{{ toggleSearch }}"></paper-icon-button>
-      <div class="middle indent title">Techyizu</div>
-      <div flex class="middle" style="font-size: 14px;">Connecting Shanghai's Startup and Tech Community</div>
-      <paper-tabs id="tabs" selected="home" class="bottom" self-end>
-        <paper-tab name="home">Home / 首页</paper-tab>
-        <paper-tab name="sponsors">Sponsors / 赞助组织</paper-tab>
-        <paper-tab name="about">About Us / 关于我们</paper-tab>
-      </paper-tabs>
-    </core-toolbar>
-    <div class="content">
-      <div class="promoted">
-        <h1>Welcome!</h1>
-        <div>
-          <p>Our next event:</p><br>
-          <a href="#"><img src="http://www.techyizu.org/wp-content/uploads/2014/10/barcamp2014-10-email-banner.jpg"></a>
-        </div>
-        <p>Learn more: <a href="#">Barcamp Fall 2014</a></p>
-        <p>Date & Location: November 8 @ NYU Shanghai</p>
-      </div>
-      <front-cards></front-cards>
+  <my-app></my-app>
 
-    </div>
-  </core-scroll-header-panel>
-
-  <script>
-    // custom transformation: scale header's title
-    var titleStyle = document.querySelector('.title').style;
-    addEventListener('core-header-transform', function(e) {
-      var d = e.detail;
-      var m = d.height - d.condensedHeight;
-      var scale = Math.max(0.75, (m - d.y) / (m / 0.25)  + 0.75);
-      titleStyle.transform = titleStyle.webkitTransform =
-          'scale(' + scale + ') translateZ(0)';
-    });
-
-  </script>
 </body>
-
 </html>
