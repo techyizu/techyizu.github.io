@@ -12,6 +12,10 @@
 <link rel="import" href="../bower_components/paper-tabs/paper-tabs.html">
 <link rel="import" href="../bower_components/iron-pages/iron-pages.html">
 <link rel="import" href="../bower_components/iron-selector/iron-selector.html">
+<link rel="import" href="../bower_components/iron-flex-layout/iron-flex-layout.html">
+<link rel="import" href="../bower_components/neon-animation/neon-animations.html">
+<link rel="import" href="../bower_components/neon-animation/neon-animatable-behavior.html">
+<link rel="import" href="../bower_components/neon-animation/neon-animation-runner-behavior.html">
 <link rel="import" href="my-icons.html">
 
 <dom-module id="my-app">
@@ -50,8 +54,12 @@
         };
       }
       paper-toolbar {
+        display: none;
         background-color: transparent;
+        display: block;
         overflow: visible;
+        z-index: 1;
+        @apply(--shadow-elevation-2dp);
       }
       paper-icon-button {
         margin: 0 8px;
@@ -77,16 +85,19 @@
         font-size: 20px;
         padding-bottom: 10px;
       }
+      .title {
+        font-size: 45px;
+      }
       .subtitle {
         padding-top: 4px;
         font-size: 16px;
         color: #ccc;
       }
-      .content {
-        max-width: 80%;
-        margin: 0 auto;
+      .content,
+      iron-pages {
         width: 100%;
-        padding: 0 10px;
+        height: 100%;
+        position: relative;
       }
       .indent {
         margin-left: 60px;
@@ -110,15 +121,12 @@
         tail="{{subroute}}"></app-route>
 
     <!-- `keepCondensedHeader` makes the condensed header to not scroll away -->
-    <paper-scroll-header-panel condenses keep-condensed-header header-height="256" condensed-header-height="140">
+    <paper-scroll-header-panel  condenses keep-condensed-header condensed-header-height="68">
 
-      <paper-toolbar>
+      <paper-toolbar id="toolbar">
 
-        <paper-icon-button icon="arrow-back"></paper-icon-button>
         <div class="spacer"></div>
-        <paper-icon-button icon="thumb-up"></paper-icon-button>
-        <paper-icon-button icon="mail"></paper-icon-button>
-        <div class="middle indent bottom-text" self-end>
+        <div class="middle indent bottom-text">
           <div class="title">Techyizu</div>
           <div class="subtitle">Connecting Shanghai's Startup and Tech Community</div>
         </div>
@@ -138,7 +146,7 @@
 
       <div class="content">
         <iron-pages role="main" selected="[[page]]" attr-for-selected="name">
-          <my-home name="home"></my-home>
+          <my-home name="home" id="grid"></my-home>
           <my-sponsors name="sponsors"></my-sponsors>
           <my-about name="about"></my-about>
         </iron-pages>
@@ -154,6 +162,11 @@
 
       is: 'my-app',
 
+      behaviors: [
+        Polymer.NeonAnimatableBehavior,
+        Polymer.NeonAnimationRunnerBehavior
+      ],
+
       properties: {
 
         page: {
@@ -161,6 +174,21 @@
           reflectToAttribute: true,
           observer: '_pageChanged'
         },
+
+        animationConfig: {
+          type: Object,
+          value: function() {
+            return {
+              'entry': [{
+                name: 'slide-from-top-animation',
+                node: this.$.toolbar
+              }, {
+                animatable: this.$.grid,
+                type: 'entry'
+              }]
+            };
+          }
+        }
 
       },
 
@@ -176,6 +204,11 @@
         // load page import on demand.
         this.importHref(
           this.resolveUrl('my-' + page + '.html'), null, null, true);
+      },
+
+      show: function() {
+        this.style.visibility = 'visible';
+        this.playAnimation('entry');
       }
 
     });
