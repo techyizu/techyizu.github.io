@@ -1,9 +1,13 @@
 <link rel="import" href="../bower_components/polymer/polymer.html">
 <link rel="import" href="../bower_components/iron-flex-layout/iron-flex-layout.html">
+<link rel="import" href="../bower_components/neon-animation/neon-animation.html">
+<link rel="import" href="../bower_components/neon-animation/neon-animatable.html">
 <link rel="import" href="../bower_components/neon-animation/neon-shared-element-animatable-behavior.html">
+<link rel="import" href="../bower_components/neon-animation/neon-animation-runner-behavior.html">
+<link rel="import" href="../bower_components/neon-animation/demo/shared-styles.html">
+<link rel="import" href="../bower_components/neon-animation/animations/cascaded-animation.html">
 <link rel="import" href="../bower_components/paper-styles/typography.html">
 <link rel="import" href="../bower_components/paper-styles/color.html">
-<link rel="import" href="../bower_components/neon-animation/demo/shared-styles.html">
 
 <dom-module id="my-home">
   <template>
@@ -69,7 +73,8 @@
   Polymer({
     is: 'my-home',
     behaviors: [
-      Polymer.NeonSharedElementAnimatableBehavior
+      Polymer.NeonSharedElementAnimatableBehavior,
+      Polymer.NeonAnimationRunnerBehavior
     ],
     properties: {
       config: {
@@ -106,14 +111,23 @@
         }
       }
     },
+
     attached: function() {
+      console.log("attached");
       this.async(function() {
         var nodeList = Polymer.dom(this.root).querySelectorAll('.tile');
         this.animationConfig['entry'][0].nodes = Array.prototype.slice.call(nodeList);
+        this.playAnimation('entry');
       });
     },
+
+    detached: function() {
+      console.log("detached");
+    },
+
     _computeTileClass: function(color) {
       return 'tile ' + color + '-300';
-    }
+    },
+
   });
 </script>
