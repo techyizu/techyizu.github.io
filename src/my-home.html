@@ -19,6 +19,7 @@
         height: 100%;
       }
       .tile {
+        position: relative;
         display: inline-block;
         float: left;
         vertical-align: top;
@@ -35,33 +36,80 @@
       .tile:nth-of-type(4) {
         width: calc(100% / 3);
       }
-      .tile:nth-of-type(5) {
+      .tile:nth-of-type(5),
+      .tile:nth-of-type(12) {
         width: calc(100% / 3);
-        height: calc(100% / 3 * 2);
       }
       .tile:nth-of-type(8) {
         width: calc(100% / 3);
         height: calc(100% / 3);
       }
-      .tile:nth-of-type(9) {
+      .tile:nth-of-type(8) {
         position: absolute;
         top: calc(100% / 3 * 2);
         left: 0;
         width: calc(100% / 6);
         height: calc(100% / 3);
       }
-      .tile:nth-of-type(10) {
+      .tile:nth-of-type(9) {
         position: absolute;
         top: calc(100% / 3 * 2);
         left: calc(100% / 6);;
         width: calc(100% / 6);
         height: calc(100% / 3);
       }
+      .tile:nth-of-type(10) {
+        position: absolute;
+        top: calc(100% / 3 * 2);
+        left: calc(100% / 6 * 2);;
+      }
+      .tile:nth-of-type(11) {
+        position: absolute;
+        top: calc(100% / 3 * 2);
+        left: calc(100% / 6 * 3);;
+      }
+      .tile:nth-of-type(12) {
+        position: absolute;
+        top: calc(100% / 3 * 2);
+        left: calc(100% / 6 * 4);;
+      }
+      .chip-top {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+      }
+      .chip-bottom {
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        z-index: 10;
+        background-color: rgba(0, 0, 0, .4);
+      }
+      .chip-date {
+        padding: 0 10px;
+        color: white;
+        overflow: hidden;
+        font-size: 80%;
+      }
+      .chip-title {
+        padding: 0 10px;
+        color: white;
+        clear: both;
+        display: inline-block;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+
     </style>
 
     <template is="dom-repeat" items="[[config]]">
       <div class$="[[_computeTileClass(item.color)]]">
-        <span>[[item.value]]</span>
+        <div class="chip-top" style="background:url(/custom_components/front-cards/[[item.pic]]) no-repeat;background-size:100%;"></div>
+        <div class="chip-bottom">
+          <div class="chip-title">[[item.title]]</div>
+          <div class="chip-date">[[item.date]]</div>
+        </div>
+        <span>[[item.title]]</span>
       </div>
     </template>
 
@@ -81,16 +129,22 @@
         type: Array,
         value: function() {
           return [
-            {value: 1, color: 'blue'},
-            {value: 2, color: 'red'},
-            {value: 3, color: 'blue'},
-            {value: 4, color: 'green'},
-            {value: 5, color: 'yellow'},
-            {value: 6, color: 'blue'},
-            {value: 7, color: 'red'},
-            {value: 8, color: 'green'},
-            {value: 9, color: 'yellow'},
-            {value: 10, color: 'red'}
+            { date: '2014-09-01', title: 'Recap: Fail Faster 2014', color: 'blue', pic: '14905194900_e72472c10b_z.jpg' },
+            { date: '2014-07-01', title: 'Recap: Designing Shanghai 2014', color: 'red', pic: '14999355598_2b54143d19_c.jpg' },
+            { date: '2014-04-12', title: 'Recap: Shanghai BarCamp Spring 2014', color: 'blue', pic: '13554751685_3a2e350a68_z.jpg' },
+            { date: '2013-11-01', title: 'Recap: Shanghai BarCamp Fall 2013', color: 'green', pic: 'barcamp_fall_2013.jpg' },
+            { date: '2013-07-16', title: 'Recap: Designing Shanghai 2013', color: 'yellow', pic: '9326576610_8d4dbbfbdf_z.jpg' },
+            { date: '2013-04-13', title: 'Recap: Shanghai BarCamp Spring 2013', color: 'blue', pic: '8600539450_24182723bc_c.jpg' },
+            { date: '2013-04-13', title: 'Recap: Hackyizu – Techyizu’s first Hackathon', color: 'yellow', pic: 'hackyizu_picture_2013.jpg' },
+            { date: '2012-11-20', title: 'Recap: Techyizu Demo Day 2012 powered by SPD Silicon Valley Bank', color: 'red', pic: 'IMG_8586.jpg' },
+            { date: '2012-09-18', title: 'Recap: Shanghai BarCamp Fall 2012', color: 'yellow', pic: 'DLNG6133.jpg' },
+            { date: '2012-07-02', title: 'Recap: Day 2 – Lean Startup Machine Shanghai 2012', color: 'green', pic: 'DLNG6009.jpg' },
+            { date: '2012-07-01', title: 'Recap: Day 1 – Lean Startup Machine Shanghai 2012', color: 'blue', pic: 'DLNG5624.jpg' },
+            { date: '2012-06-30', title: 'Recap: Kick Off! – Lean Startup Machine Shanghai 2012', color: 'red', pic: 'DLNG5180.jpg' },
+            { date: '2012-06-07', title: 'Recap: Lean Startup Warmup 2012', color: '#444', pic: 'IMG_2681.jpg' },
+            { date: '2012-06-26', title: 'Recap: Designing Shanghai 2012', color: '#444', pic: 'techyizu-designing-shanghai-uxday-2012.jpeg' },
+            { date: '2012-04-19', title: 'Recap: Barcamp Shanghai Spring 2012', color: '#444', pic: '6987101795_9d610f4d0c_c.jpg' },
+            { date: '2011-12-19', title: 'Recap: Designing Shanghai 2011', color: '#444', pic: '6330860622_c9fcfaa127_b.jpg' },
           ]
         }
       },
