@@ -1,5 +1,8 @@
 <link rel="import" href="../bower_components/polymer/polymer.html">
 <link rel="import" href="../bower_components/iron-ajax/iron-ajax.html">
+<link rel="import" href="../bower_components/marked-element/marked-element.html">
+<link rel="import" href="../bower_components/app-route/app-location.html">
+<link rel="import" href="../bower_components/app-route/app-route.html">
 
 <dom-module id="my-event">
 
@@ -9,9 +12,22 @@
       :host {
         display: block;
         padding: 16px;
+        max-width: 1024px;
+        margin: 0 auto;
       }
     </style>
-    <h1>Event Page View</h1>
+    <app-location route="{{route}}"></app-location>
+    <app-route
+        route="{{route}}"
+        pattern="/event/:name"
+        data="{{routeData}}"
+        tail="{{subroute}}"></app-route>
+
+    <iron-ajax url="/data/{{routeData.name}}.md" handle-as="text" last-response="{{body}}" auto></iron-ajax>
+    <h1>{{routeData.name}}</h1>
+    <marked-element markdown="[[body]]">
+      <div class="markdown-html"></div>
+    </marked-element>
   </template>
 
   <!-- Creates the element's prototype and registers it -->
@@ -19,7 +35,10 @@
     Polymer({
       is: 'my-event',
       properties: {
-        route: Object
+        route: Object,
+        body: {
+          type: String,
+        },
       }
     });
   </script>
