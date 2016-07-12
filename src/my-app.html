@@ -139,10 +139,10 @@
             <a href="/home" class="link" tabindex="-1">Home / 首页</a>
           </paper-tab>
           <paper-tab link>
-            <a href="/sponsors" class="link" tabindex="-1">Sponsors / 赞助组织</a>
+            <a href="/page/sponsors" class="link" tabindex="-1">Sponsors / 赞助组织</a>
           </paper-tab>
           <paper-tab link>
-            <a href="/about" class="link" tabindex="-1">About Us / 关于我们</a>
+            <a href="/page/about" class="link" tabindex="-1">About Us / 关于我们</a>
           </paper-tab>
         </paper-tabs>
 
@@ -151,9 +151,8 @@
       <div class="content">
         <iron-pages role="main" selected="[[page]]" attr-for-selected="name">
           <my-home name="home" id="grid"></my-home>
-          <my-sponsors name="sponsors"></my-sponsors>
-          <my-about name="about"></my-about>
           <my-event name="event"></my-event>
+          <my-event name="page"></my-event>
         </iron-pages>
       </div>
 
@@ -207,10 +206,12 @@
       },
 
       _pageChanged: function(page) {
+        // page is a sudo path for event; we might create a new template in the future
+        if (page == 'page') page = 'event';
+
         // load page import on demand.
         this.importHref(
           this.resolveUrl('my-' + page + '.html'), null, null, true);
-          this.playAnimation('child');
       },
 
       ready: function() {

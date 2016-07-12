@@ -19,12 +19,11 @@
     <app-location route="{{route}}"></app-location>
     <app-route
         route="{{route}}"
-        pattern="/event/:name"
+        pattern="/:type/:name"
         data="{{routeData}}"
         tail="{{subroute}}"></app-route>
 
-    <iron-ajax url="/data/{{routeData.name}}.md" handle-as="text" last-response="{{body}}" auto></iron-ajax>
-    <h1>{{routeData.name}}</h1>
+    <iron-ajax url="/{{routeData.type}}s/{{routeData.name}}.md" handle-as="text" last-response="{{body}}" auto></iron-ajax>
     <marked-element markdown="[[body]]">
       <div class="markdown-html"></div>
     </marked-element>

@@ -1,0 +1,14 @@
+[
+  { "date": "2014-09-01", "title": "Recap: Fail Faster 2014", "color": "blue", "pic": "14905194900_e72472c10b_z.jpg", "url" : "recap-fail-faster-2014" },
+  { "date": "2014-07-01", "title": "Recap: Designing Shanghai 2014", "color": "red", "pic": "14999355598_2b54143d19_c.jpg", "url" : "recap-designing-shanghai-2014" },
+  { "date": "2014-04-12", "title": "Recap: Shanghai BarCamp Spring 2014", "color": "blue", "pic": "13554751685_3a2e350a68_z.jpg", "url" : "recap-Shanghai-barcamp-spring-2014" },
+  { "date": "2013-11-01", "title": "Recap: Shanghai BarCamp Fall 2013", "color": "green", "pic": "barcamp_fall_2013.jpg", "url" : "recap-shanghai-barcamp-fall-2013" },
+  { "date": "2013-07-16", "title": "Recap: Designing Shanghai 2013", "color": "yellow", "pic": "9326576610_8d4dbbfbdf_z.jpg", "url" : "recap-designing-shanghai-2013" },
+  { "date": "2013-04-13", "title": "Recap: Shanghai BarCamp Spring 2013", "color": "blue", "pic": "8600539450_24182723bc_c.jpg", "url" : "recap-shanghai-barcamp-spring-2013" },
+  { "date": "2013-04-13", "title": "Recap: Hackyizu – Techyizu’s first Hackathon", "color": "yellow", "pic": "hackyizu_picture_2013.jpg", "url" : "recap-hackyizu-techyizus-first-hackathon" },
+  { "date": "2012-11-20", "title": "Recap: Techyizu Demo Day 2012 powered by SPD Silicon Valley Bank", "color": "red", "pic": "IMG_8586.jpg", "url" : "recap-techyizu-demo-day-2012-powered-spd-silicon-valley-bank" },
+  { "date": "2012-09-18", "title": "Recap: Shanghai BarCamp Fall 2012", "color": "yellow", "pic": "DLNG6133.jpg", "url" : "recap-shanghai-barcamp-fall-2012" },
+  { "date": "2012-07-02", "title": "Recap: Day 2 – Lean Startup Machine Shanghai 2012", "color": "green", "pic": "DLNG6009.jpg", "url" : "recap-day-2-lean-startup-machine-shanghai-2012" },
+  { "date": "2012-07-01", "title": "Recap: Day 1 – Lean Startup Machine Shanghai 2012", "color": "blue", "pic": "DLNG5624.jpg", "url" : "recap-day-1-lean-startup-machine-shanghai-2012" },
+  { "date": "2012-06-30", "title": "Recap: Kick Off! – Lean Startup Machine Shanghai 2012", "color": "red", "pic": "DLNG5180.jpg", "url" : "recap-kick-off-lean-startup-machine-shanghai-2012" }
+]
