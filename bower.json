@@ -19,7 +19,8 @@
     "paper-scroll-header-panel": "PolymerElements/paper-scroll-header-panel#^1.0.15",
     "paper-tabs": "PolymerElements/paper-tabs#^1.6.2",
     "neon-animation": "PolymerElements/neon-animation#^1.2.3",
-    "paper-styles": "PolymerElements/paper-styles#^1.1.4"
+    "paper-styles": "PolymerElements/paper-styles#^1.1.4",
+    "iron-ajax": "PolymerElements/iron-ajax#^1.2.1"
   },
   "devDependencies": {
     "web-component-tester": "^4.0.0"
