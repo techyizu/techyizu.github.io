@@ -1,6 +1,7 @@
 # Nocituraque mulcet pugnantemque in dorso senserat
 
 ## Pedibusque tantique duxit ora sed suique serpens
+![hero image](/events/images/14905194900_e72472c10b_z.jpg#right)
 
 Lorem markdownum phaedimus rata postarum. Fetus Nereides. Cepere et dabit
 gaudere aprica in in miscentem exiguus gloria, vera haec saucia veluti.
