@@ -1,15 +1,10 @@
 <link rel="import" href="../bower_components/polymer/polymer.html">
 <link rel="import" href="../bower_components/app-route/app-location.html">
 <link rel="import" href="../bower_components/app-route/app-route.html">
-<link rel="import" href="../bower_components/app-layout/app-drawer-layout/app-drawer-layout.html">
-<link rel="import" href="../bower_components/app-layout/app-drawer/app-drawer.html">
-<link rel="import" href="../bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
-<link rel="import" href="../bower_components/app-layout/app-header/app-header.html">
-<link rel="import" href="../bower_components/app-layout/app-header-layout/app-header-layout.html">
-<link rel="import" href="../bower_components/app-layout/app-toolbar/app-toolbar.html">
 <link rel="import" href="../bower_components/paper-icon-button/paper-icon-button.html">
 <link rel="import" href="../bower_components/paper-scroll-header-panel/paper-scroll-header-panel.html">
 <link rel="import" href="../bower_components/paper-tabs/paper-tabs.html">
+<link rel="import" href="../bower_components/paper-toolbar/paper-toolbar.html">
 <link rel="import" href="../bower_components/paper-styles/shadow.html">
 <link rel="import" href="../bower_components/paper-styles/typography.html">
 <link rel="import" href="../bower_components/iron-pages/iron-pages.html">
@@ -35,15 +30,7 @@
         --app-secondary-color: #212121;
         --app-accent-color: #03A9F4;
         color: var(--app-secondary-color);
-        var(--paper-font-common-base);
-      }
-
-      app-header {
-        background-color: var(--app-primary-color);
-        color: var(--app-secondary-color);
-      }
-      app-header paper-icon-button {
-        --paper-icon-button-ink-color: white;
+        font: var(--paper-font-common-base);
       }
       paper-scroll-header-panel {
         position: absolute;
@@ -58,16 +45,23 @@
         /* background for toolbar when it is condensed */
         --paper-scroll-header-panel-condensed-header: {
           background-color: var(--app-secondary-color);
+          z-index: 1;
         };
       }
       paper-toolbar {
+        height: 128px;
         background-color: transparent;
         display: block;
         overflow: visible;
-        z-index: 1;
         background: url(/images/techyizu_header_bg.jpg);
         @apply(--shadow-elevation-2dp);
+
+        --paper-toolbar-title: {
+          font: var(--paper-font-display2);
+        }
+        --paper-toolbar-height: 48px;
       }
+
       paper-icon-button {
         margin: 0 8px;
         --paper-icon-button-ink-color: var(--app-secondary-color);
@@ -81,6 +75,7 @@
         -ms-user-select: pointer;
         user-select: pointer;
         text-transform: uppercase;
+        z-index: 10;
       }
       paper-tab {
         background: rgba(0, 0, 0, .5);
@@ -92,9 +87,6 @@
         color: var(--app-primary-color);
         text-decoration: none;
         font: var(--paper-font-heading);
-      }
-      .title {
-        font: var(--paper-font-display2);
       }
       .subtitle {
         font: var(--paper-font-subheading);
@@ -109,11 +101,13 @@
       .indent {
         margin-left: 60px;
         padding-top: 10px;
+        margin-top: 20px;
       }
       .spacer {
         @apply(--layout-flex);
       }
-      a:link, a:visited {
+      a:link,
+      a:visited {
         color: var(--app-primary-color);
         font-weight: normal;
         text-decoration: none;
@@ -129,7 +123,7 @@
         tail="{{subroute}}"></app-route>
 
     <!-- `keepCondensedHeader` makes the condensed header to not scroll away -->
-    <paper-scroll-header-panel condenses keep-condensed-header condensed-header-height="48">
+    <paper-scroll-header-panel condenses keep-condensed-header header-height="128" condensed-header-height="48">
 
       <paper-toolbar id="toolbar">
 
