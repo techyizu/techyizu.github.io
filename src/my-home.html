@@ -119,7 +119,7 @@
 
     <iron-ajax url="/events/frontpage-events.json" handle-as="json" last-response="{{data}}" on-response="handleResponse" auto></iron-ajax>
     <template is="dom-repeat" items="[[data]]">
-        <div class$="[[_computeTileClass(item.color)]]">
+        <div class$="[[_computeTileClass(index)]]">
           <a class="event-link" href="event/[[item.url]]">
             <div class="chip-top" style="background-image:url(/events/images/[[item.pic]])"></div>
             <div class="chip-bottom">
@@ -143,6 +143,12 @@
       Polymer.NeonAnimationRunnerBehavior
     ],
     properties: {
+      colorConfig: {
+        type: Array,
+        value: function() {
+          return ["blue", "red", "blue", "green", "yellow", "blue", "yellow", "red", "yellow", "green", "blue", "red"];
+        }
+      },
       animationConfig: {
         type: Object,
         value: function() {
@@ -161,8 +167,8 @@
       }
     },
 
-    _computeTileClass: function(color) {
-      return 'tile ' + color + '-300';
+    _computeTileClass: function(i) {
+      return 'tile ' + this.colorConfig[i] + '-300';
     },
 
     attributeChanged: function() {
@@ -175,10 +181,6 @@
         this.animationConfig['entry'][0].nodes = Array.prototype.slice.call(nodeList);
         this.playAnimation('entry');
       });
-    },
-
-    ready: function() {
-      this.playAnimation('entry');
     },
 
   });
