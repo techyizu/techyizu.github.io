@@ -7,8 +7,6 @@
 <link rel="import" href="../bower_components/paper-toolbar/paper-toolbar.html">
 <link rel="import" href="../bower_components/paper-styles/shadow.html">
 <link rel="import" href="../bower_components/paper-styles/typography.html">
-<link rel="import" href="../bower_components/iron-pages/iron-pages.html">
-<link rel="import" href="../bower_components/iron-selector/iron-selector.html">
 <link rel="import" href="../bower_components/iron-flex-layout/iron-flex-layout.html">
 <link rel="import" href="../bower_components/neon-animation/neon-animation.html">
 <link rel="import" href="../bower_components/neon-animation/neon-animatable.html">
@@ -88,6 +86,9 @@
         text-decoration: none;
         font: var(--paper-font-heading);
       }
+      neon-animated-pages {
+        height: 100%;
+      }
       .subtitle {
         font: var(--paper-font-subheading);
         color: var(--app-primary-color);
@@ -112,7 +113,6 @@
         font-weight: normal;
         text-decoration: none;
       }
-
     </style>
 
     <app-location route="{{route}}"></app-location>
@@ -147,11 +147,11 @@
       </paper-toolbar>
 
       <div class="content">
-        <iron-pages role="main" selected="[[page]]" attr-for-selected="name">
+        <neon-animated-pages role="main" selected="[[page]]" attr-for-selected="name" animate-initial-selection="true">
           <my-home name="home" id="grid"></my-home>
           <my-event name="event"></my-event>
           <my-event name="page"></my-event>
-        </iron-pages>
+        </neon-animated-pages>
       </div>
 
     </paper-scroll-header-panel>
@@ -199,6 +199,9 @@
         '_routePageChanged(routeData.page)'
       ],
 
+      listeners: {
+      },
+
       _routePageChanged: function(page) {
         this.page = page || 'home';
       },
@@ -214,7 +217,7 @@
 
       ready: function() {
         this.playAnimation('entry');
-      }
+      },
 
     });
 

@@ -171,10 +171,6 @@
       return 'tile ' + this.colorConfig[i] + '-300';
     },
 
-    attributeChanged: function() {
-      this.playAnimation('entry');
-    },
-
     handleResponse: function (data) {
       this.async(function() {
         var nodeList = Polymer.dom(this.root).querySelectorAll('.tile');
