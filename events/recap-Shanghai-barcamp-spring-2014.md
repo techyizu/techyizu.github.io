@@ -2,6 +2,8 @@
 
 ## Fecere timor intibaque tantaeque maternas et armos
 
+![hero image](/events/images/13554751685_3a2e350a68_z.jpg)
+
 Lorem markdownum habebat feres comitantiaque fudit; non actae deum, Solis ille
 *inicere velaque in* et possit habitabile metus. Congelat ipsaque piget det
 flesse parte patriam; narrat motis Aegides, vasta illa. Obprobrium tempore

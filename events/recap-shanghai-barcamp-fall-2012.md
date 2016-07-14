@@ -1,6 +1,7 @@
 # Sua suum protinus mora
 
 ## Tectis ne ipse facere invecta sub cum
+![hero image](/events/images/DLNG6133.jpg)
 
 Lorem **markdownum** nomina Ityn. Hos animis **venerat sagitta excipiunt** nisi
 *corpora regem nec* potest infamis ora territa Iovis, coepit. Quoque pericula?

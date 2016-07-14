@@ -2,6 +2,8 @@
 
 ## Sicut fortibus ad radiare
 
+![hero image](/events/images/9326576610_8d4dbbfbdf_z.jpg)
+
 Lorem markdownum Cephesidas maestam *questa canis*: aut munusque tanget.
 Virginibus labant Philomela sparsit ulvis quo quam ministri vulgata nato, duo.
 Aestu lacrimis, munera. Servitura capit Romana si *denique* reliquit moverat

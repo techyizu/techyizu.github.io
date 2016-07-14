@@ -2,6 +2,8 @@
 
 ## Ubi ante dissimulare idem
 
+![hero image](/events/images/barcamp_fall_2013.jpg)
+
 Lorem markdownum quam manet sed summa illam fuga sparsit est ferrum postera
 negarunt. Aede pignora scires de tellus lumina vinces, est vulneret teneri
 fidelem, tendebant Achilles. Inplerant pollice nebulas cave; terga male cadas

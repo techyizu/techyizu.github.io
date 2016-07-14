@@ -2,6 +2,8 @@
 
 ## Tum Sithonios quicquid caligine volat muneribusque Graias
 
+![hero image](/events/images/DLNG6009.jpg)
+
 Lorem markdownum Nessus, saevi nec, ferre mihi amantes mutataeque vovistis: ver
 fundebat genua. [Conspectum ortus](http://quo.net/). Iovi gaudens turpes luna,
 ut suam ille ter nec adspiciens.

@@ -2,6 +2,8 @@
 
 ## Ornant fugerat
 
+![hero image](/events/images/14999355598_2b54143d19_c.jpg)
+
 Lorem markdownum, **circumfuso** quippe. Et exosus pabula sopitus. Tibi umeris
 vel lumina refugam patrio, miserum illa, est flecti: duruerant qua motu. Stabat
 fictos poma; esse Nam plangorem mihi pluma, quove neve figuram *notae*.

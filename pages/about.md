@@ -2,6 +2,8 @@
 
 ## Nato morte infelix non audiat
 
+![hero image](/images/techyizu_header_bg.jpg)
+
 Lorem markdownum dea: sub furca figis augur atque, iuvenis
 [recenti](http://inmune.io/) plenaque, hoc.
 [Auras](http://www.nepotum.io/matrumtamen) est mihi quidem, ducentem, fuit

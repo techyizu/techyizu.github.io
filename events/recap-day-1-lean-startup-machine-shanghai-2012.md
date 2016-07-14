@@ -2,6 +2,8 @@
 
 ## Fuerat dirum lucoque
 
+![hero image](/events/images/DLNG5624.jpg)
+
 Lorem markdownum faciunt verum, resonabat insilit, non saepe, [quae
 terras](http://vires.com/), haesit, velamenta bracchia spemque, hoc. Pressam
 [praecorrupta oris et](http://www.quodque.com/altis-is) auro ipsa, rem non ille

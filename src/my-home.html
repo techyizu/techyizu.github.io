@@ -119,7 +119,7 @@
 
     <iron-ajax url="/events/frontpage-events.json" handle-as="json" last-response="{{data}}" on-response="handleResponse" auto></iron-ajax>
     <template is="dom-repeat" items="[[data]]">
-        <div class$="[[_computeTileClass(index)]]">
+        <div class$="[[_computeTileClass(index)]]" on-tap="handleOnTap">
           <a class="event-link" href="event/[[item.url]]">
             <div class="chip-top" style="background-image:url(/events/images/[[item.pic]])"></div>
             <div class="chip-bottom">
@@ -161,6 +161,17 @@
               timing: {
                 delay: 100
               }
+            }],
+            'exit': [{
+              name: 'hero-animation',
+              id: 'hero',
+              fromPage: this
+            }, {
+              name: 'fade-out-animation',
+              node: this,
+              timing: {
+                duration: 200
+              }
             }]
           }
         }
@@ -178,6 +189,28 @@
         this.playAnimation('entry');
       });
     },
+
+    handleOnTap: function(event) {
+      var target = event.target;
+      while (target !== this && !target._templateInstance) {
+        target = target.parentNode;
+      }
+
+      // configure the page animation
+      this.sharedElements = {
+        'hero': target,
+        'ripple': target
+      };
+      this.animationConfig['exit'][0].gesture = {
+        x: event.x || event.pageX,
+        y: event.y || event.pageY
+      };
+
+      this.fire('tile-click', {
+        tile: target,
+        data: target._templateInstance.item
+      });
+    }
 
   });
 </script>

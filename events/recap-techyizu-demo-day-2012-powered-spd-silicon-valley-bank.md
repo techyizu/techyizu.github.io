@@ -2,6 +2,8 @@
 
 ## Mediaque non arva tetigit
 
+![hero image](/events/images/IMG_8586.jpg)
+
 Lorem markdownum *citharam tenet*; causa manu vaga carmine neque inpubesque
 essem. Nostrique vocatur. Pennis tuaque hiemisque sed color excipit serpentum
 sub niveisque vaccae fero nova; tanges tamen simplex vero magis viro inpluit. In

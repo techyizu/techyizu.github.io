@@ -2,6 +2,8 @@
 
 ## Non Liber viribus
 
+![hero image](/events/images/8600539450_24182723bc_c.jpg)
+
 Lorem markdownum Aurora pendentes in sinit, ad fuit adpositi custos diuque
 sacerdotes traxit. Quam non; populus nos mihi magnumque illis, certe armorum,
 inposuit, inmissa nec!

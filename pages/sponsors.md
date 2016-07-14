@@ -2,6 +2,8 @@
 
 ## Rursus et frugum racemis vertitur
 
+![hero image](/images/techyizu_header_bg.jpg)
+
 Lorem markdownum **est** miracula tinguit vivit despectus a nascitur tamen.
 Sequentem perosus Pactolides venit: iuvenum umbrae populi? Ope nate admovet, ad
 gyrum nullum tibi herbis per lunaria, Iovem quae! Adhuc lotos unum committitur

@@ -1,6 +1,7 @@
 # Ubi in Eurydicen quod erat pondere Daedalus
 
 ## Manu At caelo extremis crudelis meruit
+![hero image](/events/images/hackyizu_picture_2013.jpg)
 
 Lorem markdownum stellarum licet fabricataque adhuc praequestus imperat, ibat
 posset. Aures Melaneus **de vestibus**, adversum praescia, lati **virgo** curat

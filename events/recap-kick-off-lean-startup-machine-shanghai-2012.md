@@ -1,6 +1,7 @@
 # Horret neci Panes quae illo crimen
 
 ## Legit principium
+![hero image](/events/images/DLNG5180.jpg)
 
 Lorem markdownum rursus: eosdem torosa, aquatica, vix quoque *non exhalat*
 suaque. Est [venit ponere](http://vel-fluidos.com/perdominis), ruit lapillis
