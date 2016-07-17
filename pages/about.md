@@ -1,44 +1,39 @@
-# Venit pectora infelix amans causa agrestes Aenean
+# About Techyizu
 
-## Nato morte infelix non audiat
+Techyizu is a non-profit volunteer-driven organization that supports the China startup and tech community. We organize events for people with a passion for technology, entrepreneurship, and social innovation. We believe in an open community for sharing knowledge and experience, and that the connections we help build through our events can lead to amazing things.
 
-![hero image](/images/techyizu_header_bg.jpg)
+<img class="hero_hidden" src="/images/techyizu_header_bg.jpg" />
 
-Lorem markdownum dea: sub furca figis augur atque, iuvenis
-[recenti](http://inmune.io/) plenaque, hoc.
-[Auras](http://www.nepotum.io/matrumtamen) est mihi quidem, ducentem, fuit
-audita ictae, ex utilius obituque tenuisse ipse.
+## These are our current events:
 
-- Viro loquor ossa mihi Chironis his coniuge
-- Sine fecit vidisset tamen una saltu corpore
-- Dixit valeant et una invita tamen formam
-- Ut columbas carinae
-- Summae tempora dilatant
-- Echion spes quis scopulum
+![Barcamp logo](/pages/images/logo_barcamp.jpg)
+![Design Shanghai logo](/pages/images/logo_designing_shanghai.jpg)
+![Hackyizu logo](/pages/images/logo_hackyizu.jpg)
+![Fail Faster logo](/pages/images/logo_failfaster.jpg)
+![Epic Fail logo](/pages/images/logo_soef.jpg)
 
-## Pigeat sed in primordia pro
+## Find us
 
-Deque mittuntque seque finierat inquit. Sit tyranni orbes. Vota festa Cereris
-mundi maestaeque aquis, et ignibus iuvencae. Palustribus laevum omnia ego;
-gemunt ne insula, *Lyaeo*! Nec primus quis naides, metuit meorum facit regis.
+* Subscribe: [Techyizu Mailing List](http://eepurl.com/cUNRY)
+* Meetup Group: [Meetup Group](http://www.meetup.com/Techyizu/)
+* Weixin: ![Techyizu Wechat QRcode](/pages/images/qrcode_for_gh_c45020ccb55e_258.jpg)
 
-1. Populi ramos rependatur inpia
-2. Populumque caelum
-3. Foramine sub felix ferarumque icta ille prima
+## We sometimes update these…
 
-## Taurorum ritusque
+* Weibo: [@techyizu](http://www.weibo.com/techyizu)
+* Twitter: [@techyizu](http://www.twitter.com/techyizu)
+* Facebook: [Techyizu Facebook Page](http://www.facebook.com/techyizu)
 
-Foret effugit ne tenui, Latonia depulerat laqueis, Antiphates novem, te velles
-perque altaria, nono. Patres feros **una sed** concubiturus poteras deserit
-cinnama edidit erat: diro. Argus ferebat rursus memorabile talia. Sub ora
-precando, lapis auro quantum, animoque gemini ore nubila fugit et structa nefas.
+## Email contact:
 
-Oculos comitesque iunxit deprendere vallibus, virentem levi ignem sustinet, et
-*itum*. Manu fatus ut sinus toto perque ignavi in odoribus certe Balearica celer
-nox visa.
+* General inquiries: info@techyizu.org
 
-Submoverat artes agunt, auctaque de pariter, enim sit, in? *Partes sive
-matresque* moderator, femineo actum ungues ille origine nunc aequora pugnat,
-dicta, sanguine *stabat*! Si in dictum **cervis quoque**. Opta ponti vox medium
-solio augusta, amor victore iam cohibentur, et! Subiectum delphine similis,
-[totus](http://carica.net/) vertit colla.
+## Organization Meetings
+
+Please feel free to come to our organizing meetings.
+We generally meet every Saturday at 12:00 noon.
+People Squared – Hero Center 上海创客中心
+28 East Yuyuan Road, Building 3, Floor 1
+上海市静安区愚园东路28号3号楼1层
+Learn more about our history and how we organize our events on our wiki:
+work.techyizu.org

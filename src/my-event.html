@@ -17,11 +17,13 @@
         margin: 0 auto;
       }
       #heroimg {
-        max-width: 100%;
         float: right;
-        margin: 20px;
+        margin: 20px 0;
       }
-      .markdown-html img:first-child {
+      img {
+        max-width: 100%;
+      }
+      .markdown-html .hero_hidden {
         display: none;
       }
     </style>
@@ -98,8 +100,8 @@
         //reset this url to null
         this.heroImgUrl = "";
         this.async(function() {
-          var imgUrlPattern  = /(!\[.*?\]\()(.+?)(\))/;
-          this.heroImgUrl = this.body.match(imgUrlPattern)[2];
+          var imgUrlPattern  = '<img [^>]*src="([^"]+)"';
+          this.heroImgUrl = this.body.match(imgUrlPattern)[1];
         });
       },
 
