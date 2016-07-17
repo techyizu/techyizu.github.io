@@ -1,6 +1,6 @@
 # Recap: Fail Faster 2014
 
-<img class="hero_hidden" src="/events/images/14905194900_e72472c10b_z.jpg" />
+<img class="hero_hidden" src="/events/images/15089130021_2b19dab96d_z.jpg" />
 
 Building any new business, either within the context of a startup or an establish company, always include a good amount of waste. Epiphany usually happen at the end of the project when it is already too late. How can we minimize waste along the way and increase our chance of success?
 
