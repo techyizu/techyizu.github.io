@@ -34,7 +34,7 @@
         data="{{routeData}}"
         tail="{{subroute}}"></app-route>
 
-    <iron-ajax url="/{{routeData.type}}s/{{routeData.name}}.md" handle-as="text" last-response="{{body}}" on-response="handleResponse" auto></iron-ajax>
+    <iron-ajax url="/{{routeData.type}}s/{{routeData.name}}.md" handle-as="text" last-response="{{body}}" loading="{{loading}}" on-response="handleResponse" auto></iron-ajax>
     <img id="heroimg" src="[[heroImgUrl]]" />
     <marked-element markdown="[[body]]">
       <div class="markdown-html" id="mdContent"></div>
@@ -66,6 +66,12 @@
               'hero': this.$.heroimg,
             }
           }
+        },
+
+        loading: {
+          type: Boolean,
+          value: false,
+          notify: true
         },
 
         animationConfig: {

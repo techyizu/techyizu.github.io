@@ -5,6 +5,7 @@
 <link rel="import" href="../bower_components/paper-scroll-header-panel/paper-scroll-header-panel.html">
 <link rel="import" href="../bower_components/paper-tabs/paper-tabs.html">
 <link rel="import" href="../bower_components/paper-toolbar/paper-toolbar.html">
+<link rel="import" href="../bower_components/paper-spinner/paper-spinner.html">
 <link rel="import" href="../bower_components/paper-styles/shadow.html">
 <link rel="import" href="../bower_components/paper-styles/typography.html">
 <link rel="import" href="../bower_components/iron-flex-layout/iron-flex-layout.html">
@@ -117,6 +118,18 @@
         font-weight: normal;
         text-decoration: none;
       }
+      .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: #FFF;
+      }
     </style>
 
     <app-location route="{{route}}"></app-location>
@@ -154,10 +167,13 @@
       </paper-toolbar>
 
       <div class="content">
+        <div class="overlay" hidden$="[[!isLoading]]">
+          <paper-spinner active="[[isLoading]]"></paper-spinner>
+        </div>
         <neon-animated-pages role="main" selected="[[page]]" attr-for-selected="name" animate-initial-selection="true">
           <my-home name="home" id="grid"></my-home>
-          <my-event name="event"></my-event>
-          <my-event name="page"></my-event>
+          <my-event name="event" loading="{{isLoading}}"></my-event>
+          <my-event name="page" loading="{{isLoading}}"></my-event>
         </neon-animated-pages>
       </div>
 
