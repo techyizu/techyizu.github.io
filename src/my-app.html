@@ -128,7 +128,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        background: #FFF;
+        background: var(--app-primary-color);
       }
     </style>
 
@@ -171,7 +171,7 @@
           <paper-spinner active="[[isLoading]]"></paper-spinner>
         </div>
         <neon-animated-pages role="main" selected="[[page]]" attr-for-selected="name" animate-initial-selection="true">
-          <my-home name="home" id="grid"></my-home>
+          <my-home name="home" loading="{{isLoading}}" id="grid"></my-home>
           <my-event name="event" loading="{{isLoading}}"></my-event>
           <my-event name="page" loading="{{isLoading}}"></my-event>
         </neon-animated-pages>
@@ -198,6 +198,11 @@
           type: String,
           reflectToAttribute: true,
           observer: '_pageChanged'
+        },
+
+        isLoading: {
+          type: Boolean,
+          value: true
         },
 
         animationConfig: {

@@ -116,7 +116,7 @@
 
     </style>
 
-    <iron-ajax url="/events/frontpage-events.json" handle-as="json" last-response="{{data}}" on-response="handleResponse" auto></iron-ajax>
+    <iron-ajax url="/events/frontpage-events.json" handle-as="json" last-response="{{data}}" loading="{{loading}}" on-response="handleResponse" auto></iron-ajax>
     <template is="dom-repeat" items="[[data]]">
         <div class$="[[_computeTileClass(index)]]" on-tap="handleOnTap">
           <a class="event-link" href="event/[[item.url]]">
@@ -148,6 +148,13 @@
           return ["blue", "red", "blue", "green", "yellow", "blue", "yellow", "red", "yellow", "green", "blue", "red"];
         }
       },
+
+      loading: {
+        type: Boolean,
+        value: false,
+        notify: true
+      },
+
       animationConfig: {
         type: Object,
         value: function() {
