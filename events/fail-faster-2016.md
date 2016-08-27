@@ -1,4 +1,6 @@
-# How to Fail Faster on your way to success in 2016?
+# Fail Faster 2016!!
+
+## How to Fail Faster on your way to success in 2016?
 
 <img class="hero_hidden" src="/events/images/fail_faster_logo.jpg" />
 
@@ -8,7 +10,7 @@ The event will start on Friday, September 9 at 7:00 PM at the Hero Center. If yo
 
 Over the weekend, you’ll learn how to test your customer hypothesis, problem hypothesis, and solution hypothesis. You’ll also get help from experienced startup mentors. There will be workshops on customer interviewing, designing an MVP, and how to pivot. A key thing to note is that you’ll spend time over the weekend talking to real potential customers! The event will end with each team presenting their validated learnings to a panel of mentors that will provide feedback.
 
-Our generous sponsors China Accelerator are putting 1000 RMB toward the winning team!
+## Our generous sponsors China Accelerator are putting 1000 RMB toward the winning team!
 
 您是否有兴趣学习更多精益创业（Lean Startup）的知识？请加入FailFaster，Techyizu举办的3天工作坊，它将帮助您学习如何设计好的产品。在这次活动中，您将学习到精益创业的根本和如何将客户开发流程融入到真正的创业想法中。
 
@@ -21,7 +23,7 @@ Our generous sponsors China Accelerator are putting 1000 RMB toward the winning 
 
 Event Schedule:
 
-Friday Night
+## Friday Night
 
 Fail Faster introduction
 
@@ -30,7 +32,7 @@ Team Formation
 Beer  
 
 
-Saturday Morning
+## Saturday Morning
 
 Javelin Board Presentation
 
@@ -47,7 +49,7 @@ MVP field testing
 Beer  
 
 
-Sunday Morning
+## Sunday Morning
 
 Lean Startup Pivot session
 
@@ -62,7 +64,7 @@ Final Presentations
 beer
 
 
-The correct address:
+## The correct address:
 
 People Squared Hero Center  
 
