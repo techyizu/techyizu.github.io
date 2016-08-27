@@ -1,4 +1,5 @@
 [
+  { "date": "2016-09-09", "title": "Fail Faster 2016", "pic": "fail_faster_logo.jpg", "url" : "fail-faster-2016.jpg" },
   { "date": "2016-03-07", "title": "Recap: Shanghai BarCamp Fall 2015 回顾上海Barcamp – 2015秋天", "pic": "IMG_3609-1-980x653.jpg", "url" : "recap-shanghai-barcamp-fall-2015-回顾上海barcamp-2015秋天" },
   { "date": "2016-01-24", "title": "CryptoLounge 2016", "pic": "cryptolounge_logo_600x140.gif", "url" : "cryptolounge-2016" },
   { "date": "2015-09-08", "title": "Mobile Film Challenge 2015", "pic": "mfc_email_banner.jpg", "url" : "mobile-film-challenge-2015" },
@@ -9,6 +10,5 @@
   { "date": "2015-04-01", "title": "Recap: Shanghai BarCamp 回顾上海 Spring 2015", "pic": "16738340377_0d40e65b4a_z.jpg", "url" : "recap-shanghai-barcamp-spring-2015" },
   { "date": "2015-03-16", "title": "Recap: Hackyizu 2015", "pic": "DSC_0430-980x551.jpg", "url" : "recap-hackyizu-2015" },
   { "date": "2014-09-01", "title": "Recap: Fail Faster 2014", "pic": "15089130021_2b19dab96d_z.jpg", "url" : "recap-fail-faster-2014" },
-  { "date": "2014-07-01", "title": "Recap: Designing Shanghai 2014", "pic": "14999355598_2b54143d19_c.jpg", "url" : "recap-designing-shanghai-2014" },
-  { "date": "2014-10-12", "title": "Recap: Shanghai BarCamp 回顾上海 Autumn 2014", "pic": "02_0.jpg", "url" : "recap-shanghai-barcamp-autumn-2014回顾上海barcamp-2014秋天" }
+  { "date": "2014-07-01", "title": "Recap: Designing Shanghai 2014", "pic": "14999355598_2b54143d19_c.jpg", "url" : "recap-designing-shanghai-2014" }
 ]
