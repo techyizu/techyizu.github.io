@@ -90,6 +90,7 @@
         color: var(--app-primary-color);
         text-decoration: none;
         font: var(--paper-font-heading);
+        padding: 0 10px;
       }
       neon-animated-pages {
         height: 100%;
@@ -108,6 +109,14 @@
         margin-left: 60px;
         padding-top: 10px;
         margin-top: 20px;
+      }
+      /* Phones ----------- */
+      @media only screen and (max-device-width : 768px) {
+        .indent {
+          margin-left: 0;
+          padding-top: 10px;
+          margin-top: 0;
+        }
       }
       .spacer {
         @apply(--layout-flex);
@@ -149,7 +158,7 @@
           <div class="title">Techyizu</div>
           <div class="subtitle">Connecting Shanghai's Startup and Tech Community</div>
         </div>
-        <paper-tabs selected="[[page]]" class="bottom" self-end>
+        <paper-tabs selected="[[page]]" class="bottom" scrollable fit-container self-end>
           <paper-tab link center-center>
             <a href="/home" class="link" tabindex="-1">Home / 首页</a>
           </paper-tab>
