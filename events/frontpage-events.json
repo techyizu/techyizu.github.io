@@ -1,4 +1,5 @@
 [
+  { "date": "2016-11-05", "title": "Shanghai Barcamp Fall 2016", "pic": "8599439869_070edf3690_z.jpg", "url" : "shanghai-barcamp-fall-2016" },
   { "date": "2016-09-09", "title": "Fail Faster 2016", "pic": "15088908131_687a22501e_z.jpg", "url" : "fail-faster-2016" },
   { "date": "2016-03-07", "title": "Recap: Shanghai BarCamp Fall 2015 回顾上海Barcamp – 2015秋天", "pic": "IMG_3609-1-980x653.jpg", "url" : "recap-shanghai-barcamp-fall-2015-回顾上海barcamp-2015秋天" },
   { "date": "2016-01-24", "title": "CryptoLounge 2016", "pic": "cryptolounge_logo_600x140.gif", "url" : "cryptolounge-2016" },
@@ -9,6 +10,5 @@
   { "date": "2015-05-30", "title": "Designing Shanghai 设计上海 – 2015", "pic": "Screen-Shot-2015-05-30-at-6.32.17-pm-980x549.jpg", "url" : "designing-shanghai-2015" },
   { "date": "2015-04-01", "title": "Recap: Shanghai BarCamp 回顾上海 Spring 2015", "pic": "16738340377_0d40e65b4a_z.jpg", "url" : "recap-shanghai-barcamp-spring-2015" },
   { "date": "2015-03-16", "title": "Recap: Hackyizu 2015", "pic": "DSC_0430-980x551.jpg", "url" : "recap-hackyizu-2015" },
-  { "date": "2014-09-01", "title": "Recap: Fail Faster 2014", "pic": "15089130021_2b19dab96d_z.jpg", "url" : "recap-fail-faster-2014" },
-  { "date": "2014-07-01", "title": "Recap: Designing Shanghai 2014", "pic": "14999355598_2b54143d19_c.jpg", "url" : "recap-designing-shanghai-2014" }
+  { "date": "2014-09-01", "title": "Recap: Fail Faster 2014", "pic": "15089130021_2b19dab96d_z.jpg", "url" : "recap-fail-faster-2014" }
 ]
