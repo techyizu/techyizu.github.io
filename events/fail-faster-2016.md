@@ -2,7 +2,7 @@
 
 
 # Fail Faster 2016
-[Register on Meetup.com](http://www.meetup.com/Techyizu/events/233553341/)
+Register for the event:  [http://www.meetup.com/Techyizu/events/233553341/](http://www.meetup.com/Techyizu/events/233553341/)
 
 ### Fail Faster on your way to success in 2016
 
@@ -17,6 +17,9 @@ Over the weekend, you’ll learn how to test your customer hypothesis, problem h
 ### Our generous sponsor, Chinaccelerator, is putting 1000 RMB towards the winning team!
 
 ---
+
+Register for the event:  [http://www.meetup.com/Techyizu/events/233553341/](http://www.meetup.com/Techyizu/events/233553341/)
+
 
 ### 您是否有兴趣学习更多精益创业（Lean Startup) 的知识？
 
@@ -73,7 +76,7 @@ Over the weekend, you’ll learn how to test your customer hypothesis, problem h
 
 
 
-[Register on Meetup.com](http://www.meetup.com/Techyizu/events/233553341/)
+Register for the event:  [http://www.meetup.com/Techyizu/events/233553341/](http://www.meetup.com/Techyizu/events/233553341/)
 
 ---
 
