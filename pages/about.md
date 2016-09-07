@@ -7,16 +7,20 @@
 ## These are our current events:
 
 ![Barcamp logo](/pages/images/logo_barcamp.jpg)
+
 ![Design Shanghai logo](/pages/images/logo_designing_shanghai.jpg)
+
 ![Hackyizu logo](/pages/images/logo_hackyizu.jpg)
+
 ![Fail Faster logo](/pages/images/logo_failfaster.jpg)
+
 ![Epic Fail logo](/pages/images/logo_soef.jpg)
 
 
 ## Find us
 * Techyizu Meetup.com Group: [http://www.meetup.com/Techyizu/](http://www.meetup.com/Techyizu/)
 * Techyizu Mailing List: [http://eepurl.com/cUNRY](http://eepurl.com/cUNRY)
-* Techyizu Weixin / Wechat: 
+* Techyizu Weixin / Wechat: @techyizu
 
 ![Techyizu Wechat QR Code](/pages/images/qrcode_for_gh_c45020ccb55e_258.jpg)
 
@@ -31,8 +35,8 @@
 
 * Saturday, 12:00 noon
 * **People Squared – Hero Center  上海创客中心 **
-..* 28 East Yuyuan Road, Building 3
-..* 上海市静安区愚园东路28号3号楼1层
+  * 28 East Yuyuan Road, Building 3
+  * 上海市静安区愚园东路28号3号楼1层
 
 
 ## Learn more about Techyizu
