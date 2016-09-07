@@ -34,7 +34,7 @@
 **Please feel free to come to our organizing meetings.**  
 
 * Saturday, 12:00 noon
-* **People Squared – Hero Center  上海创客中心 **
+* **People Squared - Hero Center 上海创客中心**
   * 28 East Yuyuan Road, Building 3
   * 上海市静安区愚园东路28号3号楼1层
 
