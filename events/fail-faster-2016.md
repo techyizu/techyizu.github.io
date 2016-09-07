@@ -1,15 +1,11 @@
-<img class="hero_hidden" src="/events/images/fail_faster_logo.jpg" />
-
-
 ![Fail Faster Logo](/events/images/fail_faster_logo.jpg)
 
-
-![Fail Faster Logo2] (http://www.techyizu.org/events/images/fail_faster_logo.jpg)
+[Register here!](http://www.meetup.com/Techyizu/events/233553341/)
 
 
 # Fail Faster 2016
 
-## Fail Faster on your way to success in 2016
+### Fail Faster on your way to success in 2016
 
 
 
@@ -19,11 +15,11 @@ The event will start on Friday, September 9 at 7:00 PM at the Hero Center. If yo
 
 Over the weekend, you’ll learn how to test your customer hypothesis, problem hypothesis, and solution hypothesis. You’ll also get help from experienced startup mentors.  There will be workshops on customer interviewing, designing an MVP, and how to pivot.  A key thing to note is that you’ll spend time over the weekend talking to real potential customers!  The event will end with each team presenting their validated learnings to a panel of mentors that will provide feedback.  
 
-## Our generous sponsor, Chinaccelerator, is putting 1000 RMB towards the winning team!
+### Our generous sponsor, Chinaccelerator, is putting 1000 RMB towards the winning team!
 
 ---
 
-## 您是否有兴趣学习更多精益创业（Lean Startup) 的知识？
+### 您是否有兴趣学习更多精益创业（Lean Startup) 的知识？
 
 请加入FailFaster，Techyizu举办的3天工作坊，它将帮助您学习如何设计好的产品。在这次活动中，您将学习到精益创业的根本和如何将客户开发流程融入到真正的创业想法中。
 
@@ -32,7 +28,7 @@ Over the weekend, you’ll learn how to test your customer hypothesis, problem h
 在周末2天时间里，您将学习如何测试基于客户的假设，问题的假设和解决方案的假设。 您还可以从经验丰富的创业导师中得到帮助。到时将会有工作坊教您如何采访客户，如何设计MVP （Minimum Valuable Product）以及如何平衡地运营。非常关键的一点是在整个周末里面，您将有机会和真正的潜在客户进行面对面交谈！活动最后，每个团队需要向多位导师组成的小组展示他们的成果，导师们将会给每个团队提出意见和建议。
 
 
-我们的赞助人中国加速会奖励1000RMB给赢的团队！
+### 我们的赞助人中国加速会奖励1000RMB给赢的团队！
 
 ---
 
@@ -76,3 +72,6 @@ Over the weekend, you’ll learn how to test your customer hypothesis, problem h
 * 静安区愚园东路28号3号楼1层 上海创客中心  
 * 靠近铜仁路  
 
+
+
+[Register here!](http://www.meetup.com/Techyizu/events/233553341/)
