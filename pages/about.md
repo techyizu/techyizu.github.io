@@ -25,6 +25,8 @@
 ![Techyizu Wechat QR Code](/pages/images/qrcode_for_gh_c45020ccb55e_258.jpg)
 
 
+* Techyizu Event Photos on Flickr: [https://www.flickr.com/photos/techyizu](https://www.flickr.com/photos/techyizu)
+
 
 ## Email contact:
 * General inquiries: info@techyizu.org
