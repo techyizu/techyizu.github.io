@@ -1,6 +1,11 @@
 <img class="hero_hidden" src="/events/images/fail_faster_logo.jpg" />
 
 
+![Fail Faster Logo](/events/images/fail_faster_logo.jpg)
+
+
+![Fail Faster Logo2] (http://www.techyizu.org/events/images/fail_faster_logo.jpg)
+
 
 # Fail Faster 2016
 
