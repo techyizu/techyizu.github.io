@@ -14,11 +14,11 @@
 
 
 ## Find us
-* Meetup Group: [Meetup Group](http://www.meetup.com/Techyizu/)
-* Mailing List: [Techyizu Mailing List](http://eepurl.com/cUNRY)
-* Weixin / Wechat: 
+* Techyizu Meetup.com Group: [http://www.meetup.com/Techyizu/](http://www.meetup.com/Techyizu/)
+* Techyizu Mailing List: [http://eepurl.com/cUNRY](http://eepurl.com/cUNRY)
+* Techyizu Weixin / Wechat: 
 
-![Techyizu Wechat QRcode](/pages/images/qrcode_for_gh_c45020ccb55e_258.jpg)
+![Techyizu Wechat QR Code](/pages/images/qrcode_for_gh_c45020ccb55e_258.jpg)
 
 
 
@@ -29,16 +29,14 @@
 ## Organization Meetings
 **Please feel free to come to our organizing meetings.**  
 
-###When
-Saturday, 12:00 noon
-###Where
-**People Squared – Hero Center  上海创客中心 **
-  28 East Yuyuan Road, Building 3
-  上海市静安区愚园东路28号3号楼1层
+* Saturday, 12:00 noon
+* **People Squared – Hero Center  上海创客中心 **
+..* 28 East Yuyuan Road, Building 3
+..* 上海市静安区愚园东路28号3号楼1层
 
 
-##Learn more about Techyizu
-Learn how we organize our events on our wiki:
+## Learn more about Techyizu
+Learn how we organize our events on our wiki
 * Techyizu Wiki: [http://work.techyizu.org](http://work.techyizu.org)
 
 
@@ -52,12 +50,12 @@ Learn how we organize our events on our wiki:
 
 
 ----
+  
 
-
-
-
-
-
+  
+  
+  
+  
 ...
 
 
