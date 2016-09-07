@@ -30,35 +30,37 @@ Over the weekend, you’ll learn how to test your customer hypothesis, problem h
 #Fail Faster - Event Schedule
 
 ## Friday Night 
-Fail Faster introduction
-Team Formation
-Beer  
+* Fail Faster introduction
+* Team Formation
+* Beer  
 
 
 ## Saturday Morning
-Javelin Board Presentation
-Customer Development session
-Field Interview
+* Javelin Board Presentation
+* Customer Development session
+* Field Interview
 
 ## Saturday Afternoon
-Minimum viable product Session
-MVP field testing
-Beer  
+* Minimum viable product Session
+* MVP field testing
+* Beer  
 
 
 ## Sunday Morning
-Lean Startup Pivot session
-MVP feedback
+* Lean Startup Pivot session
+* MVP feedback
+
 ## Sunday Afternoon
-Final Pitch Goal Session
-Final Presentations
-Beer
+* Final Pitch Goal Session
+* Final Presentations
+* Beer
 
 
-# Location: People Squared Hero Center  
-28 Yuyuan East Rd, Building 3
-Between Tongren Lu and Changde Lu
+# Location
+## People Squared Hero Center  
+* 28 Yuyuan East Rd, Building 3
+* Between Tongren Lu and Changde Lu
 
-静安区愚园东路28号3号楼1层 上海创客中心  
-靠近铜仁路  
+* 静安区愚园东路28号3号楼1层 上海创客中心  
+* 靠近铜仁路  
 
