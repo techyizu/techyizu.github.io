@@ -1,6 +1,6 @@
 ![Fail Faster Logo](/events/images/fail_faster_logo.jpg)
 
-[Register here!](http://www.meetup.com/Techyizu/events/233553341/)
+[Register on Meetup.com!](http://www.meetup.com/Techyizu/events/233553341/)
 
 
 # Fail Faster 2016
@@ -74,4 +74,4 @@ Over the weekend, you’ll learn how to test your customer hypothesis, problem h
 
 
 
-[Register here!](http://www.meetup.com/Techyizu/events/233553341/)
+[Register on Meetup.com!](http://www.meetup.com/Techyizu/events/233553341/)
