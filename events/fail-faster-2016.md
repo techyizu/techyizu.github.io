@@ -9,8 +9,8 @@
 Shared File Directory:  [https://share.weiyun.com/520c21c4b8806958b618f8b846cabaf5](https://share.weiyun.com/520c21c4b8806958b618f8b846cabaf5)
 
 Friday Night Presentations:
-* [Introduction to Fail Faster](https://share.weiyun.com/520c21c4b8806958b618f8b846cabaf5)
-* [https://share.weiyun.com/520c21c4b8806958b618f8b846cabaf5](https://share.weiyun.com/520c21c4b8806958b618f8b846cabaf5)
+* [Fail Faster: Workshop Introduction](http://share.weiyun.com/1ff4b1fab0b2213fcbd4145f8909d557)
+* [Failing Slowly](http://share.weiyun.com/5e72c9c8e960d5081649d850eca2b793)
 
 ----
 
