@@ -2,6 +2,18 @@
 
 
 # Fail Faster 2016
+
+----
+## Fail Faster 2016 - Workshop Materials
+
+Shared File Directory:  [https://share.weiyun.com/520c21c4b8806958b618f8b846cabaf5](https://share.weiyun.com/520c21c4b8806958b618f8b846cabaf5)
+
+Friday Night Presentations:
+* [Introduction to Fail Faster](https://share.weiyun.com/520c21c4b8806958b618f8b846cabaf5)
+* [https://share.weiyun.com/520c21c4b8806958b618f8b846cabaf5](https://share.weiyun.com/520c21c4b8806958b618f8b846cabaf5)
+
+----
+
 Register for the event:  [http://www.meetup.com/Techyizu/events/233553341/](http://www.meetup.com/Techyizu/events/233553341/)
 
 ### Fail Faster on your way to success in 2016
