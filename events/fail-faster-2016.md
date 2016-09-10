@@ -9,19 +9,20 @@
 Shared File Directory:  [https://share.weiyun.com/520c21c4b8806958b618f8b846cabaf5](https://share.weiyun.com/520c21c4b8806958b618f8b846cabaf5)
 
 Friday Presentations:
-* [Fail Faster: Workshop Introduction](http://share.weiyun.com/1ff4b1fab0b2213fcbd4145f8909d557)
-* [Failing Slowly](http://share.weiyun.com/5e72c9c8e960d5081649d850eca2b793)
+* 01 Fail Faster: Workshop Introduction
+* 02 Failing Slowly
 
 Saturday Presentations:
-* [Fail Faster: Javelin Board Introduction](http://share.weiyun.com/fb090e1ae9036ea608309c8a10bab911)
-* [Fail Faster: Customer Development Interviews](http://share.weiyun.com/a11d583f64efb5ced0e95a3bd8d7777f)
-* [Fail Faster: Minimum Viable Product](http://share.weiyun.com/8cffb971d418bb941d42042336a6df76)
-* [Fail Faster: Javelin Board Walkthrough](http://share.weiyun.com/8b3d151a2934a576b4ed400d59ba497e)
-* [Fail Faster: Quantitative Research Surveys](http://share.weiyun.com/94c2766fb820465e0e1a376643e2f8f1)
+* 03 Fail Faster: Javelin Board Introduction
+
+* 04 Fail Faster: Customer Development Interviews
+* 05 Fail Faster: Minimum Viable Product
+* 06 Fail Faster: Javelin Board Walkthrough
+* 07 Fail Faster: Quantitative Research Surveys
 
 Sunday Presentations:
-* [Fail Faster: Pivot Presentation](http://share.weiyun.com/e16e89dd27fac0e285d6bc2a42f5205b)
-* [Fail Faster: Generic Team Presentation](http://share.weiyun.com/4bcd58be20ac1e7056ac5b43a49e4242)
+* 08 Fail Faster: Pivot Presentation
+* 09 Fail Faster: Generic Team Presentation
 
 
 ----
