@@ -38,7 +38,7 @@
       }
 
       /* Desktops and laptops ----------- */
-      @media only screen  and (min-width : 1024px) {
+      @media all and (min-width : 1024px) {
         .tile:nth-of-type(1) {
           opacity: 1;
           width: calc(100% / 3);
@@ -81,7 +81,7 @@
       }
 
       /* Tablets ----------- */
-      @media only screen and (min-device-width : 768px) and (max-device-width : 1023px) {
+      @media all and (min-width : 768px) and (max-width : 1023px) {
         .tile {
           width: calc(100% / 4);
           height: calc(100% / 3);
@@ -102,7 +102,7 @@
       }
 
       /* Phones ----------- */
-      @media only screen and (max-device-width : 768px) {
+      @media all and (max-width : 767px) {
         .tile {
           width: calc(100% / 2);
           height: calc(100% / 2);
