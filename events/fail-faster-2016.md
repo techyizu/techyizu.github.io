@@ -21,7 +21,7 @@ Saturday Presentations:
 
 Sunday Presentations:
 * [Fail Faster: Pivot Presentation](http://share.weiyun.com/e16e89dd27fac0e285d6bc2a42f5205b)
-* [Fail Faster: Generic Team Presentation](http://share.weiyun.com/4bcd58be20ac1e7056ac5b43a49e4242)
+* [Fail Faster: Generic Team Presentation](http://share.weiyun.com/23bcb9dd945a44bb24189d5155529650)
 
 
 ----
