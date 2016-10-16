@@ -26,6 +26,8 @@ Barcamp的演讲和活动期待每一个人的参与！
 
 一如既往，Barcamp活动完全免费，欢迎任何人参加！
 
+请提前在Meetup报名：http://www.meetup.com/Techyizu/events/234750096/
+
 地址：
 
 上海纽约大学
@@ -53,6 +55,8 @@ If you want to speak, you can sign up on the morning of the event.  If you know 
 The goal is to get everybody involved!
 
 As always, Barcamp is free, and everyone is welcome to come!
+
+Sign up to the event on Meetup: http://www.meetup.com/Techyizu/events/234750096/
 
 Address:
 
@@ -90,7 +94,6 @@ Metro Station: Da Pu Qiao
 
 ## 上一届Barcamp相关信息 / Previous Barcamp recap
 
-Shanghai Barcamp Spring 2016: http://www.meetup.com/Techyizu/events/229221694/
 Send us your topics at: info@techyizu.org
 
 ![](/events/images/IMG_5535b-2-980x653.jpg)
@@ -102,4 +105,4 @@ Send us your topics at: info@techyizu.org
 
 
 ## 感谢我们的赞助商 / Thanks again to the sponsors!
-![](/events/images/barcamp-fall-2015-sponsors.png)
+![](/events/images/barcamp_2016_fall_sponsor_logos.png)
