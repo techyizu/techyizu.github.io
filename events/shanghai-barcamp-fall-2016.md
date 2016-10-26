@@ -4,11 +4,13 @@
 
 Shanghai Barcamp Fall will be at NYU Shanghai on 5 November!
 
-上海秋天Barcamp会在11月6日举行！
+上海秋天Barcamp会在11月5日举行！
 
 --------------------------------
 
 Barcamp是什么? Barcamp 是一个非常特别的科技活动。我们对所有人开放，目标就是让包括你在内的每一个人，都有机会分享创意和想法，参与到你感兴趣的科技项目中！
+
+What is Barcamp? Barcamp is unique kind of technology event, because the goal is to give everyone -- including YOU -- an opportunity to share ideas and actively participate.  
 
 如何参与：
 
@@ -18,37 +20,6 @@ Barcamp是什么? Barcamp 是一个非常特别的科技活动。我们对所有
 
 Barcamp的演讲和活动期待每一个人的参与！
 
-在过去的几届Barcamp，我们收获了各种令人激动的与科技相关的演讲，比如 Arduino & robotics, 初创企业和创业精神, Erlang语言, MongoDB, 数据安全等等。在Barcamp，我们只有一条规则，就是不要为你的公司或者产品打广告。就让我们在Barcamp这个活动中尽情分享对科技的热爱和执着吧！**这次我们将会推出VR(虚拟显示)系列！**
-
-如果你想发言你可以在活动当天的上午报道话题。报到此邮箱地址：[masked] 我们会把你的名字以及演讲题目在我们的网站上宣布。
-
-期待在今年的Barcamp遇见你！
-
-一如既往，Barcamp活动完全免费，欢迎任何人参加！
-
-请提前在Meetup报名：http://www.meetup.com/Techyizu/events/234750096/
-
-地址：
-
-上海纽约大学
-
-上海市浦东新区世纪大道1555号
-
-公共交通：地铁 2/4/6/9 号线世纪大道站（六号出口）
-
-### 已经确定的演讲话题
-
-* Google VR & Daydream ---- GDG Leo
-* VR设计的些经验 ---- eico design
-* VR直播技术和趋势 ---- 微鲸VR
-* VR在医疗方面的些应用 ---- Frog
-* PC VR开发技术
-* Music From Thin Air ---- Christian Grewell @ NYU Shanghai
-
---------------------------------
-
-What is Barcamp? Barcamp is unique kind of technology event, because the goal is to give everyone -- including YOU -- an opportunity to share ideas and actively participate.  
-
 Here's how it works:  
 
 At every Barcamp there is a big board with a grid. On one side are various room numbers, and on the other is time, in 30 minute increments.  
@@ -57,7 +28,15 @@ ANYONE who wants to give a presentation or demonstration simply writes their nam
 
 EVERYONE is invited to attend any talks or activities at Barcamp!  
 
+在过去的几届Barcamp，我们收获了各种令人激动的与科技相关的演讲，比如 Arduino & robotics, 初创企业和创业精神, Erlang语言, MongoDB, 数据安全等等。在Barcamp，我们只有一条规则，就是不要为你的公司或者产品打广告。就让我们在Barcamp这个活动中尽情分享对科技的热爱和执着吧！**这次我们将会推出VR(虚拟显示)系列！**
+
 Barcamps in the past have had lots of exciting talks about all sorts of technology topics, such as Arduino & robotics, startups and entrepreneurship, Erlang, MongoDB, Data security and more. There is only one rule: No advertisements for your business or product! Just let your own energy and nerdiness shine through. **At this Barcamp, we are featuring a Virtual Reality Track**
+
+如果你想发言你可以在活动当天的上午报道话题。报到此邮箱地址：[masked] 我们会把你的名字以及演讲题目在我们的网站上宣布。
+
+期待在今年的Barcamp遇见你！
+
+一如既往，Barcamp活动完全免费，欢迎任何人参加！
 
 If you want to speak, you can sign up on the morning of the event.  If you know your topic ahead of time, please tell us at [masked].  We’ll put your name and topic on the website!
 
@@ -65,7 +44,17 @@ The goal is to get everybody involved!
 
 As always, Barcamp is free, and everyone is welcome to come!
 
+请提前在Meetup报名：http://www.meetup.com/Techyizu/events/234750096/
+
 Sign up to the event on Meetup: http://www.meetup.com/Techyizu/events/234750096/
+
+地址：
+
+上海纽约大学 
+
+上海市浦东新区世纪大道1555号
+
+公共交通：地铁 2/4/6/9 号线世纪大道站（六号出口）
 
 Address:
 
@@ -75,16 +64,32 @@ NYU Shanghai
 
 Metro Station line: 2/4/6/9 Shi Ji Da Dao (Exist 6)
 
-### Confirmed sessions:
+### 先看看本次上海Barcamp已经收到的一些主题吧：
+### Here are some topics that you'll see at this Shanghai Barcamp:
 
-* Google VR & Daydream ---- GDG Leo
-* VR设计的些经验 ---- eico design
-* VR直播技术和趋势 ---- 微鲸VR
-* VR在医疗方面的些应用 ---- Frog
+* Google VR & Daydream ---- Leo
+* VR设计的些经验 
+* VR直播技术和趋势 
+* VR在医疗方面的些应用
 * PC VR开发技术
-* Music From Thin Air ---- Christian Grewell @ NYU Shanghai
+* Music From Thin Air ---- Christian Grewell
+* brainstorming on business models ---- Eduardo Alarcon 
+* No, you don't want to be an entrepreneur ---- Ronan Berder
+* Drone with 4G ---- Li Charlie
+* Self-Managing Organizations: How to Avoid Feeling Like a Meaty Cog in a Soulless Revenue Generating Machine ---- Alan Stafford
+* Animated gif workshop ---- Antonius Wiriadjaja
+* How to find the right sticker with wechat dev ---- Antonius Wiriadjaja
+* How To Build A B2B Freelance Sales Team ---- Liang SUN
+* Esperanto (and World Peace) 101 ---- Tracy Mehoke
+* Mobile trends for Chinese ---- Victor Lee
+* Greening China with real-time data and IoT for a low-carbon society ---- Eva Hsu
+* The challenges of distributed solar in China: What the future of solar looks like and how to scale it up ---- Alex Shoer
+* Hacking the Mind & Body - the Science of Enlightment ---- Kent Zaitlik
+* Disrupting the Medical Industry with A.I. ---- Kent Zaitlik
+* Plobot, the journey of a maker ---- Rudi
 
 --------------------------------
+
 
 ## 会议主题派对 / Afterparty
 
@@ -107,7 +112,7 @@ Tel: +86 21 6418 2252
 
 169 Jianguo Zhong Lu
 
-Metro Station: Da Pu Qiao
+Metro Station: Da Pu Qiao, line 9
 
 
 ## 上一届Barcamp相关信息 / Previous Barcamp recap
