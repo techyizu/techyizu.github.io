@@ -36,6 +36,15 @@ Barcamp的演讲和活动期待每一个人的参与！
 
 公共交通：地铁 2/4/6/9 号线世纪大道站（六号出口）
 
+### 已经确定的演讲话题
+
+* Google VR & Daydream ---- GDG Leo
+* VR设计的些经验 ---- eico design
+* VR直播技术和趋势 ---- 微鲸VR
+* VR在医疗方面的些应用 ---- Frog
+* PC VR开发技术
+* Music From Thin Air ---- Christian Grewell @ NYU Shanghai
+
 --------------------------------
 
 What is Barcamp? Barcamp is unique kind of technology event, because the goal is to give everyone -- including YOU -- an opportunity to share ideas and actively participate.  
@@ -65,6 +74,15 @@ NYU Shanghai
 1555 Shi Ji Da Dao
 
 Metro Station line: 2/4/6/9 Shi Ji Da Dao (Exist 6)
+
+### Confirmed sessions:
+
+* Google VR & Daydream ---- GDG Leo
+* VR设计的些经验 ---- eico design
+* VR直播技术和趋势 ---- 微鲸VR
+* VR在医疗方面的些应用 ---- Frog
+* PC VR开发技术
+* Music From Thin Air ---- Christian Grewell @ NYU Shanghai
 
 --------------------------------
 
