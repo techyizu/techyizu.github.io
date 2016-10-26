@@ -32,13 +32,13 @@ EVERYONE is invited to attend any talks or activities at Barcamp!
 
 Barcamps in the past have had lots of exciting talks about all sorts of technology topics, such as Arduino & robotics, startups and entrepreneurship, Erlang, MongoDB, Data security and more. There is only one rule: No advertisements for your business or product! Just let your own energy and nerdiness shine through. **At this Barcamp, we are featuring a Virtual Reality Track**
 
-如果你想发言你可以在活动当天的上午报道话题。报到此邮箱地址：[masked] 我们会把你的名字以及演讲题目在我们的网站上宣布。
+如果你想发言你可以在活动当天的上午报道话题。报到此邮箱地址：barcamp@techyizu.org 我们会把你的名字以及演讲题目在我们的网站上宣布。
 
 期待在今年的Barcamp遇见你！
 
 一如既往，Barcamp活动完全免费，欢迎任何人参加！
 
-If you want to speak, you can sign up on the morning of the event.  If you know your topic ahead of time, please tell us at [masked].  We’ll put your name and topic on the website!
+If you want to speak, you can sign up on the morning of the event.  If you know your topic ahead of time, please tell us at barcamp@techyizu.org We’ll put your name and topic on the website!
 
 The goal is to get everybody involved!
 
