@@ -75,7 +75,9 @@ NYU Shanghai
 
 Metro Station line: 2/4/6/9 Shi Ji Da Dao (Exist 6)
 
-### <a name="sessions">Confirmed sessions:</a>
+### Confirmed sessions:
+
+<a name="sessions">bookmark</a>
 
 * Google VR & Daydream ---- GDG Leo
 * VR设计的些经验 ---- eico design
