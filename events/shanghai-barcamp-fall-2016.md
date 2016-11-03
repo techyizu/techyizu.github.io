@@ -73,6 +73,8 @@ Metro Station line: 2/4/6/9 Shi Ji Da Dao (Exist 6)
 * VR在医疗方面的些应用
 * PC VR开发技术
 * Music From Thin Air ---- Christian Grewell
+* Hyperspace manipulates your environment to challenge your point of reference ---- Baaria chaudhary, Marjorie Wang, and Joseph Modirzadeh
+* VR/AR & the future beyond gaming - panel discussion 
 * brainstorming on business models ---- Eduardo Alarcon 
 * No, you don't want to be an entrepreneur ---- Ronan Berder
 * Drone with 4G ---- Li Charlie
@@ -81,12 +83,22 @@ Metro Station line: 2/4/6/9 Shi Ji Da Dao (Exist 6)
 * How to find the right sticker with wechat dev ---- Antonius Wiriadjaja
 * How To Build A B2B Freelance Sales Team ---- Liang SUN
 * Esperanto (and World Peace) 101 ---- Tracy Mehoke
-* Mobile trends for Chinese ---- Victor Lee
+* How mobile and tech trends shapes Chinese consumers in 2017 ---- Victor Lee
 * Greening China with real-time data and IoT for a low-carbon society ---- Eva Hsu
 * The challenges of distributed solar in China: What the future of solar looks like and how to scale it up ---- Alex Shoer
 * Hacking the Mind & Body - the Science of Enlightment ---- Kent Zaitlik
 * Disrupting the Medical Industry with A.I. ---- Kent Zaitlik
-* Plobot, the journey of a maker ---- Rudi
+* Plobot, the journey of a maker ---- Rodolfo Cossovich
+* What would you do if you are not scared? ---- Anastasiia Isakii
+* Challenge and overcoming the devil within ---- Brendan Freefite
+* Snowdrift.coop: sustainable funding for FLO projects ---- William Hale
+* Projects of ToorCamp: the american hacker camp ---- William Hale
+* IT in education, a transformation from student-centered to learning- centered ---- Phoebe Shen
+* Neuroscience is the Key to Persuassion ---- Aaron Wallace
+* Mechanisms and Sugar Engineering ---- Eric Hagan 
+* Technology as Anthropology ---- Roopa Vasudevan
+* Developing machines to recycle plastics
+* Urban Farming ---- Daniel Mikesell
 
 --------------------------------
 
