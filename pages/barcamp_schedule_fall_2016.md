@@ -1,8 +1,8 @@
-#Shanghai BarCamp Fall 2016 - Schedule
+Shanghai BarCamp Fall 2016 - Schedule
 --------------------------------
 **Reload the page if it is not updating!**
 
-<h2>10:00</h2>
+##10:00
 * Introduction to BARCAMP
 
 
