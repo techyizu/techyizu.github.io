@@ -99,6 +99,9 @@ Metro Station line: 2/4/6/9 Shi Ji Da Dao (Exist 6)
 * Technology as Anthropology ---- Roopa Vasudevan
 * Developing machines to recycle plastics
 * Urban Farming ---- Daniel Mikesell
+* Economic Gardening with 10,000 Hours -  The Means To A Very Interesting Life ---- Sam Korsmoe
+* burning man / dragon burn community ---- franz urijoe
+* Foundations of Sci-Fi Environmentalism (works of Kim Stanley Robinson) ---- Jack Koppa
 
 --------------------------------
 
