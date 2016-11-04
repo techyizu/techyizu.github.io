@@ -1,4 +1,4 @@
-Shanghai BarCamp Fall 2016 - Schedule
+#Shanghai BarCamp Fall 2016 - Schedule
 --------------------------------
 **Reload the page if it is not updating!**
 
@@ -6,7 +6,7 @@ Shanghai BarCamp Fall 2016 - Schedule
 * Introduction to BARCAMP
 
 
-<h2>10:30 </h2>
+##10:30
 * Room 201
 * Room 201
 * Room 201
@@ -17,7 +17,7 @@ Shanghai BarCamp Fall 2016 - Schedule
 * Room 201
 
 
-<h2>11:00</h2>
+##11:00 
 * Room 201
 * Room 201
 * Room 201
@@ -28,7 +28,7 @@ Shanghai BarCamp Fall 2016 - Schedule
 * Room 201
 
 
-<h2>11:30</h2>
+##11:30 
 * Room 201
 * Room 201
 * Room 201
@@ -39,23 +39,12 @@ Shanghai BarCamp Fall 2016 - Schedule
 * Room 201
 
 
-<h2>12:00 </h2>
+##12:00  
 * LUNCH
 
-<h2>12:30</h2>
+##12:30 
 
-<h2>1:00</h2>
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-
-
-<h2>1:30</h2>
+##1:00 
 * Room 201
 * Room 201
 * Room 201
@@ -65,7 +54,8 @@ Shanghai BarCamp Fall 2016 - Schedule
 * Room 201
 * Room 201
 
-<h2>2:00</h2>
+
+##1:30 
 * Room 201
 * Room 201
 * Room 201
@@ -75,7 +65,7 @@ Shanghai BarCamp Fall 2016 - Schedule
 * Room 201
 * Room 201
 
-<h2>2:30</h2>
+##2:00 
 * Room 201
 * Room 201
 * Room 201
@@ -85,7 +75,7 @@ Shanghai BarCamp Fall 2016 - Schedule
 * Room 201
 * Room 201
 
-<h2>3:00</h2>
+##2:30 
 * Room 201
 * Room 201
 * Room 201
@@ -95,7 +85,7 @@ Shanghai BarCamp Fall 2016 - Schedule
 * Room 201
 * Room 201
 
-<h2>3:30</h2>
+##3:00 
 * Room 201
 * Room 201
 * Room 201
@@ -105,7 +95,7 @@ Shanghai BarCamp Fall 2016 - Schedule
 * Room 201
 * Room 201
 
-<h2>4:00</h2>
+##3:30 
 * Room 201
 * Room 201
 * Room 201
@@ -115,7 +105,7 @@ Shanghai BarCamp Fall 2016 - Schedule
 * Room 201
 * Room 201
 
-<h2>4:30</h2>
+##4:00 
 * Room 201
 * Room 201
 * Room 201
@@ -125,7 +115,7 @@ Shanghai BarCamp Fall 2016 - Schedule
 * Room 201
 * Room 201
 
-<h2>5:00</h2>
+##4:30 
 * Room 201
 * Room 201
 * Room 201
@@ -135,7 +125,17 @@ Shanghai BarCamp Fall 2016 - Schedule
 * Room 201
 * Room 201
 
-<h2>5:30</h2>
+##5:00 
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+
+##5:30 
 * Room 201
 * Room 201
 * Room 201
@@ -147,7 +147,7 @@ Shanghai BarCamp Fall 2016 - Schedule
 
 
 #AFTERPARTY
-<h2>Kaiba</h2>
+##Kaiba 
 
 建国中路169号
 地铁9号线打浦桥站
