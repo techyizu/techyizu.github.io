@@ -1,12 +1,10 @@
-# Shanghai BarCamp Fall 2016 - Schedule
+#Shanghai BarCamp Fall 2016 - Schedule
 --------------------------------
-<h2>SCHEDULE</h2>
-
-<h3>10:00</h3>
+<h2>10:00</h2>
 * Introduction to BARCAMP
 
 
-##10:30
+<h2>10:30 </h2>
 * Room 201
 * Room 201
 * Room 201
@@ -17,7 +15,7 @@
 * Room 201
 
 
-##11:00
+<h2>11:00</h2>
 * Room 201
 * Room 201
 * Room 201
@@ -28,7 +26,7 @@
 * Room 201
 
 
-##11:30
+<h2>11:30</h2>
 * Room 201
 * Room 201
 * Room 201
@@ -39,103 +37,12 @@
 * Room 201
 
 
-##12:00 
-LUNCH
+<h2>12:00 </h2>
+* LUNCH
 
-##12:30
+<h2>12:30</h2>
 
-##1:00
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-
-
-##1:30
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-
-##2:00
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-
-##2:30
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-
-##3:00
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-
-##3:30
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-
-##4:00
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-
-##4:30
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-
-##5:00
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-* Room 201
-
-##5:30
+<h2>1:00</h2>
 * Room 201
 * Room 201
 * Room 201
@@ -146,8 +53,99 @@ LUNCH
 * Room 201
 
 
-##AFTERPARTY
-###Kaiba
+<h2>1:30</h2>
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+
+<h2>2:00</h2>
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+
+<h2>2:30</h2>
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+
+<h2>3:00</h2>
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+
+<h2>3:30</h2>
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+
+<h2>4:00</h2>
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+
+<h2>4:30</h2>
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+
+<h2>5:00</h2>
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+
+<h2>5:30</h2>
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+* Room 201
+
+
+#AFTERPARTY
+<h2>Kaiba</h2>
 
 建国中路169号
 地铁9号线打浦桥站
@@ -159,4 +157,5 @@ Metro Station: Da Pu Qiao, line 9
 
 
 
-##THANKS FOR COMING!
+#THANKS FOR COMING!
+- The Techyizu Organizers
