@@ -51,8 +51,8 @@
 * Room 204 - DRONE with 4G - Charlie
 * Room 207 - 
 * Room 208 - 
-* Room 209 - XINCHEJIAN - 
-* Room 210 - 
+* Room 209 - XINCHEJIAN - Brainstorm on business models
+* Room 210 - One Minute People Reading - 一分钟面对认人
 * Room 211 - 
 * Room 212 - 
 
@@ -64,12 +64,13 @@
 * Room 207 - Precious Plastics (Recycling) w/ Marcela Godoy
 * Room 208 - 
 * Room 209 - XINCHEJIAN - Brainstorm on business models
-* Room 210 - One Minute People Reading - 一分钟面对认人
+* Room 210 - NO! YOU DON'T WANNA BE AN ENTREPRENEUR
 * Room 211 - 
 * Room 212 - 
 
 
-## 12:30 
+
+## 1:30 
 
 ### LUNCH 12:30 - 2:00
 
@@ -78,22 +79,7 @@
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 - XINCHEJIAN
-* Room 210 - No! You shouldn't be an entrepreneur 
-* Room 211 - 
-* Room 212 - 
-
-
-## 1:30 
-
-### LUNCH 12:30 - 2:00
-
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
-* Room 204 - 
-* Room 207 - 
-* Room 208 - 
-* Room 209 -
+* Room 209 - XINCHEJIAN - 
 * Room 210 - 
 * Room 211 - DANCE PREP!
 * Room 212 - 
