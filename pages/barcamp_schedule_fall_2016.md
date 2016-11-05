@@ -21,11 +21,11 @@
 ## 10:30
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
-* Room 204 - 
+* Room 203 - VR Room -
+* Room 204 - IMA Pecha Kucha
 * Room 207 - 
 * Room 208 - 
-* Room 209 -
+* Room 209 - XINCHEJIAN - What is a hackerspace?
 * Room 210 - 
 * Room 211 - 
 * Room 212 - 
@@ -34,12 +34,12 @@
 ## 11:00 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
+* Room 203 - VR Room - VR Live Product Demo - VR 直播技术介绍
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 -
-* Room 210 - 
+* Room 209 - XINCHEJIAN - Snowdrift.coop Free / libre / open Crowd-matching Sustainable Funding 
+* Room 210 - The "easy" way to start up - Lucas
 * Room 211 - 
 * Room 212 - 
 * Room 213 - 
@@ -48,11 +48,11 @@
 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
-* Room 204 - 
+* Room 203 - VR Room - Google VR Daydream  谷歌VR和 Daydream by GDG
+* Room 204 - DRONE with 4G - Charlie
 * Room 207 - 
 * Room 208 - 
-* Room 209 -
+* Room 209 - XINCHEJIAN - 
 * Room 210 - 
 * Room 211 - 
 * Room 212 - 
