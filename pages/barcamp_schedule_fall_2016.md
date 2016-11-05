@@ -2,10 +2,13 @@
 #Shanghai BarCamp Fall 2016 - Schedule
 
 --------------------------------
-WIFI: nyuguest
-USER: guest800
-PASS: etphlola
+
+> WIFI: nyuguest
+> USER: guest800
+> PASS: etphlola
+
 --------------------------------
+
 Quick link:  http://nounly.com/tower
 **Reload the page if it is not updating!**
 
