@@ -31,7 +31,7 @@
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
 * Room 203 - VR Room - Google VR Daydream  谷歌VR和 Daydream by GDG
 * Room 204 - Narrative Medicine + Healthcare Design: A match made in UX heaven - Lissanthea 
-* Room 207 - Precious Plastics (Recycling) w/ Marcela Godoy
+* Room 207 - 
 * Room 208 - 
 * Room 209 - XINCHEJIAN - Brainstorm on business models
 * Room 210 - NO! YOU DON'T WANNA BE AN ENTREPRENEUR
@@ -59,7 +59,7 @@
 * Room 204 - What I learned Cannes Lions - The International Festival of Comedy
 * Room 207 - 
 * Room 208 - 
-* Room 209 - XINCHEJIAN - Precious Plastic
+* Room 209 - XINCHEJIAN - Precious Plastics (Recycling) 
 * Room 210 - 
 * Room 211 - DANCE DANCE DANCE!!!
 * Room 212 - 
