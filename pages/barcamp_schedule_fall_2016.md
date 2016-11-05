@@ -74,6 +74,8 @@
 
 ## 12:30 
 
+### LUNCH 12:30 - 2:00
+
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
 * Room 203 - VR Room - 
 * Room 204 - 
@@ -85,20 +87,6 @@
 * Room 212 - 
 * Room 213 - 
 
-## 1:00 
-
-### LUNCH 12:30 - 2:00 
-
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
-* Room 204 - 
-* Room 207 - 
-* Room 208 - 
-* Room 209 -
-* Room 210 - 
-* Room 211 - 
-* Room 212 - 
-* Room 213 - 
 
 ## 1:30 
 
@@ -118,13 +106,13 @@
 ## 2:00 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
+* Room 203 - VR Room - 
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 -
+* Room 209 - XINCHEJIAN - Precious Plastic
 * Room 210 - 
-* Room 211 - 
+* Room 211 - DANCE
 * Room 212 - 
 * Room 213 - 
 
@@ -132,13 +120,13 @@
 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
+* Room 203 - VR Room - 
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 -
-* Room 210 - 
-* Room 211 - 
+* Room 209 - XINCHEJIAN - 
+* Room 210 - Self-managing companies workshop - Alan Stafford
+* Room 211 - DANCE
 * Room 212 - 
 * Room 213 - 
 
@@ -147,11 +135,11 @@
 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
+* Room 203 - VR Room - 
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 -
+* Room 209 - XINCHEJIAN - 
 * Room 210 - 
 * Room 211 - 
 * Room 212 - 
@@ -160,11 +148,11 @@
 ## 3:30 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
+* Room 203 - VR Room -
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 -
+* Room 209 - XINCHEJIAN - 
 * Room 210 - 
 * Room 211 - 
 * Room 212 - 
@@ -173,12 +161,12 @@
 ## 4:00 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
+* Room 203 - VR Room - 
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 -
-* Room 210 - 
+* Room 209 - XINCHEJIAN - 
+* Room 210 - Why we FAIL at influencing others
 * Room 211 - 
 * Room 212 - 
 * Room 213 - 
@@ -186,11 +174,11 @@
 ## 4:30 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
-* Room 204 - 
+* Room 203 - VR Room - 
+* Room 204 - PLOBOT with IMA Prof. Rudi
 * Room 207 - 
 * Room 208 - 
-* Room 209 -
+* Room 209 - XINCHEJIAN - 
 * Room 210 - 
 * Room 211 - 
 * Room 212 - 
