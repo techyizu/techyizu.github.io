@@ -114,7 +114,7 @@
 * Room 207 - Basics of tech security (for real dummies) - Cryptolounge
 * Room 208 - 
 * Room 209 - XINCHEJIAN - 
-* Room 210 - Why we FAIL at influencing others
+* Room 210 - 
 * Room 211 - 
 * Room 212 - 
 
