@@ -53,7 +53,7 @@
 * Room 208 - 
 * Room 209 - XINCHEJIAN - Brainstorm on business models
 * Room 210 - One Minute People Reading - 一分钟面对认人
-* Room 211 - 
+* Room 211 - Re-imagine the Future of Education - Chenxi
 * Room 212 - 
 
 ## 12:00  
@@ -88,12 +88,12 @@
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
 * Room 203 - VR Room - 
-* Room 204 - 
+* Room 204 - What I learned Cannes Lions - The International Festival of Comedy
 * Room 207 - 
 * Room 208 - 
 * Room 209 - XINCHEJIAN - Precious Plastic
 * Room 210 - 
-* Room 211 - DANCE
+* Room 211 - DANCE DANCE DANCE!!!
 * Room 212 - 
 
 ## 2:30 
@@ -106,7 +106,7 @@
 * Room 208 - 
 * Room 209 - XINCHEJIAN - 
 * Room 210 - Self-managing companies workshop - Alan Stafford
-* Room 211 - DANCE
+* Room 211 - DANCE DANCE DANCE!!!
 * Room 212 - 
 
 
