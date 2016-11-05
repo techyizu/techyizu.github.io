@@ -13,36 +13,6 @@
 * Sorry if there were mistakes earlier -- please RELOAD! - organizers
 --------------------------------
 
-## 10:00
-
-* Introduction to BARCAMP
-
-
-## 10:30
-
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - VR Room -
-* Room 204 - IMA Pecha Kucha
-* Room 207 - 
-* Room 208 - 
-* Room 209 - XINCHEJIAN - What is a hackerspace?
-* Room 210 - 
-* Room 211 - 
-* Room 212 - 
-* Room 213 - 
-
-## 11:00 
-
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - VR Room - VR Live Product Demo - VR 直播技术介绍
-* Room 204 - 
-* Room 207 - 
-* Room 208 - 
-* Room 209 - XINCHEJIAN - Snowdrift.coop Free / libre / open Crowd-matching Sustainable Funding 
-* Room 210 - The "easy" way to start up - Lucas
-* Room 211 - 
-* Room 212 - 
-
 ## 11:30 
 
 
@@ -192,3 +162,39 @@ Metro Station: Da Pu Qiao, line 9
 # THANKS FOR COMING!
 
 - The Techyizu Organizers
+
+--------------------------------
+
+# Completed Talks
+
+
+## 10:00
+
+* Introduction to BARCAMP
+
+
+## 10:30
+
+* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
+* Room 203 - VR Room -
+* Room 204 - IMA Pecha Kucha
+* Room 207 - 
+* Room 208 - 
+* Room 209 - XINCHEJIAN - What is a hackerspace?
+* Room 210 - 
+* Room 211 - 
+* Room 212 - 
+* Room 213 - 
+
+## 11:00 
+
+* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
+* Room 203 - VR Room - VR Live Product Demo - VR 直播技术介绍
+* Room 204 - 
+* Room 207 - 
+* Room 208 - 
+* Room 209 - XINCHEJIAN - Snowdrift.coop Free / libre / open Crowd-matching Sustainable Funding 
+* Room 210 - The "easy" way to start up - Lucas
+* Room 211 - 
+* Room 212 - 
+
