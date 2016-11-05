@@ -66,19 +66,19 @@
 * Room 208 - 
 * Room 209 - XINCHEJIAN - Why smart kids don't challenge themselves and how to fix it - Maciej, Squiggle Labs
 * Room 210 - Disrupting the Medical Industry w/ AI - Kent
-* Room 211 - DANCE DANCE DANCE!!! (dance workshop!)
+* Room 211 - DANCE DANCE DANCE!!! (dance workshop!)  (con't)
 * Room 212 - 
 
 ## 3:30 
 
 * Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
-* Room 203 - VR Room - VR / AR and the future beyond gaming - Panel Discussion
+* Room 203 - VR Room - VR / AR and the future beyond gaming - Panel Discussion (con't)
 * Room 204 - How to pitch your company to a reporter - Eva
 * Room 207 - 
 * Room 208 - 
-* Room 209 - XINCHEJIAN - How to hack the life skills! - Margarita
+* Room 209 - How to hack the life skills! - Margarita
 * Room 210 - Foundations of Environmentalism in SCI-FI- Jack Koppa
-* Room 211 - 
+* Room 211 - Before The Flood - Film Screening
 * Room 212 - 
 
 ## 4:00 
@@ -88,9 +88,9 @@
 * Room 204 - 
 * Room 207 - Basics of tech security (for real dummies) - Cryptolounge
 * Room 208 - Speed Reading Hacks (bring a book or something to read) - Tadas
-* Room 209 - XINCHEJIAN - What would you do if you were not scared? - Anastasia
+* Room 209 - What would you do if you were not scared? - Anastasia
 * Room 210 - DRAGONBURN: The Unfestival
-* Room 211 - 
+* Room 211 - Before The Flood - Film Screening (con't)
 * Room 212 - 
 
 ## 4:30 
@@ -100,9 +100,9 @@
 * Room 204 - PLOBOT with IMA Prof. Rudi
 * Room 207 - 
 * Room 208 - 
-* Room 209 - XINCHEJIAN - 
+* Room 209 - How to captain a boat,  your company or your life - Nestor
 * Room 210 - 
-* Room 211 - 
+* Room 211 - Before The Flood - Film Screening (con't)
 * Room 212 - 
 
 ## 5:00 
