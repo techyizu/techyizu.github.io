@@ -50,7 +50,7 @@
 * Room 204 - 
 * Room 207 - Transporting an Urban Billion - Hyperloop in China
 * Room 208 - 
-* Room 209 - XINCHEJIAN - 
+* Room 209 - Creatives are BULLSHIT!
 * Room 210 - Economic Gardening With 10,000 Hours - means to a better life.  Sam Korsmoe
 * Room 211 - DANCE PREP!
 * Room 212 - 
@@ -109,7 +109,7 @@
 ## 4:00 
 
 * Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
-* Room 203 - VR Room - 
+* Room 203 - VR Room - Microsoft Hololens Introduction (中文)
 * Room 204 - 
 * Room 207 - Basics of tech security (for real dummies) - Cryptolounge
 * Room 208 - 
