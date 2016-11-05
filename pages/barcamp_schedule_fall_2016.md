@@ -1,5 +1,4 @@
-
-#Shanghai BarCamp Fall 2016 - Schedule
+# Shanghai BarCamp Fall 2016 - Schedule
 
 --------------------------------
 ```
@@ -14,12 +13,12 @@
 
 --------------------------------
 
-##10:00
+## 10:00
 
 * Introduction to BARCAMP
 
 
-##10:30
+## 10:30
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
 * Room 203 - 
@@ -32,7 +31,7 @@
 * Room 212 - 
 * Room 213 - 
 
-##11:00 
+## 11:00 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
 * Room 203 - 
@@ -45,37 +44,7 @@
 * Room 212 - 
 * Room 213 - 
 
-##11:30 
-
-
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
-* Room 204 - 
-* Room 207 - 
-* Room 208 - 
-* Room 209 -
-* Room 210 - 
-* Room 211 - 
-* Room 212 - 
-* Room 213 - 
-
-##12:00  
-
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
-* Room 204 - 
-* Room 207 - 
-* Room 208 - 
-* Room 209 -
-* Room 210 - 
-* Room 211 - 
-* Room 212 - 
-* Room 213 - 
-
-
-##12:30 
-
-### LUNCH
+## 11:30 
 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
@@ -89,9 +58,7 @@
 * Room 212 - 
 * Room 213 - 
 
-##1:00 
-
-###LUNCH - 
+## 12:00  
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
 * Room 203 - 
@@ -104,7 +71,38 @@
 * Room 212 - 
 * Room 213 - 
 
-##1:30 
+
+## 12:30 
+
+### LUNCH 12:30 - 2:00 
+
+* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
+* Room 203 - 
+* Room 204 - 
+* Room 207 - 
+* Room 208 - 
+* Room 209 -
+* Room 210 - 
+* Room 211 - 
+* Room 212 - 
+* Room 213 - 
+
+## 1:00 
+
+### LUNCH 12:30 - 2:00 
+
+* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
+* Room 203 - 
+* Room 204 - 
+* Room 207 - 
+* Room 208 - 
+* Room 209 -
+* Room 210 - 
+* Room 211 - 
+* Room 212 - 
+* Room 213 - 
+
+## 1:30 
 
 ### LUNCH 12:30 - 2:00
 
@@ -119,7 +117,7 @@
 * Room 212 - 
 * Room 213 - 
 
-##2:00 
+## 2:00 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
 * Room 203 - 
@@ -132,22 +130,7 @@
 * Room 212 - 
 * Room 213 - 
 
-##2:30 
-
-
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
-* Room 204 - 
-* Room 207 - 
-* Room 208 - 
-* Room 209 -
-* Room 210 - 
-* Room 211 - 
-* Room 212 - 
-* Room 213 - 
-
-
-##3:00 
+## 2:30 
 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
@@ -161,7 +144,8 @@
 * Room 212 - 
 * Room 213 - 
 
-##3:30 
+
+## 3:00 
 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
@@ -175,22 +159,7 @@
 * Room 212 - 
 * Room 213 - 
 
-##4:00 
-
-
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
-* Room 204 - 
-* Room 207 - 
-* Room 208 - 
-* Room 209 -
-* Room 210 - 
-* Room 211 - 
-* Room 212 - 
-* Room 213 - 
-
-##4:30 
-
+## 3:30 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
 * Room 203 - 
@@ -203,8 +172,7 @@
 * Room 212 - 
 * Room 213 - 
 
-##5:00 
-
+## 4:00 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
 * Room 203 - 
@@ -217,8 +185,33 @@
 * Room 212 - 
 * Room 213 - 
 
-##5:30 
+## 4:30 
 
+* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
+* Room 203 - 
+* Room 204 - 
+* Room 207 - 
+* Room 208 - 
+* Room 209 -
+* Room 210 - 
+* Room 211 - 
+* Room 212 - 
+* Room 213 - 
+
+## 5:00 
+
+* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
+* Room 203 - 
+* Room 204 - 
+* Room 207 - 
+* Room 208 - 
+* Room 209 -
+* Room 210 - 
+* Room 211 - 
+* Room 212 - 
+* Room 213 - 
+
+## 5:30 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
 * Room 203 - 
@@ -232,14 +225,14 @@
 * Room 213 - 
 
 --------------------------------
-#Floorplan
+# Floorplan
 
 ![NYUFloorplan](/pages/images/NYU_Floorplan_Barcamp_201611_600b.jpg)
 
 
-#AFTERPARTY
+# AFTERPARTY
 
-##Kaiba 
+## Kaiba 
 
 建国中路169号
 地铁9号线打浦桥站
@@ -251,6 +244,6 @@ Metro Station: Da Pu Qiao, line 9
 
 --------------------------------
 
-#THANKS FOR COMING!
+# THANKS FOR COMING!
 
 - The Techyizu Organizers
