@@ -80,7 +80,7 @@
 * Room 207 - 
 * Room 208 - 
 * Room 209 - XINCHEJIAN - 
-* Room 210 - 
+* Room 210 - Economic Gardening With 10,000 Hours - means to a better life.  Sam Korsmoe
 * Room 211 - DANCE PREP!
 * Room 212 - 
 
@@ -89,7 +89,7 @@
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
 * Room 203 - VR Room - 
 * Room 204 - What I learned Cannes Lions - The International Festival of Comedy
-* Room 207 - 
+* Room 207 - Transporting an Urban Billion - Hyperloop in China
 * Room 208 - 
 * Room 209 - XINCHEJIAN - Precious Plastic
 * Room 210 - 
