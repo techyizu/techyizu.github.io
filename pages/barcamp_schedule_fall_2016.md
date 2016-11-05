@@ -87,7 +87,7 @@
 * Room 203 - VR Room - Microsoft Hololens Introduction (中文)
 * Room 204 - 
 * Room 207 - Basics of tech security (for real dummies) - Cryptolounge
-* Room 208 - 
+* Room 208 - Speed Reading Hacks (bring a book or something to read) - Tadas
 * Room 209 - XINCHEJIAN - What would you do if you were not scared? - Anastasia
 * Room 210 - 
 * Room 211 - 
