@@ -129,7 +129,7 @@
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
 * Room 203 - VR Room - 
-* Room 204 - 
+* Room 204 - Esperanto 101 (and world peace) - Tracy Mehoke
 * Room 207 - 
 * Room 208 - 
 * Room 209 - XINCHEJIAN - 
