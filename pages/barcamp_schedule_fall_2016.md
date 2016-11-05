@@ -34,7 +34,7 @@
 
 * Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
 * Room 203 - VR Room - 
-* Room 204 - What I learned Cannes Lions - The International Festival of Comedy
+* Room 204 - What I learned in Cannes Lions - The International Festival of Comedy
 * Room 207 - 
 * Room 208 - 
 * Room 209 - XINCHEJIAN - Precious Plastics (Recycling) 
@@ -50,7 +50,7 @@
 * Room 204 - How Mobile + Tech impacts Chinese in 2017 - Victor Lee
 * Room 207 - Evolutionizing career education in China - Ming 明泉
 * Room 208 - 
-* Room 209 - XINCHEJIAN - 
+* Room 209 - XINCHEJIAN - ToorCamp: The American Hacker Camp
 * Room 210 - Self-managing companies workshop - Alan Stafford
 * Room 211 - DANCE DANCE DANCE!!! (dance workshop!)
 * Room 212 - 
@@ -89,7 +89,7 @@
 * Room 207 - Basics of tech security (for real dummies) - Cryptolounge
 * Room 208 - Speed Reading Hacks (bring a book or something to read) - Tadas
 * Room 209 - XINCHEJIAN - What would you do if you were not scared? - Anastasia
-* Room 210 - 
+* Room 210 - DRAGONBURN: The Unfestival
 * Room 211 - 
 * Room 212 - 
 
