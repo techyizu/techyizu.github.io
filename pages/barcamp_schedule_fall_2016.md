@@ -61,12 +61,12 @@
 ## 12:00  
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
-* Room 204 - 
-* Room 207 - 
+* Room 203 - VR Room - Google VR Daydream  谷歌VR和 Daydream by GDG
+* Room 204 - Narrative Medicine + Healthcare Design: A match made in UX heaven - Lissanthea 
+* Room 207 - Precious Plastics (Recycling) w/ Marcela Godoy
 * Room 208 - 
-* Room 209 -
-* Room 210 - 
+* Room 209 - XINCHEJIAN - Brainstorm on business models
+* Room 210 - One Minute People Reading - 一分钟面对认人
 * Room 211 - 
 * Room 212 - 
 * Room 213 - 
@@ -74,15 +74,13 @@
 
 ## 12:30 
 
-### LUNCH 12:30 - 2:00 
-
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
+* Room 203 - VR Room - 
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 -
-* Room 210 - 
+* Room 209 - XINCHEJIAN
+* Room 210 - No! You shouldn't be an entrepreneur 
 * Room 211 - 
 * Room 212 - 
 * Room 213 - 
@@ -113,7 +111,7 @@
 * Room 208 - 
 * Room 209 -
 * Room 210 - 
-* Room 211 - 
+* Room 211 - DANCE PREP!
 * Room 212 - 
 * Room 213 - 
 
