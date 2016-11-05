@@ -42,7 +42,6 @@
 * Room 210 - The "easy" way to start up - Lucas
 * Room 211 - 
 * Room 212 - 
-* Room 213 - 
 
 ## 11:30 
 
@@ -56,7 +55,6 @@
 * Room 210 - 
 * Room 211 - 
 * Room 212 - 
-* Room 213 - 
 
 ## 12:00  
 
@@ -69,7 +67,6 @@
 * Room 210 - One Minute People Reading - 一分钟面对认人
 * Room 211 - 
 * Room 212 - 
-* Room 213 - 
 
 
 ## 12:30 
@@ -85,7 +82,6 @@
 * Room 210 - No! You shouldn't be an entrepreneur 
 * Room 211 - 
 * Room 212 - 
-* Room 213 - 
 
 
 ## 1:30 
@@ -101,7 +97,6 @@
 * Room 210 - 
 * Room 211 - DANCE PREP!
 * Room 212 - 
-* Room 213 - 
 
 ## 2:00 
 
@@ -114,7 +109,6 @@
 * Room 210 - 
 * Room 211 - DANCE
 * Room 212 - 
-* Room 213 - 
 
 ## 2:30 
 
@@ -128,7 +122,6 @@
 * Room 210 - Self-managing companies workshop - Alan Stafford
 * Room 211 - DANCE
 * Room 212 - 
-* Room 213 - 
 
 
 ## 3:00 
@@ -143,7 +136,6 @@
 * Room 210 - 
 * Room 211 - 
 * Room 212 - 
-* Room 213 - 
 
 ## 3:30 
 
@@ -156,7 +148,6 @@
 * Room 210 - 
 * Room 211 - 
 * Room 212 - 
-* Room 213 - 
 
 ## 4:00 
 
@@ -169,7 +160,6 @@
 * Room 210 - Why we FAIL at influencing others
 * Room 211 - 
 * Room 212 - 
-* Room 213 - 
 
 ## 4:30 
 
@@ -182,33 +172,31 @@
 * Room 210 - 
 * Room 211 - 
 * Room 212 - 
-* Room 213 - 
 
 ## 5:00 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
+* Room 203 - VR Room - 
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 -
+* Room 209 - XINCHEJIAN
 * Room 210 - 
 * Room 211 - 
 * Room 212 - 
-* Room 213 - 
 
 ## 5:30 
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - 
+* Room 203 - VR Room - 
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 -
+* Room 209 - XINCHEJIAN
 * Room 210 - 
 * Room 211 - 
 * Room 212 - 
-* Room 213 - 
+
 
 --------------------------------
 # Floorplan
