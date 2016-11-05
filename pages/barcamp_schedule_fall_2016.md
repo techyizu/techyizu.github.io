@@ -27,7 +27,7 @@
 * Room 208 - 
 * Room 209 - Creatives are BULLSHIT!
 * Room 210 - Economic Gardening With 10,000 Hours - means to a better life.  Sam Korsmoe
-* Room 211 - DANCE PREP!
+* Room 211 - 
 * Room 212 - 
 
 ## 2:00 
@@ -39,7 +39,7 @@
 * Room 208 - 
 * Room 209 - XINCHEJIAN - Precious Plastics (Recycling) 
 * Room 210 - Hacking the Mind and Body - The Science of Enlightenment - Kent
-* Room 211 - DANCE DANCE DANCE!!!
+* Room 211 - (DANCE PREP!)
 * Room 212 - 
 
 ## 2:30 
@@ -52,7 +52,7 @@
 * Room 208 - 
 * Room 209 - XINCHEJIAN - 
 * Room 210 - Self-managing companies workshop - Alan Stafford
-* Room 211 - DANCE DANCE DANCE!!!
+* Room 211 - DANCE DANCE DANCE!!! (dance workshop!)
 * Room 212 - 
 
 
@@ -66,7 +66,7 @@
 * Room 208 - 
 * Room 209 - XINCHEJIAN - Why smart kids don't challenge themselves and how to fix it - Maciej, Squiggle Labs
 * Room 210 - Disrupting the Medical Industry w/ AI - Kent
-* Room 211 - 
+* Room 211 - DANCE DANCE DANCE!!! (dance workshop!)
 * Room 212 - 
 
 ## 3:30 
