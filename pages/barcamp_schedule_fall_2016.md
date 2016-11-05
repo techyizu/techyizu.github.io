@@ -73,7 +73,7 @@
 * Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
 * Room 203 - VR Room - 
 * Room 204 - How Mobile + Tech impacts Chinese in 2017 - Victor Lee
-* Room 207 - 
+* Room 207 - Evolutionizing career education in China - Ming 明泉
 * Room 208 - 
 * Room 209 - XINCHEJIAN - 
 * Room 210 - Self-managing companies workshop - Alan Stafford
