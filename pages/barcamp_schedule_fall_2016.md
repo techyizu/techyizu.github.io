@@ -9,8 +9,11 @@
 --------------------------------
 
 * Quick link:  http://nounly.com/tower
+
 * **Reload the page if it is not updating!**
+
 * Sorry if there were mistakes earlier -- please RELOAD! - organizers
+
 --------------------------------
 
 ## 11:30 
