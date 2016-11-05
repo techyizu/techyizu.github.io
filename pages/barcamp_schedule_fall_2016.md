@@ -98,11 +98,11 @@
 
 * Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
 * Room 203 - VR Room - VR / AR and the future beyond gaming - Panel Discussion
-* Room 204 - 
+* Room 204 - How to pitch your company to a reporter - Eva
 * Room 207 - 
 * Room 208 - 
 * Room 209 - XINCHEJIAN - 
-* Room 210 - Foundations of Environmentalism - Jack
+* Room 210 - Foundations of Environmentalism in SCI-FI- Jack Koppa
 * Room 211 - 
 * Room 212 - 
 
