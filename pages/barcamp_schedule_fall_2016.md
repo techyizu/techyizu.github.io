@@ -101,7 +101,7 @@
 * Room 204 - How to pitch your company to a reporter - Eva
 * Room 207 - 
 * Room 208 - 
-* Room 209 - XINCHEJIAN - 
+* Room 209 - XINCHEJIAN - How to hack the life skills! - Margarita
 * Room 210 - Foundations of Environmentalism in SCI-FI- Jack Koppa
 * Room 211 - 
 * Room 212 - 
@@ -113,7 +113,7 @@
 * Room 204 - 
 * Room 207 - Basics of tech security (for real dummies) - Cryptolounge
 * Room 208 - 
-* Room 209 - XINCHEJIAN - 
+* Room 209 - XINCHEJIAN - What would you do if you were not scared? - Anastasia
 * Room 210 - 
 * Room 211 - 
 * Room 212 - 
