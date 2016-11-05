@@ -63,7 +63,7 @@
 * Room 207 - 
 * Room 208 - 
 * Room 209 - XINCHEJIAN - Precious Plastics (Recycling) 
-* Room 210 - 
+* Room 210 - Hacking the Mind and Body - The Science of Enlightenment - Kent
 * Room 211 - DANCE DANCE DANCE!!!
 * Room 212 - 
 
@@ -90,7 +90,7 @@
 * Room 207 - 
 * Room 208 - 
 * Room 209 - XINCHEJIAN - 
-* Room 210 - 
+* Room 210 - Disrupting the Medical Industry w/ AI - Kent
 * Room 211 - 
 * Room 212 - 
 
@@ -102,7 +102,7 @@
 * Room 207 - 
 * Room 208 - 
 * Room 209 - XINCHEJIAN - 
-* Room 210 - 
+* Room 210 - Foundations of Environmentalism - Jack
 * Room 211 - 
 * Room 212 - 
 
@@ -111,7 +111,7 @@
 * Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
 * Room 203 - VR Room - 
 * Room 204 - 
-* Room 207 - 
+* Room 207 - Basics of tech security (for real dummies) - Cryptolounge
 * Room 208 - 
 * Room 209 - XINCHEJIAN - 
 * Room 210 - Why we FAIL at influencing others
