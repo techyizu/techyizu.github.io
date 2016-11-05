@@ -68,11 +68,9 @@
 * Room 211 - 
 * Room 212 - 
 
-
+### LUNCH 12:30 - 2:00  (NYU cafeteria downstairs)
 
 ## 1:30 
-
-### LUNCH 12:30 - 2:00
 
 * Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
 * Room 203 - VR Room - 
