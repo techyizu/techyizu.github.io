@@ -232,6 +232,11 @@
 * Room 213 - 
 
 --------------------------------
+#Floorplan
+
+![NYUFloorplan](/pages/images/NYU_Floorplan_Barcamp_201611_600b.jpg)
+
+
 #AFTERPARTY
 
 ##Kaiba 
