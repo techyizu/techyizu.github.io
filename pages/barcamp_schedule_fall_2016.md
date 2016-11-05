@@ -19,7 +19,7 @@
 ## 11:30 
 
 
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
+* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
 * Room 203 - VR Room - Google VR Daydream  谷歌VR和 Daydream by GDG
 * Room 204 - DRONE with 4G - Charlie
 * Room 207 - 
@@ -31,7 +31,7 @@
 
 ## 12:00  
 
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
+* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
 * Room 203 - VR Room - Google VR Daydream  谷歌VR和 Daydream by GDG
 * Room 204 - Narrative Medicine + Healthcare Design: A match made in UX heaven - Lissanthea 
 * Room 207 - 
@@ -45,7 +45,7 @@
 
 ## 1:30 
 
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
+* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
 * Room 203 - VR Room - 
 * Room 204 - 
 * Room 207 - Transporting an Urban Billion - Hyperloop in China
@@ -57,7 +57,7 @@
 
 ## 2:00 
 
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
+* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
 * Room 203 - VR Room - 
 * Room 204 - What I learned Cannes Lions - The International Festival of Comedy
 * Room 207 - 
@@ -70,7 +70,7 @@
 ## 2:30 
 
 
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
+* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
 * Room 203 - VR Room - 
 * Room 204 - 
 * Room 207 - 
@@ -84,7 +84,7 @@
 ## 3:00 
 
 
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
+* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
 * Room 203 - VR Room - 
 * Room 204 - Esperanto 101 (and world peace) - Tracy Mehoke
 * Room 207 - 
@@ -96,7 +96,7 @@
 
 ## 3:30 
 
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
+* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
 * Room 203 - VR Room -
 * Room 204 - 
 * Room 207 - 
@@ -108,7 +108,7 @@
 
 ## 4:00 
 
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
+* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
 * Room 203 - VR Room - 
 * Room 204 - 
 * Room 207 - 
@@ -120,7 +120,7 @@
 
 ## 4:30 
 
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
+* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
 * Room 203 - VR Room - 
 * Room 204 - PLOBOT with IMA Prof. Rudi
 * Room 207 - 
@@ -132,7 +132,7 @@
 
 ## 5:00 
 
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
+* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
 * Room 203 - VR Room - 
 * Room 204 - 
 * Room 207 - 
