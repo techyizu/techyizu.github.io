@@ -89,7 +89,7 @@
 * Room 204 - Esperanto 101 (and world peace) - Tracy Mehoke
 * Room 207 - 
 * Room 208 - 
-* Room 209 - XINCHEJIAN - 
+* Room 209 - XINCHEJIAN - Why smart kids don't challenge themselves and how to fix it - Maciej, Squiggle Labs
 * Room 210 - Disrupting the Medical Industry w/ AI - Kent
 * Room 211 - 
 * Room 212 - 
