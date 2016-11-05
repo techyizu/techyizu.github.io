@@ -16,31 +16,6 @@
 
 --------------------------------
 
-## 11:30 
-
-
-* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
-* Room 203 - VR Room - Google VR Daydream  谷歌VR和 Daydream by GDG
-* Room 204 - DRONE with 4G - Charlie
-* Room 207 - 
-* Room 208 - 
-* Room 209 - XINCHEJIAN - Brainstorm on business models
-* Room 210 - One Minute People Reading - 一分钟面对认人
-* Room 211 - Re-imagine the Future of Education - Chenxi
-* Room 212 - 
-
-## 12:00  
-
-* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
-* Room 203 - VR Room - Google VR Daydream  谷歌VR和 Daydream by GDG
-* Room 204 - Narrative Medicine + Healthcare Design: A match made in UX heaven - Lissanthea 
-* Room 207 - 
-* Room 208 - 
-* Room 209 - XINCHEJIAN - Brainstorm on business models
-* Room 210 - NO! YOU DON'T WANNA BE AN ENTREPRENEUR
-* Room 211 - 
-* Room 212 - 
-
 ### LUNCH 12:30 - 2:00  (NYU cafeteria downstairs)
 
 ## 1:30 
@@ -201,3 +176,28 @@ Metro Station: Da Pu Qiao, line 9
 * Room 211 - 
 * Room 212 - 
 
+
+## 11:30 
+
+
+* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
+* Room 203 - VR Room - Google VR Daydream  谷歌VR和 Daydream by GDG
+* Room 204 - DRONE with 4G - Charlie
+* Room 207 - 
+* Room 208 - 
+* Room 209 - XINCHEJIAN - Brainstorm on business models
+* Room 210 - One Minute People Reading - 一分钟面对认人
+* Room 211 - Re-imagine the Future of Education - Chenxi
+* Room 212 - 
+
+## 12:00  
+
+* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
+* Room 203 - VR Room - Google VR Daydream  谷歌VR和 Daydream by GDG
+* Room 204 - Narrative Medicine + Healthcare Design: A match made in UX heaven - Lissanthea 
+* Room 207 - 
+* Room 208 - 
+* Room 209 - XINCHEJIAN - Brainstorm on business models
+* Room 210 - NO! YOU DON'T WANNA BE AN ENTREPRENEUR
+* Room 211 - 
+* Room 212 - 
