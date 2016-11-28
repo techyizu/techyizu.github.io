@@ -6,10 +6,13 @@ Welcome to the first edition of Open Data Shanghai on December 10th - 11th!  Ope
 
 欢饮来到第一届开放资料•上海. 这届活动将会在12月10日-11日举办。 开放资料•上海是一个专注于资料的黑客马拉松，我们会给参与者资料组，然后要求在24小时内完成入侵。对于第一次接触资料科学的新人来说，可以参加经验丰富的数据分析师的教育讲座。
 
+![Types of Open Data](/events/images/data-types.png)
+
 
 ## RSVP
 The event is free, and please feel free to bring anyone you like!
 
+![Techyizu Meetup](/events/images/meetup_techyizu.gif)
 * RSVP on Meetup:  http://meetup.com/techyizu/
 
 
