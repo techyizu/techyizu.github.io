@@ -1,4 +1,4 @@
-![Open Data Temp Logo](/events/images/Open_Data_Shanghai_templogo.gif | width=480)
+![Open Data Temp Logo](/events/images/Open_Data_Shanghai_templogo.gif)
 
 # Open Data Shanghai 2016
 
