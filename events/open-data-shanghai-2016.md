@@ -1,4 +1,4 @@
-![Open Data Temp Logo](/events/images/Open_Data_Shanghai_templogo.gif)
+![Open Data Temp Logo](/events/images/Open_Data_Shanghai_templogo.gif | width=480)
 
 # Open Data Shanghai 2016
 
@@ -9,6 +9,7 @@ Welcome to the first edition of Open Data Shanghai on December 10th - 11th!  Ope
 
 ## RSVP
 The event is free, and please feel free to bring anyone you like!
+
 * RSVP on Meetup:  http://meetup.com/techyizu/
 
 
@@ -21,18 +22,19 @@ The event is free, and please feel free to bring anyone you like!
 ## Location
 
 **Coderbunker** - http://www.coderbunker.com/ 
+
 * 1199 Panyu Road, building 3, underground  -  [Google Map](https://goo.gl/maps/y777yzVGqzR2)
 * 上海市徐汇区番禺路1199弄3号  -  [Baidu Map](http://j.map.baidu.com/_mXVC)
 * Cross-street: Kaixuan Road (凯旋路)
-* Closest Subway:
-** Yishan Road (宜山路地铁站) line 3/4/9
-** Hongqiao Road (虹桥路地铁站) line 3/4/10
+* Subway - Yishan Road (宜山路地铁站) line 3/4/9
+* Subway - Hongqiao Road (虹桥路地铁站) line 3/4/10
 
 ![Coderbunker Map](/events/images/coderbunker_map.jpg)
 
 
 ## Possible Talks
 *Talks still to be confirmed.*
+
 - Introduction to Jupyter
 - R Programming for Data Science 
 - Data Visualization Toolsets
@@ -41,6 +43,11 @@ The event is free, and please feel free to bring anyone you like!
 
 
 We look forward to seeing you there!
+
 * RSVP on Meetup:  http://meetup.com/techyizu/
+
+
+
+### Sponsors
 
 ![Open Data Shanghai Sponsors](/events/images/open_data_shanghai_2016_sponsors.jpg)
