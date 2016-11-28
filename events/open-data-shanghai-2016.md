@@ -13,7 +13,7 @@ Welcome to the first edition of Open Data Shanghai on December 10th - 11th!  Ope
 The event is free, and please feel free to bring anyone you like!
 
 ![Techyizu Meetup](/events/images/meetup_techyizu_260.gif)
-* RSVP on Meetup:  http://meetup.com/techyizu/
+* RSVP on Meetup:  https://www.meetup.com/Techyizu/events/235882734/
 
 
 ## Date and Time
@@ -47,7 +47,7 @@ The event is free, and please feel free to bring anyone you like!
 
 We look forward to seeing you there!
 
-* RSVP on Meetup:  http://meetup.com/techyizu/
+* RSVP on Meetup:  https://www.meetup.com/Techyizu/events/235882734/
 
 
 
