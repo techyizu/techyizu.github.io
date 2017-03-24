@@ -44,9 +44,9 @@ The goal is to get everybody involved!
 
 As always, Barcamp is free, and everyone is welcome to come!
 
-请提前在Meetup报名：http://www.meetup.com/Techyizu/events/234750096/
+请提前在Meetup报名：https://www.meetup.com/Techyizu/events/237971536/
 
-Sign up to the event on Meetup: http://www.meetup.com/Techyizu/events/234750096/
+Sign up to the event on Meetup: https://www.meetup.com/Techyizu/events/237971536/
 
 地址：
 
