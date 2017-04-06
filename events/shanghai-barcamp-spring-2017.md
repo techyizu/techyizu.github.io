@@ -32,6 +32,26 @@ EVERYONE is invited to attend any talks or activities at Barcamp!
 
 Barcamps in the past have had lots of exciting talks about all sorts of technology topics, such as Arduino & robotics, startups and entrepreneurship, Erlang, MongoDB, Data security and more. There is only one rule: No advertisements for your business or product! Just let your own energy and nerdiness shine through. **At this Barcamp, we are featuring a Blockchian and Virtual Reality Track**
 
+先看看本次上海Barcamp已经收到的一些主题吧：
+Here are some topics that you'll see at this Shanghai Barcamp:
+
+* The bold truth about VR. 6 experts discuss future opportunities
+* Blockchain and how not to use it - Christian Grewell 
+* 3D spatial audio Klingon poetry demo - Christian Grewell
+* Artificial Intelligence 101 : Clearing up the Hype - Alan Stafford
+* When Blockchain Meets Virtual Reality - Tim Gallagher
+* VR learning models: a new media for interaction design - Tim Gallagher and Mike Bailey
+* Increasing your RESTful service development with 10x more productivity by adopting JSONAPI - Jingsheng Wang
+* Design and innovation for startups - Kevin Yu
+* Dota 2 and esports
+* Webcomics: theory and practice - Ivan Batishchev
+* Cross culture O2O ecosystem development and operation - Eva Hsu
+* Insurance 2.0 - Disrupting, democratising and future of insurtech - Victor Lee 
+* Disrupting the Medical Industry with AI - Kent Zaitlik 
+* The Science of Enlightenment - Hacking the Mind & Body - Kent Zaitlik 
+ 
+And many more... 
+
 如果你想发言你可以在活动当天的上午报道话题。报到此邮箱地址：barcamp@techyizu.org 我们会把你的名字以及演讲题目在我们的网站上宣布。
 
 期待在今年的Barcamp遇见你！
