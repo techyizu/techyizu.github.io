@@ -32,9 +32,9 @@ EVERYONE is invited to attend any talks or activities at Barcamp!
 
 Barcamps in the past have had lots of exciting talks about all sorts of technology topics, such as Arduino & robotics, startups and entrepreneurship, Erlang, MongoDB, Data security and more. There is only one rule: No advertisements for your business or product! Just let your own energy and nerdiness shine through. **At this Barcamp, we are featuring a Blockchian and Virtual Reality Track**
 
-先看看本次上海Barcamp已经收到的一些主题吧：
+**先看看本次上海Barcamp已经收到的一些主题吧：**
 
-Here are some topics that you'll see at this Shanghai Barcamp:
+**Here are some topics that you'll see at this Shanghai Barcamp:**
 
 * The bold truth about VR. 6 experts discuss future opportunities
 * Blockchain and how not to use it - Christian Grewell 
@@ -84,11 +84,6 @@ NYU Shanghai
 1555 Shi Ji Da Dao
 
 Metro Station line: 2/4/6/9 Shi Ji Da Dao (Exist 6)
-
-### 先看看本次上海Barcamp已经收到的一些主题吧：
-### Here are some topics that you'll see at this Shanghai Barcamp:
-
-* Topic  ---- speaker name
 
 --------------------------------
 
