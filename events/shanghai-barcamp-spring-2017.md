@@ -50,6 +50,11 @@ Barcamps in the past have had lots of exciting talks about all sorts of technolo
 * Insurance 2.0 - Disrupting, democratising and future of insurtech - Victor Lee 
 * Disrupting the Medical Industry with AI - Kent Zaitlik 
 * The Science of Enlightenment - Hacking the Mind & Body - Kent Zaitlik 
+* front-end development for art sake: hack taobao and dump money on wechat - BerlinaLi
+* Make IoT Safe Again - Dai-Kyu Kim
+* How to Apply Ancient Philosophy Yin & Yang Into Modern Financial Market - Frank Wang
+* 一分钟面对面识人 - Anne Wang
+* 3 things the ONLY YOU can do to learn a new language - Tracy Mehoke
  
 And many more... 
 
