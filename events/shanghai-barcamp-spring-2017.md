@@ -56,6 +56,8 @@ Barcamps in the past have had lots of exciting talks about all sorts of technolo
 * 一分钟面对面识人 - Anne Wang
 * 3 things that ONLY YOU can do to learn a new language - Tracy Mehoke
 * Keeping the Ed in Edtech - Tracy Mehoke
+* The real way to find talent for your startup - Thibault Genaitay
+* Software as a performance art - Michael Clement
  
 And many more... 
 
