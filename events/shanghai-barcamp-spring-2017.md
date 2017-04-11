@@ -43,7 +43,7 @@ Barcamps in the past have had lots of exciting talks about all sorts of technolo
 * When Blockchain Meets Virtual Reality - Tim Gallagher
 * VR learning models: a new media for interaction design - Tim Gallagher and Mike Bailey
 * Increasing your RESTful service development with 10x more productivity by adopting JSONAPI - Jingsheng Wang
-* Design and innovation for startups - Kevin Yu
+* Design + Startups - Kevin Yu
 * Dota 2 and esports
 * Webcomics: theory and practice - Ivan Batishchev
 * Cross culture O2O ecosystem development and operation - Eva Hsu
@@ -58,6 +58,7 @@ Barcamps in the past have had lots of exciting talks about all sorts of technolo
 * Keeping the Ed in Edtech - Tracy Mehoke
 * The real way to find talent for your startup - Thibault Genaitay
 * Software as a performance art - Michael Clement
+* How to A/B Test the Best Subject Lines for Your Emails... For Free - Roberta Zanibelli
  
 And many more... 
 
