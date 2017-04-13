@@ -61,9 +61,9 @@ Barcamps in the past have had lots of exciting talks about all sorts of technolo
 * How to A/B Test the Best Subject Lines for Your Emails... For Free - Roberta Zanibelli
 * Design research for social impact- how to set up a project and be effective - IHan Cheng 
 * Web Development 101 - David Guan 
-* Financial literacy 101 for Millenials - Saving, investing, and the phylosophy of time - Richard Chen 
+* Financial literacy 101 for Millennials - Saving, investing, and the philosophy of time - Richard Chen 
 * (1) The new world of work - Will Fan
-* How to hack advertisment or how to make advertisment suck less - Rachael Daydou 
+* How to hack advertisement or how to make advertisement suck less - Rachael Daydou 
 * Bot design and tech - DC Collier
 * The e-commerce of South East Asia: The Next Gigantic China - Yiying Ng
 * The future of VR and AR - XR cross reality - Cyrus Lum
