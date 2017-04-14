@@ -69,6 +69,9 @@ Barcamps in the past have had lots of exciting talks about all sorts of technolo
 * The e-commerce of South East Asia: The Next Gigantic China - Yiying Ng
 * The future of VR and AR - XR cross reality - Cyrus Lum
 * Personalize digital world：How ad+technology improve our daily life？ - Lauren Xu
+* The power of neighborhood connections abroad - Evrim Kanbur
+* Modern digital technology – make people smarter? or dumber? - Nayoung Mathiesen
+* China’s Ederlycare sector – How can we use technology in this sector to solve the issue? - Nayoung Mathiesen
  
 And many more... 
 
