@@ -40,6 +40,7 @@ Barcamps in the past have had lots of exciting talks about all sorts of technolo
 * Blockchain and how not to use it - Christian Grewell 
 * 3D spatial audio Klingon poetry demo - Christian Grewell
 * Artificial Intelligence 101 : Clearing up the Hype - Alan Stafford
+* How Blockchain is shaping the future of Digital Finance - Ahmed Al-Balaghi
 * When Blockchain Meets Virtual Reality - Tim Gallagher
 * VR learning models: a new media for interaction design - Tim Gallagher and Mike Bailey
 * Increasing your RESTful service development with 10x more productivity by adopting JSONAPI - Jingsheng Wang
