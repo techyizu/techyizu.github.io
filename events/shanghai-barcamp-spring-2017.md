@@ -67,6 +67,7 @@ Barcamps in the past have had lots of exciting talks about all sorts of technolo
 * Bot design and tech - DC Collier
 * The e-commerce of South East Asia: The Next Gigantic China - Yiying Ng
 * The future of VR and AR - XR cross reality - Cyrus Lum
+* Personalize digital world：How ad+technology improve our daily life？ - Lauren Xu
  
 And many more... 
 
