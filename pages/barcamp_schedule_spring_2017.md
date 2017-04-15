@@ -43,10 +43,10 @@
 * Room 203 - How to hack advertisements, or make it suck less (Rachel Daydou)
 * Room 204 - 
 * Room 207 - (con't) Financial Literaciy 101 for Millenials: Saving, Investing and the Philosophy of Time (Richard Chen)
-* Room 208 - Being Fapiao Tax Efficient - 中文！ in Chinese (Catherine Wang)
+* Room 208 - No Fapiao? No Problem! - 中文！ in Chinese (Catherine Wang)
 * Room 209 - The future of VR and AR-XR cross reality (Cyrus Lum)
 * Room 210 - (con't) One Minute People Reading - Identify people's personality in one minute (Anne)
-* Room 211 - 
+* Room 211 - 3D Body Scanning with Kyle! + Dance Party 
 * Room 212 - SH Machine Learning Meetup! Learn about our events and Deep Learning (Jerry and Bart)
 * Room 213 - 
 
@@ -60,7 +60,7 @@
 * Room 208 - 
 * Room 209 - The bold truth about VR - 6 Expert Panel Discussion
 * Room 210 - A.I. 101: Clearing up the HYPE (Alan Stafford)
-* Room 211 - 
+* Room 211 - The Real Way to Find Tech Talents for your Startup: Hacking Github (Thibault Genaitay)
 * Room 212 - DESIGN + STARTUPS: How to Be Needs Driven (Kevin Yu)
 * Room 213 - 
 
@@ -107,7 +107,7 @@
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
-* Room 210 - 
+* Room 210 - Web Development 101 (David Green)
 * Room 211 - 
 * Room 212 - 
 * Room 213 - 
@@ -120,7 +120,7 @@
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
-* Room 210 - 
+* Room 210 - 3D Spatial Klingon Poetry Workshop
 * Room 211 - 
 * Room 212 - 
 * Room 213 - 
@@ -148,7 +148,7 @@
 * Room 209 - 
 * Room 210 - 
 * Room 211 - 
-* Room 212 - 
+* Room 212 - Organizing events in Shanghai (open discussion!)
 * Room 213 - 
 
 
