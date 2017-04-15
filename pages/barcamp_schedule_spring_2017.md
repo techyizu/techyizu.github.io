@@ -43,11 +43,11 @@
 * Room 203 - How to hack advertisements, or make it suck less (Rachel Daydou)
 * Room 204 - 
 * Room 207 - 
-* Room 208 - 
+* Room 208 - Being Fapiao Tax Efficient - 中文！ in Chinese (Catherine Wang)
 * Room 209 - The future of VR and AR-XR cross reality (Cyrus Lum)
 * Room 210 - (con't) One Minute People Reading - Identify people's personality in one minute (Anne)
 * Room 211 - 
-* Room 212 - 
+* Room 212 - SH Machine Learning Meetup! Learn about our events and Deep Learning (Jerry and Bart)
 * Room 213 - 
 
 
@@ -175,10 +175,3 @@ Metro Station: Da Pu Qiao, line 9
 --------------------------------
 
 # THANKS FOR COMING!
-
-- The Techyizu Organizers
-
---------------------------------
-
-# Completed Talks
-
