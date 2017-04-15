@@ -13,18 +13,6 @@
 
 ### Talks start at 1:30
 
-## 1:30 
-
-* Room 203 - Webdevelopment 101
-* Room 204 - Blockchain / BTC History and Recent Trends (Julian Wu, Shanghai Blockchain Meetups)
-* Room 207 - Touch-free gesture control + personalized data collection (Miki Bin)
-* Room 208 - 
-* Room 209 - 
-* Room 210 - 
-* Room 211 - 
-* Room 212 - Why your tea sucks - a tasting and diss-cusssion (Dylan Connoyt, Marjorie Wang)
-* Room 213 - 
-
 ## 2:00 
 
 * Room 203 - The quarter life crisis - Why you should never settle (Will Fan)
@@ -182,3 +170,14 @@ Metro Station: Da Pu Qiao, line 9
 
 # Completed Talks
 
+## 1:30 
+
+* Room 203 - Webdevelopment 101
+* Room 204 - Blockchain / BTC History and Recent Trends (Julian Wu, Shanghai Blockchain Meetups)
+* Room 207 - Touch-free gesture control + personalized data collection (Miki Bin)
+* Room 208 - 
+* Room 209 - 
+* Room 210 - 
+* Room 211 - 
+* Room 212 - Why your tea sucks - a tasting and diss-cusssion (Dylan Connoyt, Marjorie Wang)
+* Room 213 - 
