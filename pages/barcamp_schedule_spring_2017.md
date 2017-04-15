@@ -13,18 +13,6 @@
 
 ### Talks start at 1:30
 
-## 4:00 
-
-* Room 203 - China Healthcare Industry - How to use technology (Nayoung)
-* Room 204 - Personalize digital World - How adtech make our life better? (Lauren)
-* Room 207 - 
-* Room 208 - Platform Economics - The Change: Need, action, development (Evrim Kanbar)
-* Room 209 - CHATBOTS Designing a new medium 
-* Room 210 - (con't) How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
-* Room 211 - How Ecommerce accerelates Tech development (Johnny)
-* Room 212 - 
-* Room 213 - 
-
 ## 4:30 
 
 * Room 203 - UX / UI Leveraging Wechat for Customer Loyalty - Wagas Case Study
@@ -179,3 +167,15 @@ Metro Station: Da Pu Qiao, line 9
 * Room 211 - Software as Performance Art (Michaeljohn Clement)
 * Room 212 - How stabily pass the data via network in Chinese unstable environment and Android file search engine
 * Room 213 - Learn how to beatbox - Beatboxing Basics (Herry Rosen) (BRING WATER!!)
+
+## 4:00 
+
+* Room 203 - China Healthcare Industry - How to use technology (Nayoung)
+* Room 204 - Personalize digital World - How adtech make our life better? (Lauren)
+* Room 207 - 
+* Room 208 - Platform Economics - The Change: Need, action, development (Evrim Kanbar)
+* Room 209 - CHATBOTS Designing a new medium 
+* Room 210 - (con't) How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
+* Room 211 - How Ecommerce accerelates Tech development (Johnny)
+* Room 212 - 
+* Room 213 - 
