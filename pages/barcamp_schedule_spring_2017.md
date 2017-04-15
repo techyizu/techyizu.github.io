@@ -29,7 +29,7 @@
 
 * Room 203 - The quarter life crisis - Why you should never settle (Will Fan)
 * Room 204 - Blockchain / BTC in China Landscape and Recent Developments (Julian Wu, Shanghai Blockchain Meetups)
-* Room 207 - 
+* Room 207 - Financial Literaciy 101 for Millenials: Saving, Investing and the Philosophy of Time (Richard Chen)
 * Room 208 - 
 * Room 209 - The Beauty of Stupid Shit: A VR Brainstorm Session (Marjorie Wang)
 * Room 210 - One Minute People Reading - Identify people's personality in one minute (Anne)
@@ -61,7 +61,7 @@
 * Room 209 - The bold truth about VR - 6 Expert Panel Discussion
 * Room 210 - A.I. 101: Clearing up the HYPE (Alan Stafford)
 * Room 211 - 
-* Room 212 - 
+* Room 212 - DESIGN + STARTUPS: How to Be Needs Driven (Kevin Yu)
 * Room 213 - 
 
 ## 3:30 
@@ -91,7 +91,7 @@
 ## 4:30 
 
 * Room 203 - 
-* Room 204 - 
+* Room 204 - BAD BLOCKCHAIN BAD! (do not attend!)
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
