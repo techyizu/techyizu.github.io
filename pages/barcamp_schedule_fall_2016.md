@@ -13,32 +13,8 @@
 
 ### Talks start at 1:30
 
-## 1:30 
-
-* Room 203 - Webdevelopment 101
-* Room 204 - Blockchain / BTC History and Recent Trends (Julian Wu, Shanghai Blockchain Meetups)
-* Room 207 - Touch-free gesture control + personalized data collection (Miki Bin)
-* Room 208 - 
-* Room 209 - 
-* Room 210 - 
-* Room 211 - 
-* Room 212 - Why your tea sucks - a tasting and diss-cusssion (Dylan Connoyt, Marjorie Wang)
-* Room 213 - 
-
-## 2:00 
-
-* Room 203 - 
-* Room 204 - Blockchain / BTC in China Landscape and Recent Developments (Julian Wu, Shanghai Blockchain Meetups)
-* Room 207 - Financial Literaciy 101 for Millenials: Saving, Investing and the Philosophy of Time (Richard Chen)
-* Room 208 - 
-* Room 209 - The Beauty of Stupid Shit: A VR Brainstorm Session (Marjorie Wang)
-* Room 210 - One Minute People Reading - Identify people's personality in one minute (Anne)
-* Room 211 - IOT, MedTech and Wearables: Seucrity, Saftey, Privacy - Good, Bad, and UGLY
-* Room 212 - VR Learning Models (Tim Gallagher, Michael Bailey)
-* Room 213 - Digital Tech: Make people smarter or dumber (Nayoung)
 
 ## 2:30 
-
 
 * Room 203 - The e-Commerce of Southeast Asia: The next gigantic China (Yiying Ng)
 * Room 204 - 
@@ -79,12 +55,12 @@
 ## 4:00 
 
 * Room 203 - China Healthcare Industry - How to use technology (Nayoung)
-* Room 204 - 
+* Room 204 - Personalize digital World - How adtech make our life better? (Lauren)
 * Room 207 - 
 * Room 208 - Platform Economics - The Change: Need, action, development (Evrim Kanbar)
 * Room 209 - 
 * Room 210 - (con't) How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
-* Room 211 - Esports DISCUSSION: Dota and LOL
+* Room 211 - How Ecommerce accerelates Tech development (Johnny)
 * Room 212 - 
 * Room 213 - 
 
@@ -96,7 +72,7 @@
 * Room 208 - 
 * Room 209 - 
 * Room 210 - 
-* Room 211 - 
+* Room 211 - Esports DISCUSSION: Dota and LOL
 * Room 212 - 
 * Room 213 - 
 
@@ -182,3 +158,27 @@ Metro Station: Da Pu Qiao, line 9
 
 # Completed Talks
 
+
+## 1:30 
+
+* Room 203 - Webdevelopment 101
+* Room 204 - Blockchain / BTC History and Recent Trends (Julian Wu, Shanghai Blockchain Meetups)
+* Room 207 - Touch-free gesture control + personalized data collection (Miki Bin)
+* Room 208 - 
+* Room 209 - 
+* Room 210 - 
+* Room 211 - 
+* Room 212 - Why your tea sucks - a tasting and diss-cusssion (Dylan Connoyt, Marjorie Wang)
+* Room 213 - 
+
+## 2:00 
+
+* Room 203 - 
+* Room 204 - Blockchain / BTC in China Landscape and Recent Developments (Julian Wu, Shanghai Blockchain Meetups)
+* Room 207 - Financial Literaciy 101 for Millenials: Saving, Investing and the Philosophy of Time (Richard Chen)
+* Room 208 - 
+* Room 209 - The Beauty of Stupid Shit: A VR Brainstorm Session (Marjorie Wang)
+* Room 210 - One Minute People Reading - Identify people's personality in one minute (Anne)
+* Room 211 - IOT, MedTech and Wearables: Seucrity, Saftey, Privacy - Good, Bad, and UGLY
+* Room 212 - VR Learning Models (Tim Gallagher, Michael Bailey)
+* Room 213 - Digital Tech: Make people smarter or dumber (Nayoung)
