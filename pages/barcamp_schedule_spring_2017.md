@@ -55,7 +55,7 @@
 
 
 * Room 203 - Bot design and tech (DC Collier)
-* Room 204 - 
+* Room 204 - The Science of Enlightenment - Hacking the Mind and Body
 * Room 207 - 
 * Room 208 - Raspberry Pi Face Detection (Joe Beltrami)
 * Room 209 - The bold truth about VR - 6 Expert Panel Discussion
@@ -102,7 +102,7 @@
 
 ## 5:00 
 
-* Room 203 - 
+* Room 203 - Design Research for Social Impact (Ihan Cheng)
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
