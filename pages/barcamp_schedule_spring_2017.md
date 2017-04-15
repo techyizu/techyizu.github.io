@@ -70,7 +70,7 @@
 * Room 204 - 
 * Room 207 - How to A/B Test the Best Subject Lines for Your Emails... for Free! (Roberta Zanibelli)
 * Room 208 - 
-* Room 209 - 
+* Room 209 - (con't) The bold truth about VR - 6 Expert Panel Discussion
 * Room 210 - How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
 * Room 211 - Software as Performance Art (Michaeljohn Clement)
 * Room 212 - How stabily pass the data via network in Chinese unstable environment and Android file search engine
@@ -90,7 +90,7 @@
 
 ## 4:30 
 
-* Room 203 - 
+* Room 203 - UX / UI Leveraging Wechat for Customer Loyalty - Wagas Case Study
 * Room 204 - BAD BLOCKCHAIN BAD! (do not attend!)
 * Room 207 - 
 * Room 208 - 
