@@ -13,32 +13,8 @@
 
 ### Talks start at 1:30
 
-## 1:30 
-
-* Room 203 - Webdevelopment 101
-* Room 204 - Blockchain / BTC History and Recent Trends (Julian Wu, Shanghai Blockchain Meetups)
-* Room 207 - Touch-free gesture control + personalized data collection (Miki Bin)
-* Room 208 - 
-* Room 209 - 
-* Room 210 - 
-* Room 211 - 
-* Room 212 - Why your tea sucks - a tasting and diss-cusssion (Dylan Connoyt, Marjorie Wang)
-* Room 213 - 
-
-## 2:00 
-
-* Room 203 - 
-* Room 204 - Blockchain / BTC in China Landscape and Recent Developments (Julian Wu, Shanghai Blockchain Meetups)
-* Room 207 - Financial Literaciy 101 for Millenials: Saving, Investing and the Philosophy of Time (Richard Chen)
-* Room 208 - 
-* Room 209 - The Beauty of Stupid Shit: A VR Brainstorm Session (Marjorie Wang)
-* Room 210 - One Minute People Reading - Identify people's personality in one minute (Anne)
-* Room 211 - IOT, MedTech and Wearables: Seucrity, Saftey, Privacy - Good, Bad, and UGLY
-* Room 212 - VR Learning Models (Tim Gallagher, Michael Bailey)
-* Room 213 - Digital Tech: Make people smarter or dumber (Nayoung)
 
 ## 2:30 
-
 
 * Room 203 - The e-Commerce of Southeast Asia: The next gigantic China (Yiying Ng)
 * Room 204 - 
@@ -182,3 +158,27 @@ Metro Station: Da Pu Qiao, line 9
 
 # Completed Talks
 
+
+## 1:30 
+
+* Room 203 - Webdevelopment 101
+* Room 204 - Blockchain / BTC History and Recent Trends (Julian Wu, Shanghai Blockchain Meetups)
+* Room 207 - Touch-free gesture control + personalized data collection (Miki Bin)
+* Room 208 - 
+* Room 209 - 
+* Room 210 - 
+* Room 211 - 
+* Room 212 - Why your tea sucks - a tasting and diss-cusssion (Dylan Connoyt, Marjorie Wang)
+* Room 213 - 
+
+## 2:00 
+
+* Room 203 - 
+* Room 204 - Blockchain / BTC in China Landscape and Recent Developments (Julian Wu, Shanghai Blockchain Meetups)
+* Room 207 - Financial Literaciy 101 for Millenials: Saving, Investing and the Philosophy of Time (Richard Chen)
+* Room 208 - 
+* Room 209 - The Beauty of Stupid Shit: A VR Brainstorm Session (Marjorie Wang)
+* Room 210 - One Minute People Reading - Identify people's personality in one minute (Anne)
+* Room 211 - IOT, MedTech and Wearables: Seucrity, Saftey, Privacy - Good, Bad, and UGLY
+* Room 212 - VR Learning Models (Tim Gallagher, Michael Bailey)
+* Room 213 - Digital Tech: Make people smarter or dumber (Nayoung)
