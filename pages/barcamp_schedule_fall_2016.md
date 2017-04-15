@@ -67,7 +67,7 @@
 ## 3:30 
 
 * Room 203 - The e-Commerce of Southeast Asia: The next gigantic China (Yiying Ng)
-* Room 204 - 
+* Room 204 - Disrupting the Medical Industry w/ A.I. 
 * Room 207 - How to A/B Test the Best Subject Lines for Your Emails... for Free! (Roberta Zanibelli)
 * Room 208 - 
 * Room 209 - (con't) The bold truth about VR - 6 Expert Panel Discussion
@@ -81,7 +81,7 @@
 * Room 203 - China Healthcare Industry - How to use technology (Nayoung)
 * Room 204 - 
 * Room 207 - 
-* Room 208 - Exploring Expat Life through Neighborhood Connections (Evrim Kanbar)
+* Room 208 - Platform Economics - The Change: Need, action, development (Evrim Kanbar)
 * Room 209 - 
 * Room 210 - (con't) How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
 * Room 211 - Esports DISCUSSION: Dota and LOL
