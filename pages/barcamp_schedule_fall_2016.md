@@ -30,12 +30,12 @@
 * Room 203 - The quarter life crisis - Why you should never settle (Will Fan)
 * Room 204 - Blockchain / BTC in China Landscape and Recent Developments (Julian Wu, Shanghai Blockchain Meetups)
 * Room 207 - Financial Literaciy 101 for Millenials: Saving, Investing and the Philosophy of Time (Richard Chen)
-* Room 208 - 
+* Room 208 - Exploring Expat Life through Neighborhood Connections (Evrim Kanbar)
 * Room 209 - The Beauty of Stupid Shit: A VR Brainstorm Session (Marjorie Wang)
 * Room 210 - One Minute People Reading - Identify people's personality in one minute (Anne)
 * Room 211 - IOT, MedTech and Wearables: Seucrity, Saftey, Privacy - Good, Bad, and UGLY
 * Room 212 - 
-* Room 213 - 
+* Room 213 - Digital Tech: Make people smarter or dumber (Nayoung)
 
 ## 2:30 
 
@@ -48,7 +48,7 @@
 * Room 210 - (con't) One Minute People Reading - Identify people's personality in one minute (Anne)
 * Room 211 - 3D Body Scanning with Kyle! + Dance Party 
 * Room 212 - SH Machine Learning Meetup! Learn about our events and Deep Learning (Jerry and Bart)
-* Room 213 - 
+* Room 213 - What I have learned about e-learning industry from my journey (Nayoung)
 
 
 ## 3:00 
@@ -78,7 +78,7 @@
 
 ## 4:00 
 
-* Room 203 - 
+* Room 203 - China Healthcare Industry - How to use technology (Nayoung)
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
