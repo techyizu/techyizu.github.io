@@ -13,9 +13,21 @@
 
 ### Talks start at 1:30
 
+## 1:30 
+
+* Room 203 - Webdevelopment 101
+* Room 204 - Blockchain / BTC History and Recent Trends (Julian Wu, Shanghai Blockchain Meetups)
+* Room 207 - Touch-free gesture control + personalized data collection (Miki Bin)
+* Room 208 - 
+* Room 209 - 
+* Room 210 - 
+* Room 211 - 
+* Room 212 - Why your tea sucks - a tasting and diss-cusssion (Dylan Connoyt, Marjorie Wang)
+* Room 213 - 
+
 ## 2:00 
 
-* Room 203 - The quarter life crisis - Why you should never settle (Will Fan)
+* Room 203 - 
 * Room 204 - Blockchain / BTC in China Landscape and Recent Developments (Julian Wu, Shanghai Blockchain Meetups)
 * Room 207 - Financial Literaciy 101 for Millenials: Saving, Investing and the Philosophy of Time (Richard Chen)
 * Room 208 - 
@@ -28,10 +40,10 @@
 ## 2:30 
 
 
-* Room 203 - How to hack advertisements, or make it suck less (Rachel Daydou)
+* Room 203 - The e-Commerce of Southeast Asia: The next gigantic China (Yiying Ng)
 * Room 204 - 
 * Room 207 - (con't) Financial Literaciy 101 for Millenials: Saving, Investing and the Philosophy of Time (Richard Chen)
-* Room 208 - No Fapiao? No Problem! - 中文！ in Chinese (Catherine Wang)
+* Room 208 - 带税方案 (中文！ in Chinese) No Fapiao? No Problem! -  (Catherine Wang)
 * Room 209 - The future of VR and AR-XR cross reality (Cyrus Lum)
 * Room 210 - (con't) One Minute People Reading - Identify people's personality in one minute (Anne)
 * Room 211 - 3D Body Scanning with Kyle! + Dance Party 
@@ -54,8 +66,8 @@
 
 ## 3:30 
 
-* Room 203 - The e-Commerce of Southeast Asia: The next gigantic China (Yiying Ng)
-* Room 204 - 
+* Room 203 - How to hack advertisements, or make it suck less (Rachel Daydou)
+* Room 204 - Disrupting the Medical Industry w/ A.I. 
 * Room 207 - How to A/B Test the Best Subject Lines for Your Emails... for Free! (Roberta Zanibelli)
 * Room 208 - 
 * Room 209 - (con't) The bold truth about VR - 6 Expert Panel Discussion
@@ -69,7 +81,7 @@
 * Room 203 - China Healthcare Industry - How to use technology (Nayoung)
 * Room 204 - 
 * Room 207 - 
-* Room 208 - Exploring Expat Life through Neighborhood Connections (Evrim Kanbar)
+* Room 208 - Platform Economics - The Change: Need, action, development (Evrim Kanbar)
 * Room 209 - 
 * Room 210 - (con't) How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
 * Room 211 - Esports DISCUSSION: Dota and LOL
@@ -84,7 +96,7 @@
 * Room 208 - 
 * Room 209 - 
 * Room 210 - 
-* Room 211 - (con't) Esports DISCUSSION: Dota and LOL
+* Room 211 - 
 * Room 212 - 
 * Room 213 - 
 
@@ -170,14 +182,3 @@ Metro Station: Da Pu Qiao, line 9
 
 # Completed Talks
 
-## 1:30 
-
-* Room 203 - Webdevelopment 101
-* Room 204 - Blockchain / BTC History and Recent Trends (Julian Wu, Shanghai Blockchain Meetups)
-* Room 207 - Touch-free gesture control + personalized data collection (Miki Bin)
-* Room 208 - 
-* Room 209 - 
-* Room 210 - 
-* Room 211 - 
-* Room 212 - Why your tea sucks - a tasting and diss-cusssion (Dylan Connoyt, Marjorie Wang)
-* Room 213 - 
