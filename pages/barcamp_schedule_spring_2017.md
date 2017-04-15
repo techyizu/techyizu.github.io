@@ -34,7 +34,7 @@
 * Room 209 - The Beauty of Stupid Shit: A VR Brainstorm Session (Marjorie Wang)
 * Room 210 - One Minute People Reading - Identify people's personality in one minute (Anne)
 * Room 211 - IOT, MedTech and Wearables: Seucrity, Saftey, Privacy - Good, Bad, and UGLY
-* Room 212 - 
+* Room 212 - VR Learning Models (Tim Gallagher, Michael Bailey)
 * Room 213 - Digital Tech: Make people smarter or dumber (Nayoung)
 
 ## 2:30 
