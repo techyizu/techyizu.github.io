@@ -13,18 +13,6 @@
 
 ### Talks start at 1:30
 
-## 3:30 
-
-* Room 203 - How to hack advertisements, or make it suck less (Rachel Daydou)
-* Room 204 - Disrupting the Medical Industry w/ A.I. 
-* Room 207 - How to A/B Test the Best Subject Lines for Your Emails... for Free! (Roberta Zanibelli)
-* Room 208 - 
-* Room 209 - (con't) The bold truth about VR - 6 Expert Panel Discussion
-* Room 210 - How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
-* Room 211 - Software as Performance Art (Michaeljohn Clement)
-* Room 212 - How stabily pass the data via network in Chinese unstable environment and Android file search engine
-* Room 213 - Learn how to beatbox - Beatboxing Basics (Herry Rosen) (BRING WATER!!)
-
 ## 4:00 
 
 * Room 203 - China Healthcare Industry - How to use technology (Nayoung)
@@ -179,3 +167,15 @@ Metro Station: Da Pu Qiao, line 9
 * Room 211 - The Real Way to Find Tech Talents for your Startup: Hacking Github (Thibault Genaitay)
 * Room 212 - DESIGN + STARTUPS: How to Be Needs Driven (Kevin Yu)
 * Room 213 - 
+
+## 3:30 
+
+* Room 203 - How to hack advertisements, or make it suck less (Rachel Daydou)
+* Room 204 - Disrupting the Medical Industry w/ A.I. 
+* Room 207 - How to A/B Test the Best Subject Lines for Your Emails... for Free! (Roberta Zanibelli)
+* Room 208 - 
+* Room 209 - (con't) The bold truth about VR - 6 Expert Panel Discussion
+* Room 210 - How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
+* Room 211 - Software as Performance Art (Michaeljohn Clement)
+* Room 212 - How stabily pass the data via network in Chinese unstable environment and Android file search engine
+* Room 213 - Learn how to beatbox - Beatboxing Basics (Herry Rosen) (BRING WATER!!)
