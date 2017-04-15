@@ -30,7 +30,7 @@
 * Room 203 - The quarter life crisis - Why you should never settle (Will Fan)
 * Room 204 - Blockchain / BTC in China Landscape and Recent Developments (Julian Wu, Shanghai Blockchain Meetups)
 * Room 207 - Financial Literaciy 101 for Millenials: Saving, Investing and the Philosophy of Time (Richard Chen)
-* Room 208 - Exploring Expat Life through Neighborhood Connections (Evrim Kanbar)
+* Room 208 - 
 * Room 209 - The Beauty of Stupid Shit: A VR Brainstorm Session (Marjorie Wang)
 * Room 210 - One Minute People Reading - Identify people's personality in one minute (Anne)
 * Room 211 - IOT, MedTech and Wearables: Seucrity, Saftey, Privacy - Good, Bad, and UGLY
@@ -73,7 +73,7 @@
 * Room 209 - 
 * Room 210 - How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
 * Room 211 - Software as Performance Art (Michaeljohn Clement)
-* Room 212 - 
+* Room 212 - How stabily pass the data via network in Chinese unstable environment and Android file search engine
 * Room 213 - 
 
 ## 4:00 
@@ -81,7 +81,7 @@
 * Room 203 - China Healthcare Industry - How to use technology (Nayoung)
 * Room 204 - 
 * Room 207 - 
-* Room 208 - 
+* Room 208 - Exploring Expat Life through Neighborhood Connections (Evrim Kanbar)
 * Room 209 - (con't) How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
 * Room 210 - 
 * Room 211 - 
