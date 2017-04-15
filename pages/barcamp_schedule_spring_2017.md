@@ -14,19 +14,6 @@
 ### Talks start at 1:30
 
 
-## 2:30 
-
-* Room 203 - The e-Commerce of Southeast Asia: The next gigantic China (Yiying Ng)
-* Room 204 - 
-* Room 207 - (con't) Financial Literaciy 101 for Millenials: Saving, Investing and the Philosophy of Time (Richard Chen)
-* Room 208 - 带税方案 (中文！ in Chinese) No Fapiao? No Problem! -  (Catherine Wang)
-* Room 209 - The future of VR and AR-XR cross reality (Cyrus Lum)
-* Room 210 - (con't) One Minute People Reading - Identify people's personality in one minute (Anne)
-* Room 211 - 3D Body Scanning with Kyle! + Dance Party 
-* Room 212 - SH Machine Learning Meetup! Learn about our events and Deep Learning (Jerry and Bart)
-* Room 213 - What I have learned about e-learning industry from my journey (Nayoung)
-
-
 ## 3:00 
 
 
@@ -182,3 +169,16 @@ Metro Station: Da Pu Qiao, line 9
 * Room 211 - IOT, MedTech and Wearables: Seucrity, Saftey, Privacy - Good, Bad, and UGLY
 * Room 212 - VR Learning Models (Tim Gallagher, Michael Bailey)
 * Room 213 - Digital Tech: Make people smarter or dumber (Nayoung)
+
+## 2:30 
+
+* Room 203 - The e-Commerce of Southeast Asia: The next gigantic China (Yiying Ng)
+* Room 204 - 
+* Room 207 - (con't) Financial Literaciy 101 for Millenials: Saving, Investing and the Philosophy of Time (Richard Chen)
+* Room 208 - 带税方案 (中文！ in Chinese) No Fapiao? No Problem! -  (Catherine Wang)
+* Room 209 - The future of VR and AR-XR cross reality (Cyrus Lum)
+* Room 210 - (con't) One Minute People Reading - Identify people's personality in one minute (Anne)
+* Room 211 - 3D Body Scanning with Kyle! + Dance Party 
+* Room 212 - SH Machine Learning Meetup! Learn about our events and Deep Learning (Jerry and Bart)
+* Room 213 - What I have learned about e-learning industry from my journey (Nayoung)
+
