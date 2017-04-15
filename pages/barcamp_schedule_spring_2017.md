@@ -33,7 +33,7 @@
 * Room 208 - 
 * Room 209 - The Beauty of Stupid Shit: A VR Brainstorm Session (Marjorie Wang)
 * Room 210 - One Minute People Reading - Identify people's personality in one minute (Anne)
-* Room 211 - 
+* Room 211 - IOT, MedTech and Wearables: Seucrity, Saftey, Privacy - Good, Bad, and UGLY
 * Room 212 - 
 * Room 213 - 
 
@@ -175,3 +175,10 @@ Metro Station: Da Pu Qiao, line 9
 --------------------------------
 
 # THANKS FOR COMING!
+
+- The Techyizu Organizers
+
+--------------------------------
+
+# Completed Talks
+
