@@ -1,121 +1,158 @@
-# Shanghai BarCamp Fall 2016 - Schedule
+# Shanghai BarCamp Spring 2017 - Schedule
 
 --------------------------------
 ```
- WIFI: nyuguest
- USER: guest800
- PASS: etphlola
+ WIFI: nyushanghai-guest
 ```
 --------------------------------
 
-* Quick link:  http://nounly.com/tower
+* Quick link:  http://nounly.com/
 
 * **Reload the page if it is not updating!**
-
-* Sorry if there were mistakes earlier -- please RELOAD! - organizers
-
 --------------------------------
 
-### LUNCH 12:30 - 2:00  (NYU cafeteria downstairs)
+### Talks start at 1:30
 
 ## 1:30 
 
-* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
-* Room 203 - VR Room - 
+* Room 203 - 
 * Room 204 - 
-* Room 207 - Transporting an Urban Billion - Hyperloop in China
+* Room 207 - Touch-free gesture control + personalized data collection (Miki Bin)
 * Room 208 - 
-* Room 209 - Creatives are BULLSHIT!
-* Room 210 - Economic Gardening With 10,000 Hours - means to a better life.  Sam Korsmoe
+* Room 209 - 
+* Room 210 - 
 * Room 211 - 
-* Room 212 - 
+* Room 212 - Why your tea sucks - a tasting and diss-cusssion (Dylan Connoyt, Marjorie Wang)
+* Room 213 - 
 
 ## 2:00 
 
-* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
-* Room 203 - VR Room - 
-* Room 204 - What I learned in Cannes Lions - The International Festival of Comedy
+* Room 203 - The quarter life crisis - Why you should never settle (Will Fan)
+* Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 - XINCHEJIAN - Precious Plastics (Recycling) 
-* Room 210 - Hacking the Mind and Body - The Science of Enlightenment - Kent
-* Room 211 - (DANCE PREP!)
+* Room 209 - The Beauty of Stupid Shit: A VR Brainstorm Session (Marjorie Wang)
+* Room 210 - One Minute People Reading - Identify people's personality in one minute (Anne)
+* Room 211 - 
 * Room 212 - 
+* Room 213 - 
 
 ## 2:30 
 
 
-* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
-* Room 203 - VR Room - 
-* Room 204 - How Mobile + Tech impacts Chinese in 2017 - Victor Lee
-* Room 207 - Evolutionizing career education in China - Ming 明泉
+* Room 203 - How to hack advertisements, or make it suck less (Rachel Daydou)
+* Room 204 - 
+* Room 207 - 
 * Room 208 - 
-* Room 209 - XINCHEJIAN - ToorCamp: The American Hacker Camp
-* Room 210 - Self-managing companies workshop - Alan Stafford
-* Room 211 - DANCE DANCE DANCE!!! (dance workshop!)
+* Room 209 - The future of VR and AR-XR cross reality (Cyrus Lum)
+* Room 210 - (con't) One Minute People Reading - Identify people's personality in one minute (Anne)
+* Room 211 - 
 * Room 212 - 
+* Room 213 - 
 
 
 ## 3:00 
 
 
-* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
-* Room 203 - VR Room - VR / AR and the future beyond gaming - Panel Discussion
-* Room 204 - Esperanto 101 (and world peace) - Tracy Mehoke
+* Room 203 - Bot design and tech (DC Collier)
+* Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 - XINCHEJIAN - Why smart kids don't challenge themselves and how to fix it - Maciej, Squiggle Labs
-* Room 210 - Disrupting the Medical Industry w/ AI - Kent
-* Room 211 - DANCE DANCE DANCE!!! (dance workshop!)  (con't)
+* Room 209 - The bold trust about VR - 6 Expert Panel Discussion
+* Room 210 - 
+* Room 211 - 
 * Room 212 - 
+* Room 213 - 
 
 ## 3:30 
 
-* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
-* Room 203 - VR Room - VR / AR and the future beyond gaming - Panel Discussion (con't)
-* Room 204 - How to pitch your company to a reporter - Eva
+* Room 203 - The e-Commerce of Southeast Asia: The next gigantic China (Yiying Ng)
+* Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 - How to hack the life skills! - Margarita
-* Room 210 - Foundations of Environmentalism in SCI-FI- Jack Koppa
-* Room 211 - Before The Flood - Film Screening
+* Room 209 - How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
+* Room 210 - 
+* Room 211 - 
 * Room 212 - 
+* Room 213 - 
 
 ## 4:00 
 
-* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
-* Room 203 - VR Room - Microsoft Hololens Introduction (中文)
+* Room 203 - 
 * Room 204 - 
-* Room 207 - Basics of tech security (for real dummies) - Cryptolounge
-* Room 208 - Speed Reading Hacks (bring a book or something to read) - Tadas
-* Room 209 - What would you do if you were not scared? - Anastasia
-* Room 210 - DRAGONBURN: The Unfestival
-* Room 211 - Before The Flood - Film Screening (con't)
+* Room 207 - 
+* Room 208 - 
+* Room 209 - (con't) How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
+* Room 210 - 
+* Room 211 - 
 * Room 212 - 
+* Room 213 - 
 
 ## 4:30 
 
-* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
-* Room 203 - VR Room - 
-* Room 204 - PLOBOT with IMA Prof. Rudi
-* Room 207 - 
-* Room 208 - 
-* Room 209 - How to captain a boat,  your company or your life - Nestor
-* Room 210 - 
-* Room 211 - Before The Flood - Film Screening (con't)
-* Room 212 - 
-
-## 5:00 
-
-* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
-* Room 203 - VR Room - 
+* Room 203 - 
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 - XINCHEJIAN
-* Room 210 - Discussion: Running community events (Techyizu Organizers)
+* Room 209 - 
+* Room 210 - 
 * Room 211 - 
 * Room 212 - 
+* Room 213 - 
+
+## 5:00 
+
+* Room 203 - 
+* Room 204 - 
+* Room 207 - 
+* Room 208 - 
+* Room 209 - 
+* Room 210 - 
+* Room 211 - 
+* Room 212 - 
+* Room 213 - 
+
+
+## 5:30 
+
+* Room 203 - 
+* Room 204 - 
+* Room 207 - 
+* Room 208 - 
+* Room 209 - 
+* Room 210 - 
+* Room 211 - 
+* Room 212 - 
+* Room 213 - 
+
+## 6:00 
+
+* Room 203 - 
+* Room 204 - 
+* Room 207 - 
+* Room 208 - 
+* Room 209 - 
+* Room 210 - 
+* Room 211 - 
+* Room 212 - 
+* Room 213 - 
+
+
+
+## 6:30 
+
+* Room 203 - 
+* Room 204 - 
+* Room 207 - 
+* Room 208 - 
+* Room 209 - 
+* Room 210 - 
+* Room 211 - 
+* Room 212 - 
+* Room 213 - 
+
+
+
 
 --------------------------------
 # Floorplan
@@ -123,7 +160,7 @@
 ![NYUFloorplan](/pages/images/NYU_Floorplan_Barcamp_201611_600b.jpg)
 
 
-# AFTERPARTY
+# AFTERPARTY at 8:00 PM
 
 ## Kaiba 
 
@@ -145,59 +182,3 @@ Metro Station: Da Pu Qiao, line 9
 
 # Completed Talks
 
-
-## 10:00
-
-* Introduction to BARCAMP
-
-
-## 10:30
-
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - VR Room -
-* Room 204 - IMA Pecha Kucha
-* Room 207 - 
-* Room 208 - 
-* Room 209 - XINCHEJIAN - What is a hackerspace?
-* Room 210 - 
-* Room 211 - 
-* Room 212 - 
-* Room 213 - 
-
-## 11:00 
-
-* Room 201 - NYU VR DEMO - Music From Thin Air - Virtual Reality
-* Room 203 - VR Room - VR Live Product Demo - VR 直播技术介绍
-* Room 204 - 
-* Room 207 - 
-* Room 208 - 
-* Room 209 - XINCHEJIAN - Snowdrift.coop Free / libre / open Crowd-matching Sustainable Funding 
-* Room 210 - The "easy" way to start up - Lucas
-* Room 211 - 
-* Room 212 - 
-
-
-## 11:30 
-
-
-* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
-* Room 203 - VR Room - Google VR Daydream  谷歌VR和 Daydream by GDG
-* Room 204 - DRONE with 4G - Charlie
-* Room 207 - 
-* Room 208 - 
-* Room 209 - XINCHEJIAN - Brainstorm on business models
-* Room 210 - One Minute People Reading - 一分钟面对认人
-* Room 211 - Re-imagine the Future of Education - Chenxi
-* Room 212 - 
-
-## 12:00  
-
-* Room 201 - NYU VR DEMO - Hyperspace Virtual Reality
-* Room 203 - VR Room - Google VR Daydream  谷歌VR和 Daydream by GDG
-* Room 204 - Narrative Medicine + Healthcare Design: A match made in UX heaven - Lissanthea 
-* Room 207 - 
-* Room 208 - 
-* Room 209 - XINCHEJIAN - Brainstorm on business models
-* Room 210 - NO! YOU DON'T WANNA BE AN ENTREPRENEUR
-* Room 211 - 
-* Room 212 - 
