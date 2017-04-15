@@ -69,7 +69,7 @@
 * Room 203 - UX / UI Leveraging Wechat for Customer Loyalty - Wagas Case Study
 * Room 204 - BAD BLOCKCHAIN BAD! (do not attend!)
 * Room 207 - 
-* Room 208 - 
+* Room 208 - Tech giants' AI (Wei)
 * Room 209 - 
 * Room 210 - 
 * Room 211 - Esports DISCUSSION: Dota and LOL
@@ -81,7 +81,7 @@
 * Room 203 - Design Research for Social Impact (Ihan Cheng)
 * Room 204 - How Blockchain is Shaping the future of Digital Finance? (Ahmed Al-Balaghi)
 * Room 207 - Start-Up Accelerators - How do they work, and how do they help? (Chinaccelerator)
-* Room 208 - 
+* Room 208 - (con't) Tech giants' AI (Wei)
 * Room 209 - 
 * Room 210 - Web Development 101 (David Green)
 * Room 211 - 
