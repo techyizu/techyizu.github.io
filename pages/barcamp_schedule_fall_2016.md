@@ -6,7 +6,7 @@
 ```
 --------------------------------
 
-* Quick link:  http://nounly.com/
+* Quick link:  http://nounly.com/slope
 
 * **Reload the page if it is not updating!**
 --------------------------------
