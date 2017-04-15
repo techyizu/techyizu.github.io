@@ -6,7 +6,7 @@
 ```
 --------------------------------
 
-* Quick link:  http://nounly.com/
+* Quick link:  http://nounly.com/slope
 
 * **Reload the page if it is not updating!**
 --------------------------------
@@ -15,8 +15,8 @@
 
 ## 1:30 
 
-* Room 203 - 
-* Room 204 - 
+* Room 203 - Webdevelopment 101
+* Room 204 - Blockchain / BTC History and Recent Trends (Julian Wu, Shanghai Blockchain Meetups)
 * Room 207 - Touch-free gesture control + personalized data collection (Miki Bin)
 * Room 208 - 
 * Room 209 - 
@@ -28,7 +28,7 @@
 ## 2:00 
 
 * Room 203 - The quarter life crisis - Why you should never settle (Will Fan)
-* Room 204 - 
+* Room 204 - Blockchain / BTC in China Landscape and Recent Developments (Julian Wu, Shanghai Blockchain Meetups)
 * Room 207 - 
 * Room 208 - 
 * Room 209 - The Beauty of Stupid Shit: A VR Brainstorm Session (Marjorie Wang)
@@ -58,8 +58,8 @@
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 - The bold trust about VR - 6 Expert Panel Discussion
-* Room 210 - 
+* Room 209 - The bold truth about VR - 6 Expert Panel Discussion
+* Room 210 - A.I. 101: Clearing up the HYPE (Alan Stafford)
 * Room 211 - 
 * Room 212 - 
 * Room 213 - 
@@ -68,11 +68,11 @@
 
 * Room 203 - The e-Commerce of Southeast Asia: The next gigantic China (Yiying Ng)
 * Room 204 - 
-* Room 207 - 
+* Room 207 - How to A/B Test the Best Subject Lines for Your Emails... for Free! (Roberta Zanibelli)
 * Room 208 - 
-* Room 209 - How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
-* Room 210 - 
-* Room 211 - 
+* Room 209 - 
+* Room 210 - How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
+* Room 211 - Software as Performance Art (Michaeljohn Clement)
 * Room 212 - 
 * Room 213 - 
 
