@@ -1,4 +1,4 @@
-# Shanghai BarCamp Fall 2016 - Schedule
+# Shanghai BarCamp Spring 2017 - Schedule
 
 --------------------------------
 ```
@@ -17,22 +17,22 @@
 
 * Room 203 - 
 * Room 204 - 
-* Room 207 - 
+* Room 207 - Touch-free gesture control + personalized data collection (Miki Bin)
 * Room 208 - 
 * Room 209 - 
 * Room 210 - 
 * Room 211 - 
-* Room 212 - 
+* Room 212 - Why your tea sucks - a tasting and diss-cusssion (Dylan Connoyt, Marjorie Wang)
 * Room 213 - 
 
 ## 2:00 
 
-* Room 203 - 
+* Room 203 - The quarter life crisis - Why you should never settle (Will Fan)
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 - 
-* Room 210 - 
+* Room 209 - The Beauty of Stupid Shit: A VR Brainstorm Session (Marjorie Wang)
+* Room 210 - One Minute People Reading - Identify people's personality in one minute (Anne)
 * Room 211 - 
 * Room 212 - 
 * Room 213 - 
@@ -40,12 +40,12 @@
 ## 2:30 
 
 
-* Room 203 - 
+* Room 203 - How to hack advertisements, or make it suck less (Rachel Daydou)
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 - 
-* Room 210 - 
+* Room 209 - The future of VR and AR-XR cross reality (Cyrus Lum)
+* Room 210 - (con't) One Minute People Reading - Identify people's personality in one minute (Anne)
 * Room 211 - 
 * Room 212 - 
 * Room 213 - 
@@ -54,11 +54,11 @@
 ## 3:00 
 
 
-* Room 203 - 
+* Room 203 - Bot design and tech (DC Collier)
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 - 
+* Room 209 - The bold trust about VR - 6 Expert Panel Discussion
 * Room 210 - 
 * Room 211 - 
 * Room 212 - 
@@ -66,11 +66,11 @@
 
 ## 3:30 
 
-* Room 203 - 
+* Room 203 - The e-Commerce of Southeast Asia: The next gigantic China (Yiying Ng)
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 - 
+* Room 209 - How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
 * Room 210 - 
 * Room 211 - 
 * Room 212 - 
@@ -82,7 +82,7 @@
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 - 
+* Room 209 - (con't) How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
 * Room 210 - 
 * Room 211 - 
 * Room 212 - 
