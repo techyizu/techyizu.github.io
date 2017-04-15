@@ -54,7 +54,7 @@
 
 * Room 203 - Change your life forever. Run a marathon by Sam Korsmoe - International race direcor
 * Room 204 - 
-* Room 207 - 
+* Room 207 - Mobile start-ups in South east Asia and Mobile apps accelerator
 * Room 208 - 
 * Room 209 - 
 * Room 210 - 
