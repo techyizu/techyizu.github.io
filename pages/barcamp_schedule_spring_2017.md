@@ -55,12 +55,12 @@
 ## 4:00 
 
 * Room 203 - China Healthcare Industry - How to use technology (Nayoung)
-* Room 204 - 
+* Room 204 - Personalize digital World - How adtech make our life better? (Lauren)
 * Room 207 - 
 * Room 208 - Platform Economics - The Change: Need, action, development (Evrim Kanbar)
 * Room 209 - 
 * Room 210 - (con't) How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
-* Room 211 - Esports DISCUSSION: Dota and LOL
+* Room 211 - How Ecommerce accerelates Tech development (Johnny)
 * Room 212 - 
 * Room 213 - 
 
@@ -72,7 +72,7 @@
 * Room 208 - 
 * Room 209 - 
 * Room 210 - 
-* Room 211 - 
+* Room 211 - Esports DISCUSSION: Dota and LOL
 * Room 212 - 
 * Room 213 - 
 
