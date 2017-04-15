@@ -96,7 +96,7 @@
 * Room 208 - 
 * Room 209 - 
 * Room 210 - 
-* Room 211 - 
+* Room 211 -(con't) Esports DISCUSSION: Dota and LOL
 * Room 212 - 
 * Room 213 - 
 
