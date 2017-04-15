@@ -37,7 +37,7 @@
 * Room 210 - How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
 * Room 211 - Software as Performance Art (Michaeljohn Clement)
 * Room 212 - How stabily pass the data via network in Chinese unstable environment and Android file search engine
-* Room 213 - Learn how to beatbox - Beatboxing Basics (Herry Rosen)
+* Room 213 - Learn how to beatbox - Beatboxing Basics (Herry Rosen) (BRING WATER!!)
 
 ## 4:00 
 
@@ -80,7 +80,7 @@
 
 * Room 203 - 
 * Room 204 - 
-* Room 207 - How to solve your quarter-life crisis?
+* Room 207 - How to solve your quarter-life crisis? 
 * Room 208 - 
 * Room 209 - 
 * Room 210 - 3D Spatial Klingon Poetry Workshop
