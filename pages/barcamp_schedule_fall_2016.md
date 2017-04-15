@@ -13,20 +13,6 @@
 
 ### Talks start at 1:30
 
-
-## 3:00 
-
-
-* Room 203 - Bot design and tech (DC Collier)
-* Room 204 - The Science of Enlightenment - Hacking the Mind and Body
-* Room 207 - 
-* Room 208 - Raspberry Pi Face Detection (Joe Beltrami)
-* Room 209 - The bold truth about VR - 6 Expert Panel Discussion
-* Room 210 - A.I. 101: Clearing up the HYPE (Alan Stafford)
-* Room 211 - The Real Way to Find Tech Talents for your Startup: Hacking Github (Thibault Genaitay)
-* Room 212 - DESIGN + STARTUPS: How to Be Needs Driven (Kevin Yu)
-* Room 213 - 
-
 ## 3:30 
 
 * Room 203 - How to hack advertisements, or make it suck less (Rachel Daydou)
@@ -45,7 +31,8 @@
 * Room 204 - Personalize digital World - How adtech make our life better? (Lauren)
 * Room 207 - 
 * Room 208 - Platform Economics - The Change: Need, action, development (Evrim Kanbar)
-* Room 209 - 
+* Room 209 - CHATBOTS Designing a new medium 
+
 * Room 210 - (con't) How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
 * Room 211 - How Ecommerce accerelates Tech development (Johnny)
 * Room 212 - 
@@ -182,3 +169,14 @@ Metro Station: Da Pu Qiao, line 9
 * Room 212 - SH Machine Learning Meetup! Learn about our events and Deep Learning (Jerry and Bart)
 * Room 213 - What I have learned about e-learning industry from my journey (Nayoung)
 
+## 3:00 
+
+* Room 203 - 
+* Room 204 - The Science of Enlightenment - Hacking the Mind and Body
+* Room 207 - 
+* Room 208 - Raspberry Pi Face Detection (Joe Beltrami)
+* Room 209 - The bold truth about VR - 6 Expert Panel Discussion
+* Room 210 - A.I. 101: Clearing up the HYPE (Alan Stafford)
+* Room 211 - The Real Way to Find Tech Talents for your Startup: Hacking Github (Thibault Genaitay)
+* Room 212 - DESIGN + STARTUPS: How to Be Needs Driven (Kevin Yu)
+* Room 213 - 
