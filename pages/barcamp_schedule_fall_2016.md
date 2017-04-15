@@ -104,7 +104,7 @@
 
 * Room 203 - Design Research for Social Impact (Ihan Cheng)
 * Room 204 - 
-* Room 207 - 
+* Room 207 - Start-Up Accelerators - How do they work, and how do they help? (Chinaccelerator)
 * Room 208 - 
 * Room 209 - 
 * Room 210 - Web Development 101 (David Green)
@@ -117,7 +117,7 @@
 
 * Room 203 - 
 * Room 204 - 
-* Room 207 - 
+* Room 207 - How to solve your quarter-life crisis?
 * Room 208 - 
 * Room 209 - 
 * Room 210 - 3D Spatial Klingon Poetry Workshop
