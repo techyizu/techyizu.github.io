@@ -43,7 +43,7 @@
 * Room 203 - How to hack advertisements, or make it suck less (Rachel Daydou)
 * Room 204 - 
 * Room 207 - (con't) Financial Literaciy 101 for Millenials: Saving, Investing and the Philosophy of Time (Richard Chen)
-* Room 208 - No Fapiao? No Problem! - 中文！ in Chinese (Catherine Wang)
+* Room 208 - 带税方案 (中文！ in Chinese) No Fapiao? No Problem! -  (Catherine Wang)
 * Room 209 - The future of VR and AR-XR cross reality (Cyrus Lum)
 * Room 210 - (con't) One Minute People Reading - Identify people's personality in one minute (Anne)
 * Room 211 - 3D Body Scanning with Kyle! + Dance Party 
