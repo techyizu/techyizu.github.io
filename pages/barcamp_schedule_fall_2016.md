@@ -107,7 +107,7 @@
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
-* Room 210 - 
+* Room 210 - Web Development 101 (David Green)
 * Room 211 - 
 * Room 212 - 
 * Room 213 - 
@@ -120,7 +120,7 @@
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
-* Room 210 - 
+* Room 210 - 3D Spatial Klingon Poetry Workshop
 * Room 211 - 
 * Room 212 - 
 * Room 213 - 
@@ -148,7 +148,7 @@
 * Room 209 - 
 * Room 210 - 
 * Room 211 - 
-* Room 212 - 
+* Room 212 - Organizing events in Shanghai (open discussion!)
 * Room 213 - 
 
 
