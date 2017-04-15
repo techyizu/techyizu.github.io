@@ -103,7 +103,7 @@
 ## 5:00 
 
 * Room 203 - Design Research for Social Impact (Ihan Cheng)
-* Room 204 - 
+* Room 204 - How Blockchain is Shaping the future of Digital Finance? (Ahmed Al-Balaghi)
 * Room 207 - Start-Up Accelerators - How do they work, and how do they help? (Chinaccelerator)
 * Room 208 - 
 * Room 209 - 
