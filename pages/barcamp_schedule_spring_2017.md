@@ -57,7 +57,7 @@
 * Room 203 - Bot design and tech (DC Collier)
 * Room 204 - 
 * Room 207 - 
-* Room 208 - 
+* Room 208 - Raspberry Pi Face Detection (Joe Beltrami)
 * Room 209 - The bold truth about VR - 6 Expert Panel Discussion
 * Room 210 - A.I. 101: Clearing up the HYPE (Alan Stafford)
 * Room 211 - The Real Way to Find Tech Talents for your Startup: Hacking Github (Thibault Genaitay)
@@ -82,9 +82,9 @@
 * Room 204 - 
 * Room 207 - 
 * Room 208 - Exploring Expat Life through Neighborhood Connections (Evrim Kanbar)
-* Room 209 - (con't) How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
-* Room 210 - 
-* Room 211 - 
+* Room 209 - 
+* Room 210 - (con't) How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
+* Room 211 - Esports DISCUSSION: Dota and LOL
 * Room 212 - 
 * Room 213 - 
 
