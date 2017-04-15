@@ -37,7 +37,7 @@
 * Room 210 - How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
 * Room 211 - Software as Performance Art (Michaeljohn Clement)
 * Room 212 - How stabily pass the data via network in Chinese unstable environment and Android file search engine
-* Room 213 - 
+* Room 213 - Learn how to beatbox - Beatboxing Basics (Herry Rosen)
 
 ## 4:00 
 
@@ -90,7 +90,7 @@
 
 ## 6:00 
 
-* Room 203 - 
+* Room 203 - Change your life forever. Run a marathon by Sam Korsmoe - International race direcor
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
