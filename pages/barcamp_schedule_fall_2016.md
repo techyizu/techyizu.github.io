@@ -32,7 +32,6 @@
 * Room 207 - 
 * Room 208 - Platform Economics - The Change: Need, action, development (Evrim Kanbar)
 * Room 209 - CHATBOTS Designing a new medium 
-
 * Room 210 - (con't) How to apply Chinese Ancient Philosophy Yin and Yang into Financial Markets (Frank Wang)
 * Room 211 - How Ecommerce accerelates Tech development (Johnny)
 * Room 212 - 
@@ -58,7 +57,7 @@
 * Room 208 - (con't) Tech giants' AI (Wei)
 * Room 209 - 
 * Room 210 - Web Development 101 (David Green)
-* Room 211 - 
+* Room 211 - Keeping the ED in Edtech (Tracy Mehoke)
 * Room 212 - 
 * Room 213 - 
 
@@ -83,7 +82,7 @@
 * Room 208 - 
 * Room 209 - 
 * Room 210 - 
-* Room 211 - 
+* Room 211 - 3 Things that ONLY YOU can do to learn a language (Tracy)
 * Room 212 - 
 * Room 213 - 
 
