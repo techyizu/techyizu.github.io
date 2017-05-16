@@ -1,6 +1,6 @@
 # Mobile Film Challenge 2017
 
-<img class="hero_hidden" src="/events/images/mobile_film_challenge_2017_emailbanner_600.jpg" />
+<img class="hero_hidden" src="/events/images/mobile_film_challenge_2017_blosson_bw_640.jpg" />
 
 ## Do you have a mobile phone? You can be a filmmaker!
 
