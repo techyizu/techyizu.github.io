@@ -1,6 +1,6 @@
-# mobile-film-challenge-2017
+# Mobile Film Challenge 2017
 
-<img class="hero_hidden" src="/events/images/mfc_email_banner.jpg" />
+<img class="hero_hidden" src="/events/images/mobile_film_challenge_2017_emailbanner_600.jpg" />
 
 ## Do you have a mobile phone? You can be a filmmaker!
 
@@ -13,6 +13,8 @@ Ever wanted to make your own film?  We’ll teach you how.  Film experts will sh
 手机电影挑战杯是将具有火花四色课程的电影学校和电影节融合在一起的48小时混搭活动，在这个活动里，你和你的团队在两天的时间里面制作一个微电影。
 
 你有想过拍摄属于你的电影吗？我们将会教会你如何实现它！电影专业人员将会从头到尾手把手教你一些基本的知识，包括剧本，制作，拍摄，剪辑。然后你和你的团队在外面用新学习的知识拍摄一部2分钟的微电影。活动尾声处我们将会有个火爆的爆米花电影放映会和party。
+
+ - [RSVP for the event on Meetup!](https://www.meetup.com/Techyizu/events/239952303/)
 
 ## Coming? Here's what you need to know
 
@@ -52,17 +54,17 @@ Sunday screening and prizes!  Mystery prizes will be given to the best films as 
 
 * 09:00	Doors open
 * 10:00	TALK: Pre-production / Storyboard / Shot List
-* 10:30  	TALK: Shooting
+* 10:30 TALK: Shooting
 * 11:00	TALK: Sound 
 * 13:00 Team go out and film!
-* 19:00  TALK:  Editing
+* 19:00 TALK:  Editing
 
 ### June 11th, Sunday
 
 * 10:00	Doors open
 * 16:00	Films must be submitted!
-* 17:00 	Film screenings begin!
-* 18:00 	Film awards
+* 17:00 Film screenings begin!
+* 18:00 Film awards
 
 # Prizes! 
 
