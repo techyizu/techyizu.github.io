@@ -5,7 +5,7 @@
 ---
 ## Event Resources
 
-* [Mobile Film Challenge 2017 - Event Booklet (PDF download)](events/resources/MobileFilmChallenge_Booklet_2017.pdf)
+* [Mobile Film Challenge 2017 - Event Booklet (PDF download)](/events/resources/MobileFilmChallenge_Booklet_2017.pdf)
 
 ---
 
