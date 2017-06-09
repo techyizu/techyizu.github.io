@@ -2,6 +2,13 @@
 
 <img class="hero_hidden" src="/events/images/mobile_film_challenge_2017_blosson_bw_640.jpg" />
 
+---
+## Event Resources
+
+* [Mobile Film Challenge 2017 - Event Booklet (PDF download)](events/resources/MobileFilmChallenge_Booklet_2017.pdf)
+
+---
+
 ## Do you have a mobile phone? You can be a filmmaker!
 
 The Mobile Film Challenge is a mashup of a crash course in film and a film festival, where you can create a short film in just a weekend!
