@@ -1,29 +1,31 @@
 ![Fail Faster Logo](/events/images/fail_faster_logo.jpg)
 
 
-# Fail Faster 2017, start by finding customers not solution to a problem!
+# Fail Faster 2017, start by finding customers -- not solutions!
 
 **Register for the event**:  [https://www.meetup.com/Techyizu/events/242505078/](https://www.meetup.com/Techyizu/events/242505078/)
 
 ----
 ## Fail Faster 2017 - Workshop Materials
 
-Shared File Directory:  [https://share.weiyun.com/520c21c4b8806958b618f8b846cabaf5](https://share.weiyun.com/520c21c4b8806958b618f8b846cabaf5)
+Shared File Directory:  [https://share.weiyun.com/e22c35b68b6383c6ca81ac88c184cde8](https://share.weiyun.com/e22c35b68b6383c6ca81ac88c184cde8)
 
 Friday Presentations:
-* [Fail Faster: Workshop Introduction](http://share.weiyun.com/1ff4b1fab0b2213fcbd4145f8909d557)
-* [Failing Slowly](http://share.weiyun.com/5e72c9c8e960d5081649d850eca2b793)
+* [Fail Faster: Workshop Introduction](https://share.weiyun.com/5a28e25ed751f9bbbe9bcc5578bd5b67)
 
 Saturday Presentations:
-* [Fail Faster: Javelin Board Introduction](http://share.weiyun.com/fb090e1ae9036ea608309c8a10bab911)
-* [Fail Faster: Customer Development Interviews](http://share.weiyun.com/a11d583f64efb5ced0e95a3bd8d7777f)
-* [Fail Faster: Minimum Viable Product](http://share.weiyun.com/8cffb971d418bb941d42042336a6df76)
-* [Fail Faster: Javelin Board Walkthrough](http://share.weiyun.com/8b3d151a2934a576b4ed400d59ba497e)
-* [Fail Faster: Quantitative Research Surveys](http://share.weiyun.com/94c2766fb820465e0e1a376643e2f8f1)
+* [Fail Faster: Experiment Board Introduction](https://share.weiyun.com/be1095f1124209ae383a965ef941148e)
+* [Fail Faster: Customer Development Interviews](https://share.weiyun.com/e7954cdaa6bfdea9933be8424dcf70fe)
+* [Fail Faster: Quantitative Research Surveys](https://share.weiyun.com/1cfafff0a73df2cad948d42d60e89f36)
+* [Fail Faster: Experiment Board Walkthrough](https://share.weiyun.com/dd209a3774560f505c4c691b1fa5b1b0)
+
+* [Fail Faster: Minimum Viable Product](https://share.weiyun.com/81453dbaecf58cc21d812a3817eef1ad)
+
+
 
 Sunday Presentations:
-* [Fail Faster: Pivot Presentation](http://share.weiyun.com/e16e89dd27fac0e285d6bc2a42f5205b)
-* [Fail Faster: Generic Team Presentation](http://share.weiyun.com/23bcb9dd945a44bb24189d5155529650)
+* [Fail Faster: Pivot Presentation](https://share.weiyun.com/dee522f1bff77e7e10501aaa906266c0)
+* [Fail Faster: Generic Team Presentation](https://share.weiyun.com/211a92b255dea3811c3e2b104e1322dc)
 
 ----
 
@@ -66,8 +68,8 @@ Over the weekend, you’ll learn how to test your customer hypothesis, problem h
 
 
 ### Saturday Morning
-* Javelin Board Presentation
-* Customer Development session
+* Experiment Board Presentation
+* Customer Development Session
 * Field Interview
 
 ### Saturday Afternoon
@@ -77,7 +79,7 @@ Over the weekend, you’ll learn how to test your customer hypothesis, problem h
 
 
 ### Sunday Morning
-* Lean Startup Pivot session
+* Pivot session
 * MVP feedback
 
 ### Sunday Afternoon
