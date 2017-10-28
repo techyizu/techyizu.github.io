@@ -51,7 +51,7 @@
 ## 3:00 
 
 * Room 203 - Storytelling your brand via Chinese social media - Eva Hsu
-* Room 204 - 
+* Room 204 - Hackerspaces Entrepreneurship, CHina and your life - Mitch
 * Room 207 - 
 * Room 208 - 
 * Room 209 -  Design Thinking for everyone - A practical exercise- Momo Estrella (continue)
@@ -62,7 +62,7 @@
 ## 3:30 
 
 * Room 203 - 
-* Room 204 - 
+* Room 204 - Hackerspaces Entrepreneurship, CHina and your life - Mitch (Continue)
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
