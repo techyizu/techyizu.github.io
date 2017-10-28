@@ -33,7 +33,7 @@
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
-* Room 211 - community management for geeks
+* Room 211 - community management for geeks - Ricky Ngadam
 * Room 212 - midle east market opportunity for chinese tech companies- Muhammed Mekki, AstroLabs
 * Room 213 - 
 
@@ -67,7 +67,7 @@
 * Room 208 - 
 * Room 209 - Future of digital Experience how AI+ Natural Interface will change products + Creativity - Karlen Chang
 * Room 211 - Using a GraphQL from React5S -Gregory Onton
-* Room 212 - 
+* Room 212 - Ethereum Contracts & Decentralized Exchanges - Yao
 * Room 213 - 
 
 ## 4:00 
