@@ -94,7 +94,7 @@
 
 ## 5:00 
 
-* Room 203 -
+* Room 203 - Precious Plastic SH Recycle your Plastic of local Scale - Adele 
 * Room 204 - Esports & Dota - Discussion!
 * Room 207 - Social Media Marketing - Mythbusting!  -- Lyric Lu
 * Room 208 - 
@@ -118,7 +118,7 @@
 ## 6:00 
 
 * Room 203 - 
-* Room 204 - 
+* Room 204 - Business Relationship & AI
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
