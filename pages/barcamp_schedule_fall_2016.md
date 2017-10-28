@@ -85,7 +85,7 @@
 
 * Room 203 - Digital Signal Processing (DSP) is easy to use to make sound and music (and noise): An explanation for beginners
 * Room 204 - SOS Tencent - We desperately need this Wechat group features (UX Design) -- VLAD
-* Room 207 - 
+* Room 207 - Urban Agriculture - The Future of Urban Farming
 * Room 208 - 
 * Room 209 - 
 * Room 211 - NLP-Natural Language Processing applied to language language Learning
