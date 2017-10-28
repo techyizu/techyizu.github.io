@@ -65,7 +65,7 @@
 * Room 204 - Hackerspaces Entrepreneurship, CHina and your life - Mitch (Continue)
 * Room 207 - 
 * Room 208 - 
-* Room 209 - 
+* Room 209 - Future of digital Experience how AI+ Natural Interface will change products + Creativity - Karlen Chang
 * Room 211 - Using a GraphQL from React5S -Gregory Onton
 * Room 212 - 
 * Room 213 - 
