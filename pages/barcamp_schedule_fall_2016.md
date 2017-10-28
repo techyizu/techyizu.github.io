@@ -79,7 +79,7 @@
 * Room 209 - JSONAPI DEMO
 * Room 211 - NoSQL on Mobile -- William Huang
 * Room 212 - CHATBOTS Deconstructed -- Tracy Mehoke
-* Room 213 - 
+* Room 213 - Find the entrepreneue in you - Sam Korsmoe
 
 ## 4:30 
 
