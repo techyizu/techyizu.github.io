@@ -19,7 +19,7 @@
 * Room 203 -  
 * Room 204 - 
 * Room 207 - 
-* Room 208 - 
+* Room 208 - Marketing AI- What does the industry not telling you _Victor
 * Room 209 - 
 * Room 210 - 
 * Room 211 - Local and international investment landscape for tech startups
