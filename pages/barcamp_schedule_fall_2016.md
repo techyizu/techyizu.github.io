@@ -108,8 +108,8 @@
 
 * Room 203 - Improving road safety and reducing accidents
 * Room 204 - Tips for foreign entrepreneurs thinking about doing startup in China
-* Room 207 - 
-* Room 208 - 
+* Room 207 - Strange tales of history: What mainstreams WON'T Tell you (definitely not boring) - Ryan King
+* Room 208 - Crowdsourcing API dacumentation translation
 * Room 209 - I hate screens - Designing UI/UX for physical spaces
 * Room 211 - 
 * Room 212 - 
