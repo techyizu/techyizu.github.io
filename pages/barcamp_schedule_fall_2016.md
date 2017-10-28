@@ -33,36 +33,36 @@
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
-* Room 211 - Community management for geeks - Ricky Ngadam
+* Room 211 - Community Management for Geeks - Ricky Ng-Adam
 * Room 212 - Middle East Market Opportunity for Chinese Tech Companies- Muhammed Mekki, AstroLabs
 * Room 213 - 
 
 ## 2:30 
 
 * Room 203 - 
-* Room 204 - 
+* Room 204 - ICO - Update Tips and Trends by Julian Wu (continued)
 * Room 207 - 
 * Room 208 - 
 * Room 209 - Design Thinking for everyone - A practical exercise- Momo Estrella
-* Room 211 - Blockchain: a revolution in three actus - Stephane Laurent
+* Room 211 - Blockchain: A Revolution in Three Acts - Stephane Laurent
 * Room 212 - 
-* Room 213 - IoT for the Masses; Ingishgt & Development - Maker Stuff
+* Room 213 - IoT for the Masses; Insights & Development - Maker Stuff
 
 ## 3:00 
 
 * Room 203 - Storytelling your brand via Chinese social media - Eva Hsu
-* Room 204 - Hackerspaces Entrepreneurship, CHina and your life - Mitch
+* Room 204 - Hackerspaces Entrepreneurship, CHina and your life - Mitch Altman
 * Room 207 - 
 * Room 208 - 
-* Room 209 -  Design Thinking for everyone - A practical exercise- Momo Estrella (continue)
-* Room 211 -  Building a GraphQL backend- Ricky Ng-Adam
+* Room 209 -  Design Thinking for everyone - A practical exercise- Momo Estrella (continued)
+* Room 211 -  Building a GraphQL Backend- Ricky Ng-Adam
 * Room 212 - 
 * Room 213 -  When Blockchain Meets Energy (Lathika)
 
 ## 3:30 
 
 * Room 203 - Find the Entrepreneur in You - Sam Korsmoe
-* Room 204 - Hackerspaces Entrepreneurship, CHina and your life - Mitch (Continue)
+* Room 204 - Hackerspaces Entrepreneurship, CHina and your life - Mitch Altman (Continued)
 * Room 207 - 
 * Room 208 - 
 * Room 209 - Future of digital Experience how AI+ Natural Interface will change products + Creativity - Karlen Chang
