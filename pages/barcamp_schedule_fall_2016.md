@@ -33,8 +33,8 @@
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
-* Room 211 - community management for geeks - Ricky Ngadam
-* Room 212 - midle east market opportunity for chinese tech companies- Muhammed Mekki, AstroLabs
+* Room 211 - Community management for geeks - Ricky Ngadam
+* Room 212 - Middle East Market Opportunity for Chinese Tech Companies- Muhammed Mekki, AstroLabs
 * Room 213 - 
 
 ## 2:30 
@@ -61,7 +61,7 @@
 
 ## 3:30 
 
-* Room 203 - 
+* Room 203 - Find the Entrepreneur in You - Sam Korsmoe
 * Room 204 - Hackerspaces Entrepreneurship, CHina and your life - Mitch (Continue)
 * Room 207 - 
 * Room 208 - 
@@ -73,7 +73,8 @@
 ## 4:00 
 
 * Room 203 - 
-* Room 204 - 
+* Room 204 - Solving the Food Crisis of Tomorrow, Today! - Roger Mu
+* Room 207 - 4 Basic Steps to Protect Yourself Online
 * Room 208 - 
 * Room 209 - JSONAPI DEMO
 * Room 211 - NoSQL on mobile- William Huang
@@ -94,7 +95,7 @@
 ## 5:00 
 
 * Room 203 -
-* Room 204 - 
+* Room 204 - Esports & Dota - Discussion!
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
@@ -106,7 +107,7 @@
 ## 5:30 
 
 * Room 203 - 
-* Room 204 - 
+* Room 204 - Tips for foreign entrepreneurs thinking about doing startup in China
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
