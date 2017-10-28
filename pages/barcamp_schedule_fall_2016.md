@@ -41,7 +41,7 @@
 
 * Room 203 - 
 * Room 204 - ICO - Update Tips and Trends by Julian Wu (continued)
-* Room 207 - 
+* Room 207 - Learn something different like Drupal - Draven
 * Room 208 - 
 * Room 209 - Design Thinking for everyone - A practical exercise- Momo Estrella
 * Room 211 - Blockchain: A Revolution in Three Acts - Stephane Laurent
