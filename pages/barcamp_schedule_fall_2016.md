@@ -6,7 +6,7 @@
 ```
 --------------------------------
 
-* Quick link:  http://nounly.com/crown
+* Quick link:  http://nounly.com/tower
 
 * **Reload the page if it is not updating!**
 --------------------------------
