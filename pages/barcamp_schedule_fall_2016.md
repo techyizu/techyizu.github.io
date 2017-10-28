@@ -84,7 +84,7 @@
 ## 4:30 
 
 * Room 203 - Digital Signal Processing (DSP) is easy to use to make sound and music (and noise): An explanation for beginners
-* Room 204 - 
+* Room 204 - SOS Tencent - We desperately need this Wechat group features (UX Design) VLAD
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
