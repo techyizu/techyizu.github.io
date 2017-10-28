@@ -29,7 +29,7 @@
 ## 2:00 
 
 * Room 203 - 
-* Room 204 - 
+* Room 204 - ICO - Update Tips and Trends by Julian Wu 
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
