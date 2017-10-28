@@ -29,62 +29,62 @@
 ## 2:00 
 
 * Room 203 - 
-* Room 204 - ICO - Update Tips and Trends by Julian Wu 
+* Room 204 - ICO - Update Tips and Trends -- Julian Wu 
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
-* Room 211 - Community Management for Geeks - Ricky Ng-Adam
-* Room 212 - Middle East Market Opportunity for Chinese Tech Companies- Muhammed Mekki, AstroLabs
+* Room 211 - Community Management for Geeks -- Ricky Ng-Adam
+* Room 212 - Middle East Market Opportunity for Chinese Tech Companies -- Muhammed Mekki, AstroLabs
 * Room 213 - 
 
 ## 2:30 
 
 * Room 203 - 
-* Room 204 - ICO - Update Tips and Trends by Julian Wu (continued)
-* Room 207 - Learn something different like Drupal - Draven
+* Room 204 - ICO - Update Tips and Trends -- Julian Wu (continued)
+* Room 207 - Learn something different like Drupal -- Draven
 * Room 208 - 
-* Room 209 - Design Thinking for everyone - A practical exercise- Momo Estrella
-* Room 211 - Blockchain: A Revolution in Three Acts - Stephane Laurent
+* Room 209 - Design Thinking for everyone - A practical exercise -- Momo Estrella
+* Room 211 - Blockchain: A Revolution in Three Acts -- Stephane Laurent
 * Room 212 - 
-* Room 213 - IoT for the Masses; Insights & Development - Maker Stuff
+* Room 213 - IoT for the Masses; Insights & Development -- Maker Stuff
 
 ## 3:00 
 
-* Room 203 - Storytelling your brand via Chinese social media - Eva Hsu
-* Room 204 - Hackerspaces Entrepreneurship, CHina and your life - Mitch Altman
+* Room 203 - Storytelling your brand via Chinese social media -- Eva Hsu
+* Room 204 - Hackerspaces Entrepreneurship, CHina and your life -- Mitch Altman
 * Room 207 - 
 * Room 208 - 
-* Room 209 -  Design Thinking for everyone - A practical exercise- Momo Estrella (continued)
-* Room 211 -  Building a GraphQL Backend- Ricky Ng-Adam
+* Room 209 -  Design Thinking for everyone - A practical exercise -- Momo Estrella (continued)
+* Room 211 -  Building a GraphQL Backend -- Ricky Ng-Adam
 * Room 212 - 
-* Room 213 -  When Blockchain Meets Energy (Lathika)
+* Room 213 -  When Blockchain Meets Energy -- Lathika
 
 ## 3:30 
 
-* Room 203 - Find the Entrepreneur in You - Sam Korsmoe
-* Room 204 - Hackerspaces Entrepreneurship, CHina and your life - Mitch Altman (Continued)
+* Room 203 - Find the Entrepreneur in You -- Sam Korsmoe
+* Room 204 - Hackerspaces Entrepreneurship, China and your life -- Mitch Altman (Continued)
 * Room 207 - 
 * Room 208 - 
-* Room 209 - Future of digital Experience how AI+ Natural Interface will change products + Creativity - Karlen Chang
-* Room 211 - Using a GraphQL from React5S -Gregory Onton
-* Room 212 - Ethereum Contracts & Decentralized Exchanges - Yao
+* Room 209 - Future of digital Experience how AI+ Natural Interface will change products + Creativity -- Karlen Chang
+* Room 211 - Using a GraphQL from React5S -- Gregory Onton
+* Room 212 - Ethereum Contracts & Decentralized Exchanges -- Yao
 * Room 213 - 
 
 ## 4:00 
 
 * Room 203 - 
-* Room 204 - Solving the Food Crisis of Tomorrow, Today! - Roger Mu
+* Room 204 - Solving the Food Crisis of Tomorrow, Today! -- Roger Mu
 * Room 207 - 4 Basic Steps to Protect Yourself Online
 * Room 208 - 
 * Room 209 - JSONAPI DEMO
-* Room 211 - NoSQL on mobile- William Huang
-* Room 212 - 
+* Room 211 - NoSQL on Mobile -- William Huang
+* Room 212 - CHATBOTS Deconstructed -- Tracy Mehoke
 * Room 213 - 
 
 ## 4:30 
 
 * Room 203 - Digital Signal Processing (DSP) is easy to use to make sound and music (and noise): An explanation for beginners
-* Room 204 - SOS Tencent - We desperately need this Wechat group features (UX Design) VLAD
+* Room 204 - SOS Tencent - We desperately need this Wechat group features (UX Design) -- VLAD
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
@@ -99,7 +99,7 @@
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
-* Room 211 - Distributed apps - Gunnar Wagner
+* Room 211 - Distributed apps -- Gunnar Wagner
 * Room 212 - 
 * Room 213 - 
 
