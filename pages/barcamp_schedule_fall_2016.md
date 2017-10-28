@@ -6,7 +6,7 @@
 ```
 --------------------------------
 
-* Quick link:  http://nounly.com/slope
+* Quick link:  http://nounly.com/crown
 
 * **Reload the page if it is not updating!**
 --------------------------------
@@ -22,7 +22,7 @@
 * Room 208 - 
 * Room 209 - 
 * Room 210 - 
-* Room 211 - 
+* Room 211 - Local and international investment landscape for tech startups
 * Room 212 - 
 * Room 213 - 
 
@@ -33,8 +33,8 @@
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
-* Room 211 - 
-* Room 212 - 
+* Room 211 - community management for geeks
+* Room 212 - midle east market opportunity for chinese tech companies- Muhammed Mekki, AstroLabs
 * Room 213 - 
 
 ## 2:30 
@@ -43,8 +43,8 @@
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 - 
-* Room 211 - 
+* Room 209 - Design Thinking for everyone - A practical exercise- Momo Estrella
+* Room 211 - Blockchain: a revolution in three actus - Stephane Laurent
 * Room 212 - 
 * Room 213 - 
 
@@ -54,7 +54,7 @@
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
-* Room 209 - 
+* Room 209 -  Design Thinking for everyone - A practical exercise- Momo Estrella (continue)
 * Room 211 - 
 * Room 212 - 
 * Room 213 - 
