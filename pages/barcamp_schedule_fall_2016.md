@@ -96,7 +96,7 @@
 
 * Room 203 -
 * Room 204 - Esports & Dota - Discussion!
-* Room 207 - 
+* Room 207 - Social Media Marketing - Mythbusting!  -- Lyric Lu
 * Room 208 - 
 * Room 209 - 
 * Room 211 - Distributed apps -- Gunnar Wagner
