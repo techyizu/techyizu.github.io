@@ -6,7 +6,7 @@
 ```
 --------------------------------
 
-* Quick link:  http://nounly.com/zebra
+* Quick link:  http://nounly.com/slope
 
 * **Reload the page if it is not updating!**
 --------------------------------
