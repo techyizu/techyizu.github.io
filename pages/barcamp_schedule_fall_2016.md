@@ -100,7 +100,7 @@
 * Room 208 - 
 * Room 209 - Precious Plastic SH Recycle your Plastic of local Scale - Adele 
 * Room 211 - Distributed apps -- Gunnar Wagner
-* Room 212 - 
+* Room 212 - Comprehensive world picture 2050 (a discussion)
 * Room 213 - 
 
 
