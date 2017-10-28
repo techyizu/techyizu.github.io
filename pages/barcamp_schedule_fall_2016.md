@@ -46,18 +46,18 @@
 * Room 209 - Design Thinking for everyone - A practical exercise- Momo Estrella
 * Room 211 - Blockchain: a revolution in three actus - Stephane Laurent
 * Room 212 - 
-* Room 213 - 
+* Room 213 - IoT for the Masses; Ingishgt & Development - Maker Stuff
 
 ## 3:00 
 
-* Room 203 - 
+* Room 203 - Storytelling your brand via Chinese social media - Eva Hsu
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
 * Room 209 -  Design Thinking for everyone - A practical exercise- Momo Estrella (continue)
-* Room 211 - 
+* Room 211 -  Building a GraphQL backend- Ricky Ng-Adam
 * Room 212 - 
-* Room 213 - 
+* Room 213 -  When Blockchain Meets Energy (Lathika)
 
 ## 3:30 
 
@@ -66,7 +66,7 @@
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
-* Room 211 - 
+* Room 211 - Using a GraphQL from React5S -Gregory Onton
 * Room 212 - 
 * Room 213 - 
 
@@ -75,19 +75,19 @@
 * Room 203 - 
 * Room 204 - 
 * Room 208 - 
-* Room 209 -  
-* Room 211 - 
+* Room 209 - JSONAPI DEMO
+* Room 211 - NoSQL on mobile- William Huang
 * Room 212 - 
 * Room 213 - 
 
 ## 4:30 
 
-* Room 203 - 
+* Room 203 - Digital Signal Processing (DSP) is easy to use to make sound and music (and noise): An explanation for beginners
 * Room 204 - 
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
-* Room 211 - 
+* Room 211 - NLP-Natural Language Processing applied to language language Learning
 * Room 212 - 
 * Room 213 - 
 
@@ -98,7 +98,7 @@
 * Room 207 - 
 * Room 208 - 
 * Room 209 - 
-* Room 211 - 
+* Room 211 - Distributed apps - Gunnar Wagner
 * Room 212 - 
 * Room 213 - 
 
