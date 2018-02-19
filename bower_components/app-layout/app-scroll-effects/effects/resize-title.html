@@ -25,23 +25,28 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
     Polymer.AppLayout.registerEffect('resize-title', {
       /** @this Polymer.AppLayout.ElementWithBackground */
       setUp: function setUp() {
-        var title = this._getDOMRef('title');
+        var title = this._getDOMRef('mainTitle');
         var condensedTitle = this._getDOMRef('condensedTitle');
 
         if (!condensedTitle) {
-          this._warn(this._logf('effects[resize-title]', 'undefined `condensed-title`'));
+          console.warn('Scroll effect `resize-title`: undefined `condensed-title`');
           return false;
         }
         if (!title) {
-          this._warn(this._logf('effects[resize-title]', 'undefined `title`'));
+          console.warn('Scroll effect `resize-title`: undefined `main-title`');
           return false;
         }
 
         condensedTitle.style.willChange = 'opacity';
-        title.style.willChange = 'opacity';
         condensedTitle.style.webkitTransform = 'translateZ(0)';
-        title.style.webkitTransform = 'translateZ(0)';
         condensedTitle.style.transform = 'translateZ(0)';
+        condensedTitle.style.webkitTransformOrigin = 'left top';
+        condensedTitle.style.transformOrigin = 'left top';
+
+        title.style.willChange = 'opacity';
+        title.style.webkitTransformOrigin = 'left top';
+        title.style.transformOrigin = 'left top';
+        title.style.webkitTransform = 'translateZ(0)';
         title.style.transform = 'translateZ(0)';
 
         var titleClientRect = title.getBoundingClientRect();

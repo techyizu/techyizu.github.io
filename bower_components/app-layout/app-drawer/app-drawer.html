@@ -45,6 +45,17 @@ Custom property                  | Description                            | Defa
 `--app-drawer-content-container` | Mixin for the drawer content container | {}
 `--app-drawer-scrim-background`  | Background for the scrim               | rgba(0, 0, 0, 0.5)
 
+**NOTE:** If you use `<app-drawer>` with `<app-drawer-layout>` and specify a value for
+`--app-drawer-width`, that value must be accessible by both elements. This can be done by
+defining the value on the `:host` that contains `<app-drawer-layout>` (or `html` if outside
+a shadow root):
+
+```css
+:host {
+  --app-drawer-width: 300px;
+}
+```
+
 @group App Elements
 @element app-drawer
 @demo app-drawer/demo/left-drawer.html Simple Left Drawer
@@ -63,7 +74,7 @@ Custom property                  | Description                            | Defa
 
         visibility: hidden;
 
-        transition: visibility 0.2s ease;
+        transition-property: visibility;
       }
 
       :host([opened]) {
@@ -91,7 +102,6 @@ Custom property                  | Description                            | Defa
         width: var(--app-drawer-width, 256px);
         padding: 120px 0;
 
-        transition: 0.2s ease;
         transition-property: -webkit-transform;
         transition-property: transform;
         -webkit-transform: translate3d(-100%, 0, 0);
@@ -99,10 +109,14 @@ Custom property                  | Description                            | Defa
 
         background-color: #FFF;
 
-        @apply(--app-drawer-content-container);
+        @apply --app-drawer-content-container;
       }
 
-      :host([position=right]) > #contentContainer {
+      #contentContainer[persistent] {
+        width: 100%;
+      }
+
+      #contentContainer[position=right] {
         right: 0;
         left: auto;
 
@@ -110,7 +124,7 @@ Custom property                  | Description                            | Defa
         transform: translate3d(100%, 0, 0);
       }
 
-      :host([swipe-open]) > #contentContainer::after {
+      #contentContainer[swipe-open]::after {
         position: fixed;
         top: 0;
         bottom: 0;
@@ -123,12 +137,12 @@ Custom property                  | Description                            | Defa
         content: '';
       }
 
-      :host([swipe-open][position=right]) > #contentContainer::after {
+      #contentContainer[swipe-open][position=right]::after {
         right: 100%;
         left: auto;
       }
 
-      :host([opened]) > #contentContainer {
+      #contentContainer[opened] {
         -webkit-transform: translate3d(0, 0, 0);
         transform: translate3d(0, 0, 0);
       }
@@ -140,7 +154,7 @@ Custom property                  | Description                            | Defa
         bottom: 0;
         left: 0;
 
-        transition: opacity 0.2s ease;
+        transition-property: opacity;
         -webkit-transform: translateZ(0);
         transform:  translateZ(0);
 
@@ -148,25 +162,22 @@ Custom property                  | Description                            | Defa
         background: var(--app-drawer-scrim-background, rgba(0, 0, 0, 0.5));
       }
 
-      :host([opened]) > #scrim {
+      #scrim.visible {
         opacity: 1;
       }
 
-      :host([opened][persistent]) > #scrim {
-        visibility: hidden;
-        /**
-         * NOTE(keanulee): Keep both opacity: 0 and visibility: hidden to prevent the
-         * scrim from showing when toggling between closed and opened/persistent.
-         */
-
-        opacity: 0;
+      :host([no-transition]) #contentContainer {
+        transition-property: none;
       }
     </style>
 
-    <div id="scrim" on-tap="close"></div>
+    <div id="scrim" on-click="close"></div>
 
-    <div id="contentContainer">
-      <content></content>
+    <!-- HACK(keanulee): Bind attributes here (in addition to :host) for styling to workaround Safari
+    bug. https://bugs.webkit.org/show_bug.cgi?id=170762 -->
+    <div id="contentContainer" opened$="[[opened]]" persistent$="[[persistent]]"
+        position$="[[position]]" swipe-open$="[[swipeOpen]]">
+      <slot></slot>
     </div>
   </template>
 
@@ -196,6 +207,14 @@ Custom property                  | Description                            | Defa
         },
 
         /**
+         * The transition duration of the drawer in milliseconds.
+         */
+        transitionDuration: {
+          type: Number,
+          value: 200
+        },
+
+        /**
          * The alignment of the drawer on the screen ('left', 'right', 'start' or 'end').
          * 'start' computes to left and 'end' to right in LTR layout and vice versa in RTL
          * layout.
@@ -211,7 +230,6 @@ Custom property                  | Description                            | Defa
         position: {
           type: String,
           readOnly: true,
-          value: 'left',
           reflectToAttribute: true
         },
 
@@ -230,12 +248,22 @@ Custom property                  | Description                            | Defa
         noFocusTrap: {
           type: Boolean,
           value: false
+        },
+
+        /**
+         * Disables swiping on the drawer.
+         */
+        disableSwipe: {
+          type: Boolean,
+          value: false
         }
       },
 
       observers: [
-        'resetLayout(position)',
-        '_resetPosition(align, isAttached)'
+        'resetLayout(position, isAttached)',
+        '_resetPosition(align, isAttached)',
+        '_styleTransitionDuration(transitionDuration)',
+        '_openedPersistentChanged(opened, persistent)'
       ],
 
       _translateOffset: 0,
@@ -250,27 +278,17 @@ Custom property                  | Description                            | Defa
 
       _lastTabStop: null,
 
-      ready: function() {
-        // Set the scroll direction so you can vertically scroll inside the drawer.
-        this.setScrollDirection('y');
-
-        // Only transition the drawer after its first render (e.g. app-drawer-layout
-        // may need to set the initial opened state which should not be transitioned).
-        this._setTransitionDuration('0s');
-      },
-
       attached: function() {
-        // Only transition the drawer after its first render (e.g. app-drawer-layout
-        // may need to set the initial opened state which should not be transitioned).
         Polymer.RenderStatus.afterNextRender(this, function() {
-          this._setTransitionDuration('');
           this._boundEscKeydownHandler = this._escKeydownHandler.bind(this);
-          this._resetDrawerState();
-
-          this.listen(this, 'track', '_track');
-          this.addEventListener('transitionend', this._transitionend.bind(this));
           this.addEventListener('keydown', this._tabKeydownHandler.bind(this))
+
+          // Only listen for horizontal track so you can vertically scroll inside the drawer.
+          this.listen(this, 'track', '_track');
+          this.setScrollDirection('y');
         });
+
+        this.fire('app-reset-layout');
       },
 
       detached: function() {
@@ -304,20 +322,7 @@ Custom property                  | Description                            | Defa
        * @return {number} The width of the drawer in pixels.
        */
       getWidth: function() {
-        return this.$.contentContainer.offsetWidth;
-      },
-
-      /**
-       * Resets the layout. If you changed the size of app-header via CSS
-       * you can notify the changes by either firing the `iron-resize` event
-       * or calling `resetLayout` directly.
-       *
-       * @method resetLayout
-       */
-      resetLayout: function() {
-        this.debounce('_resetLayout', function() {
-          this.fire('app-drawer-reset-layout');
-        }, 1);
+        return this._savedWidth || this.$.contentContainer.offsetWidth;
       },
 
       _isRTL: function() {
@@ -346,7 +351,7 @@ Custom property                  | Description                            | Defa
       },
 
       _track: function(event) {
-        if (this.persistent) {
+        if (this.persistent || this.disableSwipe) {
           return;
         }
 
@@ -369,11 +374,8 @@ Custom property                  | Description                            | Defa
       _trackStart: function(event) {
         this._drawerState = this._DRAWER_STATE.TRACKING;
 
-        // Disable transitions since style attributes will reflect user track events.
-        this._setTransitionDuration('0s');
-        this.style.visibility = 'visible';
-
         var rect = this.$.contentContainer.getBoundingClientRect();
+        this._savedWidth = rect.width;
         if (this.position === 'left') {
           this._translateOffset = rect.left;
         } else {
@@ -381,6 +383,10 @@ Custom property                  | Description                            | Defa
         }
 
         this._trackDetails = [];
+
+        // Disable transitions since style attributes will reflect user track events.
+        this._styleTransitionDuration(0);
+        this.style.visibility = 'visible';
       },
 
       _trackMove: function(event) {
@@ -421,12 +427,13 @@ Custom property                  | Description                            | Defa
           this.opened = this.position === 'left';
         }
 
-        // Trigger app-drawer-transitioned now since there will be no transitionend event.
         if (isInEndState) {
-          this._resetDrawerState();
+          this.debounce('_resetDrawerState', this._resetDrawerState);
+        } else {
+          this.debounce('_resetDrawerState', this._resetDrawerState, this.transitionDuration);
         }
 
-        this._setTransitionDuration('');
+        this._styleTransitionDuration(this.transitionDuration);
         this._resetDrawerTranslate();
         this.style.visibility = '';
       },
@@ -495,36 +502,21 @@ Custom property                  | Description                            | Defa
 
         // Calculate the amount of time needed to finish the transition based on the
         // initial slope of the timing function.
-        this._setTransitionDuration((this._FLING_INITIAL_SLOPE * dx / velocity) + 'ms');
-        this._setTransitionTimingFunction(this._FLING_TIMING_FUNCTION);
+        var t = this._FLING_INITIAL_SLOPE * dx / velocity
+        this._styleTransitionDuration(t);
+        this._styleTransitionTimingFunction(this._FLING_TIMING_FUNCTION);
 
         this._resetDrawerTranslate();
+        this.debounce('_resetDrawerState', this._resetDrawerState, t);
       },
 
-      _transitionend: function(event) {
-        // contentContainer will transition on opened state changed, and scrim will
-        // transition on persistent state changed when opened - these are the
-        // transitions we are interested in.
-        var target = Polymer.dom(event).rootTarget;
-        if (target === this.$.contentContainer || target === this.$.scrim) {
-
-          // If the drawer was flinging, we need to reset the style attributes.
-          if (this._drawerState === this._DRAWER_STATE.FLINGING) {
-            this._setTransitionDuration('');
-            this._setTransitionTimingFunction('');
-            this.style.visibility = '';
-          }
-
-          this._resetDrawerState();
-        }
+      _styleTransitionDuration: function(duration) {
+        this.style.transitionDuration = duration + 'ms';
+        this.$.contentContainer.style.transitionDuration = duration + 'ms';
+        this.$.scrim.style.transitionDuration = duration + 'ms';
       },
 
-      _setTransitionDuration: function(duration) {
-        this.$.contentContainer.style.transitionDuration = duration;
-        this.$.scrim.style.transitionDuration = duration;
-      },
-
-      _setTransitionTimingFunction: function(timingFunction) {
+      _styleTransitionTimingFunction: function(timingFunction) {
         this.$.contentContainer.style.transitionTimingFunction = timingFunction;
         this.$.scrim.style.transitionTimingFunction = timingFunction;
       },
@@ -550,6 +542,16 @@ Custom property                  | Description                            | Defa
 
       _resetDrawerState: function() {
         var oldState = this._drawerState;
+
+        // If the drawer was flinging, we need to reset the style attributes.
+        if (oldState === this._DRAWER_STATE.FLINGING) {
+          this._styleTransitionDuration(this.transitionDuration);
+          this._styleTransitionTimingFunction('');
+          this.style.visibility = '';
+        }
+
+        this._savedWidth = null;
+
         if (this.opened) {
           this._drawerState = this.persistent ?
             this._DRAWER_STATE.OPENED_PERSISTENT : this._DRAWER_STATE.OPENED;
@@ -572,6 +574,15 @@ Custom property                  | Description                            | Defa
             this.fire('app-drawer-transitioned');
           }
         }
+      },
+
+      /**
+       * Resets the layout.
+       *
+       * @method resetLayout
+       */
+      resetLayout: function() {
+        this.fire('app-reset-layout');
       },
 
       _setKeyboardFocusTrap: function() {
@@ -635,6 +646,14 @@ Custom property                  | Description                            | Defa
         }
       },
 
+      _openedPersistentChanged: function(opened, persistent) {
+        this.toggleClass('visible', opened && !persistent, this.$.scrim);
+
+        // Use a debounce timer instead of transitionend since transitionend won't fire when
+        // app-drawer is display: none.
+        this.debounce('_resetDrawerState', this._resetDrawerState, this.transitionDuration);
+      },
+
       _MIN_FLING_THRESHOLD: 0.2,
 
       _MIN_TRANSITION_VELOCITY: 1.2,
@@ -655,7 +674,7 @@ Custom property                  | Description                            | Defa
       /**
        * Fired when the layout of app-drawer has changed.
        *
-       * @event app-drawer-reset-layout
+       * @event app-reset-layout
        */
 
       /**

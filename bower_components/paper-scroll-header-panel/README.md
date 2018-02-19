@@ -17,7 +17,9 @@ thing! https://github.com/PolymerLabs/tedium/issues
 _[Demo and API docs](https://elements.polymer-project.org/elements/paper-scroll-header-panel)_
 
 
-##&lt;paper-scroll-header-panel&gt;
+## &lt;paper-scroll-header-panel&gt;
+
+**This element has been deprecated in favor of [app-layout](https://github.com/PolymerElements/app-layout).**
 
 Material design: [Scrolling techniques](https://www.google.com/design/spec/patterns/scrolling-techniques.html)
 
@@ -34,9 +36,10 @@ Using [layout classes](https://www.polymer-project.org/1.0/docs/migration.html#l
 ```html
 <body class="fullbleed layout vertical">
   <paper-scroll-header-panel class="flex">
-    <paper-toolbar>
+    <paper-toolbar slot="header">
       <div>Hello World!</div>
     </paper-toolbar>
+    <div slot="content">Content goes here...</div>
   </paper-scroll-header-panel>
 </body>
 ```
@@ -56,10 +59,18 @@ paper-scroll-header-panel {
 `paper-scroll-header-panel` works well with `paper-toolbar` but can use any element
 that represents a header by adding a `paper-header` class to it.
 
+Note: If the class `paper-header` is used, the header must be positioned relative or absolute. e.g.
+
+```css
+.paper-header {
+  position: relative;
+}
+```
+
 ```html
 <paper-scroll-header-panel>
-  <div class="paper-header">Header</div>
-  <div>Content goes here...</div>
+  <div class="paper-header" slot="header">Header</div>
+  <div slot="content">Content goes here...</div>
 </paper-scroll-header-panel>
 ```
 
@@ -73,6 +84,15 @@ The following custom properties and mixins are available for styling:
 | --- | --- | --- |
 | --paper-scroll-header-panel-full-header | To change background for toolbar when it is at its full size | {} |
 | --paper-scroll-header-panel-condensed-header | To change the background for toolbar when it is condensed | {} |
-| --paper-scroll-header-container | To override or add container styles | {} |
+| --paper-scroll-header-panel-container | To override or add container styles | {} |
+| --paper-scroll-header-panel-header-container | To override or add header styles | {} |
 
+### Changes in 2.0
 
+Distribution is now done with `slot="header"` and `slot="content"` attributes (previously, `paper-toolbar` or another element with the `.paper-header` class would be distributed as the header, and other elements would be distributed as the content):
+
+    <paper-scroll-header-panel>
+      <div class="paper-header" slot="header">Header</div>
+      <div slot="content">Content goes here...</div>
+    </paper-scroll-header-panel>
+    

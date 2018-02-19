@@ -15,7 +15,7 @@ thing! https://github.com/PolymerLabs/tedium/issues
 [![Build status](https://travis-ci.org/PolymerElements/app-route.svg?branch=master)](https://travis-ci.org/PolymerElements/app-route)
 
 
-##&lt;app-route&gt;
+## &lt;app-route&gt;
 
 `app-route` is an element that enables declarative, self-describing routing
 for a web app.
@@ -89,7 +89,7 @@ the `app-route` will update `route.path`. This in-turn will update the
 
 
 
-##&lt;app-location&gt;
+## &lt;app-location&gt;
 
 `app-location` is an element that provides synchronization between the
 browser location bar and the state of an app. When created, `app-location`
@@ -99,12 +99,12 @@ occur, `app-location` produces and updates an object called `route`. This
 elements.
 
 An example of the public API of a route object that describes the URL
-`https://elements.polymer-project.org/elements/app-route-converter?foo=bar&baz=qux`:
+`https://elements.polymer-project.org/elements/app-location`:
 
 ```css
 {
   prefix: '',
-  path: '/elements/app-route-converter'
+  path: '/elements/app-location'
 }
 ```
 
@@ -138,9 +138,18 @@ There is no standard event that is fired when window.location is modified.
 location. It also listens for that same event, and re-reads the URL when it's
 fired. This makes it very easy to interop with other routing code.
 
+So for example if you want to navigate to `/new_path` imperatively you could
+call `window.location.pushState` or `window.location.replaceState` followed by
+firing a `location-changed` event on `window`. i.e.
+
+```javascript
+window.history.pushState({}, null, '/new_path');
+window.dispatchEvent(new CustomEvent('location-changed'));
+```
 
 
-##&lt;app-route-converter&gt;
+
+## &lt;app-route-converter&gt;
 
 `app-route-converter` provides a means to convert a path and query
 parameters into a route object and vice versa. This produced route object
@@ -198,7 +207,7 @@ turn is consumed by the `app-route`.
 
 
 
-##Polymer.AppRouteConverterBehavior
+## Polymer.AppRouteConverterBehavior
 
 Provides bidirectional mapping between `path` and `queryParams` and a
 app-route compatible `route` object.

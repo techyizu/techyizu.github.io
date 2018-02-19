@@ -4,5 +4,8 @@
   "fragments": [
     "src/my-home.html",
     "src/my-event.html"
-  ]
+  ],
+  "lint": {
+    "rules": ["polymer-2"]
+  }
 }

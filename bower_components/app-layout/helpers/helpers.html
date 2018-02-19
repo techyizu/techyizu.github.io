@@ -11,9 +11,11 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 <link rel="import" href="../../polymer/polymer.html">
 
 <script>
+  /** @namespace */
   Polymer.AppLayout = Polymer.AppLayout || {};
 
-  Polymer.AppLayout._scrollEffects = Polymer.AppLayout._scrollEffects || {};
+  Polymer.AppLayout._scrollEffects = {};
+  Polymer.AppLayout._scrollTimer = null;
 
   Polymer.AppLayout.scrollTimingFunction = function easeOutQuad(t, b, c, d) {
     t /= d;
@@ -32,6 +34,23 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
       throw new Error('effect `'+ effectName + '` is already registered.');
     }
     Polymer.AppLayout._scrollEffects[effectName] = effectDef;
+  };
+
+
+  Polymer.AppLayout.queryAllRoot = function(selector, root) {
+    var queue = [root];
+    var matches = [];
+
+    while (queue.length > 0) {
+      var node = queue.shift();
+      matches.push.apply(matches, node.querySelectorAll(selector));
+      for (var i = 0; node.children[i]; i++) {
+        if (node.children[i].shadowRoot) {
+          queue.push(node.children[i].shadowRoot);
+        }
+      }
+    }
+    return matches;
   };
 
   /**
@@ -97,13 +116,16 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
             scrollTo(scrollLeft, scrollTop);
           }
         }).bind(this);
-        
+
         updateFrame();
       }
 
     } else if (options.behavior === 'silent') {
+      var headers = Polymer.AppLayout.queryAllRoot('app-header', document.body);
 
-      docEl.classList.add(scrollClassName);
+      headers.forEach(function(header) {
+        header.setAttribute('silent-scroll', '');
+      });
 
       // Browsers keep the scroll momentum even if the bottom of the scrolling content
       // was reached. This means that calling scroll({top: 0, behavior: 'silent'}) when
@@ -111,12 +133,16 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
       // This seems to only apply when using document scrolling.
       // Therefore, when should we remove the class from the document element?
 
-      clearInterval(Polymer.AppLayout._scrollTimer);
+      if (Polymer.AppLayout._scrollTimer) {
+        window.cancelAnimationFrame(Polymer.AppLayout._scrollTimer);
+      }
 
-      Polymer.AppLayout._scrollTimer = setTimeout(function() {
-        docEl.classList.remove(scrollClassName);
+      Polymer.AppLayout._scrollTimer = window.requestAnimationFrame(function() {
+        headers.forEach(function(header) {
+          header.removeAttribute('silent-scroll');
+        });
         Polymer.AppLayout._scrollTimer = null;
-      }, 100);
+      });
 
       scrollTo(scrollLeft, scrollTop);
 

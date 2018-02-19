@@ -20,13 +20,14 @@ rate than the foreground.
 
 ```html
 <app-box style="height: 100px;" effects="parallax-background">
-  <img background src="picture.png" style="width: 100%; height: 600px;">
+  <img slot="background" src="picture.png" style="width: 100%; height: 600px;">
 </app-box>
 ```
 
-Notice the `background` attribute in the `img` element; this attribute specifies that that image is used as the background.
-By adding the background to the light dom, you can compose backgrounds that can change dynamically.
-Alternatively, the mixin `--app-box-background-front-layer` allows to style the background. For example:
+Notice the `background` attribute in the `img` element; this attribute specifies that that
+image is used as the background. By adding the background to the light dom, you can compose
+backgrounds that can change dynamically. Alternatively, the mixin `--app-box-background-front-layer`
+allows to style the background. For example:
 
 ```css
   .parallaxAppBox {
@@ -44,11 +45,36 @@ Finally, app-box can have content inside. For example:
 </app-box>
 ```
 
-## Scroll effects
+#### Importing the effects
 
-Effect name | Description
-----------------|-------------
-`parallax-background` | A parallax effect
+To use the scroll effects, you must explicitly import them in addition to `app-box`:
+
+```html
+<link rel="import" href="/bower_components/app-layout/app-scroll-effects/app-scroll-effects.html">
+```
+
+#### List of effects
+
+* **parallax-background**
+A simple parallax effect that vertically translates the backgrounds based on a fraction
+of the scroll position. For example:
+
+```css
+app-header {
+  --app-header-background-front-layer: {
+    background-image: url(...);
+  };
+}
+```
+```html
+<app-header style="height: 300px;" effects="parallax-background">
+  <app-toolbar>App name</app-toolbar>
+</app-header>
+```
+
+The fraction determines how far the background moves relative to the scroll position.
+This value can be assigned via the `scalar` config value and it is typically a value
+between 0 and 1 inclusive. If `scalar=0`, the background doesn't move away from the header.
 
 ## Styling
 
@@ -67,31 +93,24 @@ Mixin | Description | Default
     <style>
       :host {
         position: relative;
-
         display: block;
       }
 
       #background {
-        @apply(--layout-fit);
-
+        @apply --layout-fit;
         overflow: hidden;
-
         height: 100%;
       }
 
       #backgroundFrontLayer {
         min-height: 100%;
-
         pointer-events: none;
-
         background-size: cover;
-
-        @apply(--app-box-background-front-layer);
+        @apply --app-box-background-front-layer;
       }
 
       #contentContainer {
         position: relative;
-
         width: 100%;
         height: 100%;
       }
@@ -104,11 +123,11 @@ Mixin | Description | Default
 
     <div id="background">
       <div id="backgroundFrontLayer">
-        <content select="[background]"></content>
+        <slot name="background"></slot>
       </div>
     </div>
     <div id="contentContainer">
-      <content id="content"></content>
+      <slot></slot>
     </div>
   </template>
 
@@ -136,13 +155,24 @@ Mixin | Description | Default
         this.resetLayout();
       },
 
+      _debounceRaf: function(fn) {
+        var self = this;
+        if (this._raf) {
+          window.cancelAnimationFrame(this._raf);
+        }
+        this._raf = window.requestAnimationFrame(function() {
+          self._raf = null;
+          fn.call(self);
+        });
+      },
+
       /**
        * Resets the layout. This method is automatically called when the element is attached to the DOM.
        *
        * @method resetLayout
        */
       resetLayout: function() {
-        this.debounce('_resetLayout', function() {
+        this._debounceRaf(function() {
           // noop if the box isn't in the rendered tree
           if (this.offsetWidth === 0 && this.offsetHeight === 0) {
             return;
@@ -158,7 +188,7 @@ Mixin | Description | Default
           this._setUpEffect();
           this._updateScrollState(scrollTop);
           this.disabled = savedDisabled;
-        }, 1);
+        });
       },
 
       _getElementTop: function() {
