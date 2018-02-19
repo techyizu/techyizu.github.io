@@ -10,6 +10,7 @@
 <link rel="import" href="../bower_components/paper-styles/typography.html">
 <link rel="import" href="../bower_components/iron-flex-layout/iron-flex-layout.html">
 <link rel="import" href="../bower_components/neon-animation/neon-animatable.html">
+<link rel="import" href="../bower_components/neon-animation/web-animations.html">
 <link rel="import" href="../bower_components/neon-animation/neon-animated-pages.html">
 <link rel="import" href="../bower_components/neon-animation/neon-animatable-behavior.html">
 <link rel="import" href="../bower_components/neon-animation/neon-animation-runner-behavior.html">
@@ -221,9 +222,12 @@
         },
 
         animationConfig: {
-          type: Object,
-          value: function() {
-            return {
+          type: Object
+        }
+      },
+
+      attached: function() {
+        this.animationConfig = this.animationConfig || {
               'entry': [{
                 name: 'slide-from-top-animation',
                 node: this.$.toolbar
@@ -233,9 +237,6 @@
                 type: 'entry'
               }],
             };
-          }
-        }
-
       },
 
       observers: [
