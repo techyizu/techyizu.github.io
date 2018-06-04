@@ -11,7 +11,82 @@
 * **Reload the page if it is not updating!**
 --------------------------------
 
-### Talks start at 1:30 PM
+### Doors open at 10:00 AM
+
+### Talks start at 10:30 AM
+
+## 10:30 
+
+* Room 203 -  
+* Room 204 - 
+* Room 207 - 
+* Room 208 - 
+* Room 209 - 
+* Room 210 - 
+* Room 211 - 
+* Room 212 - 
+* Room 213 - 
+
+## 11:00 
+
+* Room 203 -  
+* Room 204 - 
+* Room 207 - 
+* Room 208 - 
+* Room 209 - 
+* Room 210 - 
+* Room 211 - 
+* Room 212 - 
+* Room 213 - 
+
+## 11:30 
+
+* Room 203 -  
+* Room 204 - 
+* Room 207 - 
+* Room 208 - 
+* Room 209 - 
+* Room 210 - 
+* Room 211 - 
+* Room 212 - 
+* Room 213 - 
+
+## 12:00 
+
+* Room 203 -  
+* Room 204 - 
+* Room 207 - 
+* Room 208 - 
+* Room 209 - 
+* Room 210 - 
+* Room 211 - 
+* Room 212 - 
+* Room 213 - 
+
+
+## 12:30 
+
+* Room 203 -  
+* Room 204 - 
+* Room 207 - 
+* Room 208 - 
+* Room 209 - 
+* Room 210 - 
+* Room 211 - 
+* Room 212 - 
+* Room 213 - 
+
+## 1:00 
+
+* Room 203 -  
+* Room 204 - 
+* Room 207 - 
+* Room 208 - 
+* Room 209 - 
+* Room 210 - 
+* Room 211 - 
+* Room 212 - 
+* Room 213 - 
 
 
 ## 1:30 
