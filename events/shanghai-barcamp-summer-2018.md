@@ -57,14 +57,14 @@ As always, Barcamp is free, and everyone is welcome to come!
 
 Sign up to the event on Meetup: https://www.meetup.com/Techyizu/events/251008723/
 
-地址：  上海黄浦区露香园路柳泉弄一号二楼。
-地铁：  豫园站4号出口, 大世界战
-百度地图： https://j.map.baidu.com/yjTBP
+* 地址：  上海黄浦区露香园路柳泉弄一号二楼。
+* 地铁：  豫园站4号出口, 大世界战
+* 百度地图： https://j.map.baidu.com/yjTBP
 
-Address:  Huangpu District, Luxiangyuan rd, No. 1, Liuquan nong, 2F,  Shanghai.
-Subway:  Yuyuan Station, exit 4.  (also Dashijie)
-Baidu Maps:  https://j.map.baidu.com/yjTBP
-Google Maps:  https://goo.gl/maps/FbfwNQfRrGw
+* Address:  Huangpu District, Luxiangyuan rd, No. 1, Liuquan nong, 2F,  Shanghai.
+* Subway:  Yuyuan Station, exit 4.  (also Dashijie)
+* Baidu Maps:  https://j.map.baidu.com/yjTBP
+* Google Maps:  https://goo.gl/maps/FbfwNQfRrGw
 
 --------------------------------
 
