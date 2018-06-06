@@ -1,10 +1,10 @@
 # Shanghai BarCamp Summer 2018
 
-<img class="hero_hidden" src="/events/images/barcamp_posteronline_oct28_SH-event.jpg" />
+<img class="hero_hidden" src="/events/images/IMG_1461.JPG" />
 
-Shanghai Barcamp will be at People Squared (P2) on **9 June  10:00 AM - 7:00 PM**!
+Shanghai Barcamp will be at People Squared (P2) on **9 June  10:00 AM - 6:00 PM**!
 
-上海Barcamp会在6月9日**上午10点到下午7点**举行！
+上海Barcamp会在6月9日**上午10点到下午6点**举行！
 
 --------------------------------
 
@@ -36,10 +36,36 @@ Barcamps in the past have had lots of exciting talks about all sorts of technolo
 
 **Here are some topics that you'll see at this Shanghai Barcamp:**
 
-* xxxx
+* Consortium Chains - Julian Wu
 
- 
-And many more... 
+* Cryptocurrency and Regulations Around the World - Victor Lee
+
+* Live Coding Music - 黄星
+
+* ReactJS tips and best practices - Luciano Wu
+
+* Robot Operating System - Bohan Lou
+
+* Our virtual future - Alan Stafford
+
+* How I build an event website via Node.js as a JS beginner - Huanry Huang
+
+* Why Dota 2 is the best esport (debate)
+
+* Doing a startup in Dubai (and interesting things about Dubai) - Will Fan
+
+* Working anywhere in the world as a digital nomad entrepreneur - Will Fan
+
+* Fire your HR department - Molly Huang
+
+* Tax breaks for tech firms - Catherine Wang
+
+* 5 Basic things to do to improve your online security - Kevin Chen
+
+* Organization design and culture for startups (discussion)
+
+And many more...
+
 
 如果你想发言你可以在活动当天的上午报道话题。报到此邮箱地址：barcamp@techyizu.org 我们会把你的名字以及演讲题目在我们的网站上宣布。
 
@@ -66,42 +92,13 @@ Sign up to the event on Meetup: https://www.meetup.com/Techyizu/events/251008723
 * Baidu Maps:  https://j.map.baidu.com/yjTBP
 * Google Maps:  https://goo.gl/maps/FbfwNQfRrGw
 
+![](/events/images/P2venue.png)
+
 --------------------------------
 
-
-## 会议主题派对 / Afterparty
-
-![](/events/images/barcamp_posteronline_oct28_SH-afterparty.jpg)
-
-会议结束后,我们回去田子坊 Kaiba 一起举办派对庆祝！
-
-开始时间：晚上8点
-
-?? Not Decided ??
-
-电话：
-
-建国中路169号
-
-地铁9号线打浦桥站
-
-
-And after the talks join us at Kaiba Tianzifang for Barcamp Afterparty.
-
-Start time: 8pm
-
-Kaiba
-
-Tel: +86 21 6418 2252
-
-169 Jianguo Zhong Lu
-
-Metro Station: Da Pu Qiao, line 9
-
+![](/events/images/2018_summer_barcamp_sponsors.png)
 
 ## 上一届Barcamp相关信息 / Previous Barcamp recap
-
-Send us your topics at: info@techyizu.org
 
 ![](/events/images/IMG_5535b-2-980x653.jpg)
 ![](/events/images/IMG_5520b-2-980x653.jpg)
@@ -111,5 +108,4 @@ Send us your topics at: info@techyizu.org
 ![](/events/images/IMG_3616-980x653.jpg)
 
 
-## 感谢我们的赞助商 / Thanks again to the sponsors!
-![](/events/images/barcamp_2016_fall_sponsor_logos.png)
+
