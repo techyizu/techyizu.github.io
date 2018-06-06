@@ -42,6 +42,10 @@ Barcamps in the past have had lots of exciting talks about all sorts of technolo
 
 * Live Coding Music - 黄星
 
+* SEO and Digital Marketing - Alicia V
+
+* Crypto-hardware wallet - Mohammed 
+
 * Robot Operating System - Bohan Lou
 
 * ReactJS tips and best practices - Luciano Wu
@@ -102,7 +106,7 @@ Sign up to the event on Meetup: https://www.meetup.com/Techyizu/events/251008723
 
 --------------------------------
 
-![](/events/images/2018_summer_barcamp_sponsors.png)
+![](/events/images/2018_summer_barcamp_sponsorsv2.png)
 
 ## 上一届Barcamp相关信息 / Previous Barcamp recap
 
