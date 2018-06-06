@@ -42,9 +42,15 @@ Barcamps in the past have had lots of exciting talks about all sorts of technolo
 
 * Live Coding Music - 黄星
 
+* Robot Operating System - Bohan Lou
+
 * ReactJS tips and best practices - Luciano Wu
 
-* Robot Operating System - Bohan Lou
+* Computer vision with OpenCV - Ruud Peters
+
+* C++ to JS - Ricky Ng-Adam
+
+* Server Side Swift with Vapor - William Sun 
 
 * Our virtual future - Alan Stafford
 
